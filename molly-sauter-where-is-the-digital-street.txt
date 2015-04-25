@@ -1,0 +1,134 @@
+Molly Sauter
+@OddLetters
+
+researcher/writer/advocate of the internetz with a z
+<br>
+Hi, I'm Molly. I'm a graduate student in <a href="http://www.mcgill.ca/ahcs/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://www.mcgill.ca/ahcs/', 'Communication Studies']);">Communication Studies</a> at McGill University in Montreal. I spend a lot of time researching cultural and socio-political analyses of technology, hacktivism, internet law and regulation, internet culture, technology in the media, information security, and the philosophy of technology.  I'm a research affiliate the <a href="http://cyber.law.harvard.edu/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://cyber.law.harvard.edu/', 'Berkman Center']);">Berkman Center</a> at Harvard and the <a href="http://civic.mit.edu/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'http://civic.mit.edu/', 'Center for Civic Media']);">Center for Civic Media</a> at MIT, and former intern at the <a href="https://www.eff.org/" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://www.eff.org/', 'EFF']);">EFF</a>.
+
+<br>
+<br>
+<a href="https://twitter.com/OddLetters" onclick="_gaq.push(['_trackEvent', 'outbound-widget', 'https://twitter.com/OddLetters', 'Twitter']);">Twitter</a> is the best way into my brain these days.
+<br>
+<br>
+I also ride a bike.
+ </div>
+
+AP
+    I'd like to wleocme overyone to the latest installment of the MAGIC Speaker series. One of the folks who helps us do this is Evan Sellinger. Thanks to him fo rhelping us do that. WE had a great lunch with Molly on a number of topics that resonate throughout the speaker series this year.
+
+Sellinger
+    I went ot look online, and though I know Molly, I forget where she is even
+a post-doc, because she is still working on her pHD. THe reason we're so
+excited is to push th econversation to where tech/sociology is headed. Molly is
+a triple-trheat. Few know the social theory, and the content knowledge of DDoS
+activism, perhaps no one else knows more about.
+
+
+Molly
+    I'm a 2nd year phD student at McGill. It is just as cold here as it is in MOntreal, which is a nice, same, weather thing...
+
+
+My latest book I'm going to talk to you about it. The book is also available for free on my website. YOu wanna download it and buy a copy sometime in the future, no hard feelings. Anonymous' December Operation Payback was their first exposure to DDoS by activists. Was it terrirism? Was the internet on fire? No one knew. DDoS, repeated requests on webists, had been covered extnsively in 2010, but in a cursory or incorrect way. it opened the door to cvicil disobdience, but was far from the first use. IT has been in use for almost 20 years, zapatista, and trademark disputes.
+
+Place DDoS actions, into a historical and theoretical context in it's potenttial for ehtical pracice. The internet atcts and a central ear of organizing. ONline, people sign petitions, investigate, ampllify, donate, ans show support. As familiar as these tools are, the equivalent practices in the online space, there are rroom for actions like occupations and sitins. Large scale peacable expression.
+
+Elecrohippies, or electonirc distrubance theature, throough action, legitimize this action. This forces disruptive activism into conflict with private property. Freespeach fighitng with corporations. In physical world, acitivsts can take it ot ht estresst, which is protected, like Skoki or DC. There is no "street" on the internet. THis rampant privatization face cahllenges, and the disruptive activities online. The two domains are treated as the same. 
+
+.
+Charges of censorship are often thrown into the mix. "can't you come up with a way to protest that doesn't step on someone's toes?" WE've allowed the corruption of the public sphere and it has none of the protections we expect. There is nowhere online to stand with her friends and her sign. She can set up a dedicated blog, but there is notwhere to stand up to a corporate giant. Collective action becomes collective tresspass.
+
+At it's most basic level, a Distributed Denial of Service Attack prevents communication. Complex or sophisticated tools are not required. A group of people refreshing a page repeatedly for a period of time is a manual version, which did happen to whitehouse.gov in the early 90's.
+
+One automated method, a ping-flood...
+
+Another thing worth mentioning is botnets, which is the only way now, to bring down a well supported corporate site. Instead what you need is either volunteer based, or more commonly, an illicit botnet which you can purchase on the dark net for like $50, which can be extremely effective.
+
+To defend a DDoS is epxensive. It is possible for a participant to spoof IP, and turn it into a big game of whack-a-mole. If across many machines, it can be small amounts of traffic.
+
+Akamai or cloudflare rent server space to corporations that have pooorly estimated how popular they will be, or are targetted by DDoS. Because DDoS is so expensive, ISP's will say "my website, you are very pricey to host..." so you get secondarily denied service after the intiial action.
+
+
+Why did I spend the years writing this book? DDoS let's us talk about disruptive action in the online space. Freedom of speech, property rights, and brings into clarity fo detial, what assembly means online. What it means to assemble a group.
+
+The news media is the modern arbiter of public attention. Whose actions ar worth paying attention to. If the views presented are too far outside mainstream for viewers or advertisers, then those ideas may not be aired or debated in the open.
+
+"Full and free discussion of ideas even we hate..."
+
+an unbroken broadcast of status quo... others have presented interpretations of the first amendment on the right to hear, and the right to be heard. Internet has increased soapboxes, but the audience has not. You can avoid unpopular opinion, and dissenters are being diminished.
+
+This is a complicated process, activists trying to ge tthe attention fo the mainstream. Resorting to extreme tactics in hopes of beign heard. Distruption is part of the modern repetoire of contention. In the physical world, it may look like a sitin. The status quo of the flow of information must be disrupted. It is not he most important in all cases. Disruption.
+
+It is useful to consdier that not all speech is silenced. Disrupted actions that are not accompanied by effective public messaging, risk being misinterpretted or ignored.
+
+
+Policing Protest in the United States, 
+Speech out of doors
+
+1) tradition
+2) designated
+3)  non-public
+4) private property
+
+The traditional, is the most public. Public streets, sidewalks, and parks. Most free.
+private prorperty is most restrictive, owner can limit speech.
+
+Electro-hippies did this around the battle in seattle, attempted to shut down the email server the wto was using to run that meeting. Their action can be seen to reassert the internet as a public forum against private property. This comes into direct conflict with the private/controlled space of the WTO. This struggle for online space, mirrors the physical space where the black block collided with corporate capitalism. They got into lots of fights with cops, that is what that means.
+
+Digitial enable activism, necessitates a physicalized view of th einternet. Websites become static containers, and maintain presnece on the network. This presnece remains non-responsive but branded way, of the down site itself. This is a loccupy informatic structure.
+
+This has a trasnsitory
+
+Destruction, in the case of phyiscal world, and distrutpion in the onlien world. THe available made unavailable. The statements of those at the scene feed into th espectacle. Th hope is that ht epublic is drawn out of passive consumption, into action. DDoS actions or web site defacements, ask why they can't be moved to another space like "http://yourspeechspace.com"
+
+In 2004, a federal judge decribed a domonstration zone as an affront to the first amendment. Symbolic or central to a specific cause (contested places) faciliate messages, and add symbolic value, or connect to specific audiences. Isolated domonstration zones, serverly hamper activists ability to get their message to those most relevant.
+
+The open-airing of dissenting views is to deny democracy, and hamsrings public debate. Temporary disruption would not be possible if you were not access to a website.
+
+This is one of hte ealiest DDoS tools, zapatista plugnet. Electronic Disturbance Theatre. This is specific language, with sceduled actions. from 4pm-6pm, all you gotta do is go to a web based tool, and click on an applet.
+
+Not only do you get the sense as a protester when you bring something down, yo uare also communicating with the target.
+
+LOIC
+If we have time during the qa, I'd like to point out more, but for one, now. you type in the url/ip. you can add a message if you want, and then click "I'ma chargin' my laza"
+Hivemind mode
+    Instead of you sitting at your computer, and following the twitter account that hasn't been shut down, you can leave. It is an installed tool on your computer, and you have given control of your computer to a central IRC Server. This is a voluntary botnet. This allows you to have a life. YOu don't have to be sitting a basement, you can pay attention to all the stuff around you. You can say "I belive in this cause, and you use my computing power how you see fit." This allows peopel to participate, without being part of the anon culture, which can be problematic at times...
+
+
+What is the reaction of this type of activisM? The reaction has not been overly sympathetic. Criminal. Even "Cyberwar." This has major impolications to online protest. Media coverage matters. EDT was repeatedly compared to cyberterrorism and terrorism durin gtheir campaigns. It focused on the spectacle of thie incident. Media convereage typically focuses on the "anti-social" stereotype of hackers. This supports the negative image discrediting DDoS as activism.
+
+Criminal perception fits into actions. In the WTO action in 99, the EH operated in a self-gernated frame. They attempted to apply the fram to their direct action, it was novel.  The distrbiuted dissent was critical. Recongniztion of htis frame was necessary to be viewed as legit activism. They were labelled. They lived in the UK, so they were protected from a lot of US regime nonsense. As a result of the action, the EHC was labelled as "terrorists." We run the risk of using legitimate DDoS.
+
+Other anlysts paid attention. Denning's testimony brings to the fore, a number of roles of the state. Self-identification.
+
+If the online zone is inaccessible.
+
+When the relevant judge is the target of protest, it is in their interest to reclassify.
+A significant case, Liberta.de
+
+Before pleading out, faced 2 counts, each could result in 15 years and 500K
+each. Potential sentences are high compared to other activist actions. Sitins typically result in a charge of trespass. A fine of not more than $100, and not more than 30 days in jail.
+
+DDoS are prosectued under the CFAA. along with other ocmputer crimes, are
+classified as Fraud. Adjustments that involve the number of financial losses,
+and number of victims.
+
+For an individual
+
+Q:  it is not decentralized, it is more centralized. I am a harbinger of doom. i don't have a kluge for that.
+
+
+Contract law is increasingly becoming th eprimary mode of interactoin bwtewen individuals. They were special things. YOu didn't need a contract ot interact with a grocer, or the person who teaches tehir children, or get tehir newspaper. Now you do. To even get your internet to your house, or to use the internet at the library, or the hotel.
+
+Contract law is not intedned to empower you, but lawyers, and people with lawyers. Go watch "Hot Coffee" and learna bout binding arbitration clauses.
+
+
+if oyu guys had to guess, waht do you think the percentage of cases that go to
+criminal court, how many are pled out. Around 95% of cases are pled out!
+Because of specifically in this case, computer crime, but you can talk about
+any in the federal sentencing guidelines.
+
+Joint Sufferable Liability
+
+When you actually plead out, oyu are still responsible for restituion payments,
+which are not even criminal fines. This is a way for corporations to extract
+fees on free speech.
