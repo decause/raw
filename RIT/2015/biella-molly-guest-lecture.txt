@@ -1,40 +1,37 @@
-<h2>Biella:</h2>
+Biella:
 
-<p>
 I was floored for many reasons, that engineers and hackers had reinvented
 the law...
-</p>
 
     This was right about the time I got a fast internet connection. I ended up
     sick for about a year, home, but I was online. By the time I got over
     that, I knew so much about FOSS, and that it should be studied
-    anthropologically. I won't talk much about th ebook, but there is a lot
+    anthropologically. I won't talk much about the book, but there is a lot
     going on in there.
 
 
-    Once I was in that world, i never left. In terms of anonymous, the way I
-    got there was extrememly differen. During my research, i met many peopel
-    who protested the church of scientology. I ignroed it, until i went to
-    UofAlberta, with the large archive of scientology. I felt like Zeno was
-    sending me a message...
+    Once I was in that world, I never left. In terms of anonymousymous, the way I
+    got there was extremely different. During my research, I met many people
+    who protested the church of Scientology. I ignored it, until I went to
+    University of Alberta, with the largest archive of Scientology in North
+    America. I felt like Xenu was sending me a message...
 
 
-    Secret docuemnts were being shared on UseNet, and I started to look a
-    tthat project, but I was secrtive. i was concerned the church would come
-    afte rme like orther journalists and authros, and i was guarded, until
-    anons rose up to troll the church. There was a vamous tom cruise vidoe,
-    adn the church threatened suit if the publishers didn't take it down. Then
-    trolled th eheck out of the chruch, and during that campaign, they made
-    the shfit to activism.
+    Secret documents were being shared on Usenet, and I started to look at
+    that project, but I was secretive. I was concerned the church would come
+    after me like other journalists and authors, and I was guarded, until
+    anonymouss rose up to troll the church. There was a famous Tom Cruise video,
+    and the church threatened suit if the publishers didn't take it down. Then
+    trolled the heck out of the church, and during that campaign, they made
+    the shift to activism.
 
-
-    that is all I'm going to say about the background.
+    That is all I'm going to say about the background.
 
 Molly   
     Anyone heard of The Berkman center at Harvard Law? The reason I got into
     DDoS, I was working for John Zittrain when Operation payback went down.
 
-    News orgs would call and say "Help! What is internet!?!?" What is anon,
+    News orgs would call and say "Help! What is internet!?!?" What is anonymous,
     what is DDoS, what is Wikileaks, everything is on fire... Johnathon said
     "I'll handle Wikileaks, you handle the weird hacker stuff..." It didn't
     stop being interesting for me, it just kept on going. I'm interested in
@@ -42,36 +39,40 @@ Molly
     my thesis on 5 things" and they were like "no, pick one" and I was like
     "Ok, then DDoS!"
 
-    IN 2010, many people thought that this hadn't been done bvefore, but
-    cursory research showed it had. I'm itnerested in disruption in society
-    that believes it is a discursive socieyt. I htink it is really important.
+    IN 2010, many people thought that this hadn't been done before, but
+    cursory research showed it had. I'm interested in disruption in society
+    that believes it is a discursive society. I think it is really important.
 
-    I ahve much info about online security, and freedom and rights, and cyber war policy.
+    I have much info about online security, and freedom and rights, and cyber
+    war policy.
 
 
 Kocsen
-    Given your interest in DDos< hwat is your opinoin of the recent GitHub DDoS?
+    Given your interest in DDos, what is your opinion of the recent GitHub
+    DDoS?
 
 Molly
-    I'm reading alot for my comprehensives right now.
+    I'm reading a lot for my comprehensives right now, which means I can tell
+    you a whole lot about theory, but couldn't tell you what happened in the
+    news last week :P
 
-    Poeple often, one of the most kneejerk responses on DDoS, is "this is
-    censorship." I say, No, this is about power releationships. What is
+    People often, one of the most knee-jerk responses on DDoS, is "this is
+    censorship." I say, No, this is about power relationships. What is
     happening here, is censorship. The state coming in and putting a block.
 
-eIell
-    when activists target paypal or mastercard, they are taking down a blog,
+Biella
+    when activists target PayPal or Mastercard, they are taking down a blog,
     or other place where there isn't much processing. Even if activists give
-    it up, the state will not. it can be used legitimately, and in the book,
+    it up, the state will not. It can be used legitimately, and in the book,
     makes a great case for why.
 
 Molly
-    it is a tactic, amoral. SOme people want to ignore individual actions
+    it is a tactic, amoral. Some people want to ignore individual actions
 
 Amit
-    This is an argument, in liberaian circles, of ideological purity. What
-    molly said about power impolications is essential. Cna erverse racism
-    exist? It is a stupid question in power relations. You ahve to think about
+    This is an argument, in libertarian circles, of ideological purity. What
+    molly said about power implications is essential. Can reverse racism
+    exist? It is a stupid question in power relations. You have to think about
     who has power in a circumstance, and discourse gets muddled. That is huge.
 
 Pharas
@@ -80,16 +81,16 @@ Pharas
     something in that sense, you're saying there is no morality tied to it.
 
 Molly
-    there is no automatic moral judgement, you ahve to look at it in context.
+    there is no automatic moral judgement, you have to look at it in context.
     One example is actually immoral. Basque. In the 90's they were excited
     about blowing stuff up. It was violent, they were super unpopular. There
-    was an ISP that focused on hosting controversial political conent. There
+    was an ISP that focused on hosting controversial political consent. There
     was an action that was condoned by News orgs and others, which they
     backtracked on later. The ISP eventually took down the site, which is
     censorship, and preventing an entity from functioning.
 
-    DDoS'ing the paypal blog, which went down for a couple days? that is not
-    an immoral use. it doesn't prevent paypal from processing credit cards, or
+    DDoS'ing the PayPal blog, which went down for a couple days? That is not
+    an immoral use. It doesn't prevent PayPal from processing credit cards, or
     freezing accounts for no reason. They can still communicate with the
     press. If anything, it is drawing your attention away.
 
@@ -97,80 +98,82 @@ Molly
     morality to tactic, but the analysis of the context around it.
 
 ChrisKnepper
-    I like your point that anons went to activism with Scientology DDoS'es.
-    Whey do yo think that event shifted it to activism?
+    I like your point that anonymouss went to activism with Scientology DDoS'es.
+    Why do yo think that event shifted it to activism?
 
 Biella
-    There are many different layers of answer. My first initial anser, was a
-    culturalist typical anthro answer. There is a politics in controlling
-    transgression, but it is not hospitibal to activism. My first answer is
-    scientology in some ways the perfect nemesis to the geek/hacker world. it
+    There are many different layers of answer. My first initial answer, was a
+    culturalist typical-anthro answer. There is a politics in controlling
+    transgression, but it is not hospitable to activism. My first answer is
+    Scientology in some ways the perfect nemesis to the geek/hacker world. It
     is a religion of technology that doesn't work, and science that is science
     fiction. A hackers worst nightmare would be "honey, I'm going to be a
-    scientologists." Hackers are anti-proprietary, scientology is very
+    Scientologists." Hackers are anti-proprietary, Scientology is very
     proprietary. Scientology has the "one" technology, which is very rigid.
 
     Yeah, you have trolls confronting their perfect nemesis. They organized
     street protests, and how they did that is a fascination story. It had to
-    do with a viral video, but it was humoarious and compelling.
+    do with a viral video, but it was humorous and compelling.
     Ex-Scientologists reached out too.
 
-    Anon, which had become activist would ONLY protest scientology, but now,
-    it is *any* political purpose.
+    Anonymous, which had become activist would ONLY protest Scientology, but
+    now, it is *any* political purpose.
 
 Molly
     Scientology is actually bad and evil. They cause badness to happen, and
-    have a net negative effect on the universe. if we are going ot protest
+    have a net negative effect on the universe. If we are going to protest
     them, then why not cyberbullys?
 
 Biella
     For years, then there was the birth of a new network AnonOps, which
-    embraced DDoS and hacking. They came into being somewhat accdidntally.
-    They felt that DDoS was a legitimate way. Therew as a historical moment,
+    embraced DDoS and hacking. They came into being somewhat accidentally.
+    They felt that DDoS was a legitimate way. There was a historical moment,
     aplex boasted they DDoS'd the pirate bay for a client.
 
     The savvy person trying to coral the masses took advantage of the moment.
     A digital direct action win, that cemented the transition.
 
-    Their support of wikileaks in operation payback catapaulted them into th
-    einternational media spotlight.
+    Their support of Wikileaks in operation payback catapulted them into the
+    international media spotlight.
 
-    the final one, one could imgine that the ones that rose up to support
-    wikileads and file sharing, but the global revolutions in 2011, and the
-    arab spring, and occupy, and wisconsin, they got involved in all of it.
+    The final one, one could imagine that the ones that rose up to support
+    Wikileads and file sharing, but the global revolutions in 2011, and the
+    Arab spring, and Occupy, and Wisconsin, they got involved in all of it.
 
 Biella
-    it is an exaggeration to say there are no stable points, but yes, it is
-    not what it was before. It was a group tha t3was fairly stable where
+    It is an exaggeration to say there are no stable points, but yes, it is
+    not what it was before. It was a group that was fairly stable where
     people knew eachother. To see so many different nodes now... there are
-    stable relations betweeen stable groups that are hard to map, which is
-    easy to proliferate because anyone can take th ename.
+    stable relations between stable groups that are hard to map, which is
+    easy to proliferate because anyone can take the name.
 
 Beru
     I always thought of DDoS as utilizing botnets? Are we talking about
-    voluntarily contributing or unknowingly?
+    voluntarily contributing or unknowingly contributing?
 
-    The electronic disturbance theatre, had a zapatista plug net. You clicked
-    the instituion of your choice, and you picked one at the appointed time,
-and you get a "congratualtions" message. That tool was opensourced, and
+Molly
+    The Electronic Disturbance Theatre, had a Zapatista plug net. You clicked
+    the institution of your choice, and you picked one at the appointed time,
+    and you get a "congratulations" message. That tool was opensourced, and
     used by other groups.
 
     It was the 90's, so there were other groups who said "go to
-    whitehouse.gov, and hit refresh for 20 minutes..." With anons now,
-    operation payback on the one had Loic (fucking hivemind mode) and you
+    Whitehouse.gov, and hit refresh for 20 minutes..." With Anonymous now,
+    operation payback on the one had LOIC (fucking Hive Mind mode) and you
     could voluntary participate. That was a way for people to participate.
 
     There were people who "camped" the twitter profiles putting out info. But
-    there were also illicit botnets that did contribute a lot of firepower. in
+    there were also illicit botnets that did contribute a lot of firepower. In
     that case, it wasn't equal, but a diversity.
 
-Molly   I don't htink it is a ethical to use resources that weren't allocated
-voluntarily, but I don't think it is ethical for charities to use their
-donaitons 90% for administrative overhead.
+Molly   
+    I don't think it is a ethical to use resources that weren't allocated
+    voluntarily, but I don't think it is ethical for charities to use their
+    donations 90% for administrative overhead either!
 
 Biella
-    You needded the reosurce to make the action work, but operation mega
-    upload used a different technique. it was based on scripts that made
+    You needed the resource to make the action work, but operation mega
+    upload used a different technique. It was based on scripts that made
     requests that would "stall," and didn't require botnets. Ideally, you'd
     have something that worked effectively, allowing people to participate in
     ethical ways. The botnets were deceptive, but they had to! The tool people
@@ -180,82 +183,82 @@ Biella
 
 Molly
     Electronic Disturbance Theatre came with a long list of caveats. "if you
-    participate, you may get visited by police." THey were very concientus
-    with putting tha tinfo out there.
+    participate, you may get visited by police." They were very conscientious
+    with putting that info out there.
 
-    Anon was much more braodly based than EDT. Many of them were not street
-    activists, and didn't know about all this training. They didn't hav e
-    context, but that doesn't excuse the fact that their tool put people in
-    danger. That is the major ethical lapse. Use of botnets was a mistake of
-    ethical.
+    Anonymous was much more broadly based than EDT. Many of them were not
+    street activists, and didn't know about all this training. They didn't
+    have context, but that doesn't excuse the fact that their tool put people
+    in danger. That is the major ethical lapse. Use of botnets was a mistake
+    of ethical.
 
 h2g2guy
-    There was discussion to make DDoS a legit protest activity. DO you think
+    There was discussion to make DDoS a legit protest activity. Do you think
     the government will ever recognize that?
 
 Molly
     A sit-in is also illegal... but it is recognized socially as a tactic of
-    activism. it is  a "this is what protest 'looks' like" It is a catch and
-    release system. They don't want you to sit where you ar esitting, and they
-    move you. if you are not too much of a dick in the car, you typically
-    don't get charged. Don't take this as permission to go out an dget
-    arrested... the government isn't going to come out and say "ddos is fine"
-    but a legal recognition witihn the processes of the system.
+    activism. It is a "this is what protest 'looks' like" It is a catch and
+    release system. They don't want you to sit where you are sitting, and they
+    move you. If you are not too much of a dick in the car, you typically
+    don't get charged. Don't take this as permission to go out and get
+    arrested... the government isn't going to come out and say "DDoS is fine"
+    but a legal recognition within the processes of the system.
 
-    This won't havppen until we get to a case to go through the course. We're
+    This won't happen until we get to a case to go through the course. We're
     not going to get a federal judge saying "this is acceptable speech under
-    the first emandment" since the paypal settlement. OUr system runs on what
-    happens in the past, and we need tha tot happy first.
+    the first amendment" since the PayPal settlement. Our system runs on what
+    happens in the past, and we need that to happen first.
 
-Biella
-    It is probably not going ot happen unless there is incredible political
-    pressure to change it. The folsk in paypal 14 got off pretty light, but
-    some can't get jobs, legal costs were tremendous... if you look at other
-    arrests, barret brown participated as a journalist, and he was a very
-    colorful character, with many roles. He wanted to get information that
-    hackers got from hacking into things out. He was arrested and charged with
-    13 different counts, including sharing a link in IRC. The link was to a
-    pastebin with stolen credit cards. He got charged with interstate
-    trafficking and credit card fraud. We wasn't using th einformation, but
-    was interested in the infomation in the emilas that stratfor had in their
+Biella 
+    It is probably not going to happen unless there is incredible political
+    pressure to change it. The folks in the PayPal 14 got off pretty light,
+    but some can't get jobs, legal costs were tremendous... if you look at
+    other arrests, Barret Brown participated as a journalist, and he was a
+    very colorful character, with many roles. He wanted to get information
+    that hackers got from hacking into things out. He was arrested and charged
+    with 13 different counts, including sharing a link in IRC. The link was to
+    a pastebin with stolen credit cards. He got charged with interstate
+    trafficking and credit card fraud. We wasn't using the information, but
+    was interested in the information in the emails that Stratfor had in their
     hack. He was facing 100 years, which got whittled down to 3. He threatened
     an FBI agent on Video, which he actually did. Another thing was he hid
-    laptops during a search warrant, don't do that. but the third one, was
+    laptops during a search warrant, don't do that. But the third one, was
     chilling. After the hack, he offered to redact the names, offering to do
-    it responsibly as a journalist. Thta was considered "accessory after the
-    fact." Helping to redact the names was a charge he got convicted for. TH
-    ejudge said "you got too close to th ehackers." He has to be pay over a
+    it responsibly as a journalist. That was considered "accessory after the
+    fact." Helping to redact the names was a charge he got convicted for. The
+    judge said "you got too close to the hackers." He has to pay over a
     million dollar fine, even though he didn't use any of that credit card
     data.
 
-    More of our info will come from whistleblowers, and if you interact, you
+    More of our info will come from whistle-blowers, and if you interact, you
     can get in big trouble. The legal culture does not recognize this.
 
-MOlly
+Molly
     Legal system in US runs on precedent, and plea deals. 90-95% of cases are
-    pled out... the system would be swamped and couldn't function. With barret
-    brown, he was facing 100 years. YOu are faced with laws that are passed,
+    plead out... the system would be swamped and couldn't function. With Barret
+    Brown, he was facing 100 years. You are faced with laws that are passed,
     and instead of judicial arm saying "wow congress, that is a shitty law,
-    let's fix it." Instead you let threats scare poeple out of judicial, we're
+    let's fix it." Instead you let threats scare people out of judicial, we're
     stomping out the immune system of government.
 
 AJman
-    Because of how violent the CCFA, will we ever see it change?
+    will we ever see the CCFA change?
 
 Molly
-    Here's the thing about supreme court test cseas... they show up when the
+    Here's the thing about supreme court test cases... they show up when the
     context is ready. When you have someone fight their way up through the
     federal circuit decision. The right test cases show up, but they won't
-    until someone with enough anger, like weave, will make their life about
+    until someone with enough anger, like Weev, will make their life about
     fucking with the US Government for 5 years.
 
 Biella
     The tough thing is, they keep you in jail here. You can imagine being
     released on bail, and going through it, but here, you are treated like
-    such a criminal right away, it is really difficult.
-    Because of ASW suicide, there was much publiciity. The hacker community is
-    a priviledged community, and compared to other groups gettin gscrewed
-    over, we can imagine it maybe going "the hacker way" but it is tough.
+    such a criminal right away, it is really difficult. Because of Arron
+    Swartz' suicide, there was much publicity. The hacker community is a
+    privileged community, and compared to other groups getting screwed over,
+    we can imagine it maybe going "the hacker way" but it is tough.
 
 Molly
     This is why so many people get angry with folks like Sabu. The undercover
@@ -272,33 +275,34 @@ Pharas
     Judicial review was sort of tacked on after the fact itself.
 
 Molly
-    mybe that is how it started, but not now.
-    My viewpoint is, if you are not the koch brothers, you are being
+    Maybe that is how it started, but that is not how it is now.
+    My viewpoint is, if you are not the Koch brothers, you are being
     systemically moved out of politics, and priced out of the governance of
     your own state and municipality.
 
-    The judicial system helps to protect.
+    The judicial system helps to protect against that.
 
 Pharas
     it's not though
 
 Molly
     Sure, you can go make your own country.
-    What larry lessig is doing, is not working super well though...
+    What Larry Lessig is doing, is not working super well though...
 
-biella  
+Biella  
     Naomi Kleins' book "this changes everything"
-    The situation is so dire, and electorally, it is exgtremely hard. SImply
-    relying on the market to come up with tech soloutions isn't going to work.
-    Some of the most progressive cases in the 60's, came because of the wider
-    political culture. It despends on the culture indepenedent of the
-    government. There must be a vibrant external grassroots initiatives
-    pusshing on the political milieu.
 
-    Tonight, I'm goign to pitch astrid taylor, involved with a group called
-    strike debt. Students who owe loans to Corinthian, are on strike. They are
-    working wtih the dpearmtent of ed, but also doing direct action. It is a
-    good example of how you can work thorugh government, but not thorugh your
+    The situation is so dire, and electorally, it is extremely hard. Simply
+    relying on the market to come up with tech solutions isn't going to work.
+    Some of the most progressive cases in the 60's, came because of the wider
+    political culture. It depends on the culture independent of the
+    government. There must be a vibrant external grassroots initiatives
+    pushing on the political milieu.
+
+    Tonight, I'm going to pitch Astrid Taylor, involved with a group called
+    #Strikedebt. Students who owe loans to Corinthian, are on strike. They are
+    working with the Department of Ed, but also doing direct action. It is a
+    good example of how you can work through government, but not through your
     votes, to affect change.
 
 Molly
@@ -312,23 +316,21 @@ Biella
     In part, when you right a book ;)
 
 Molly
-    I'm a big proponet of "someone is wrogn on the internet."
-    As soon as it can be cited?
+    I'm a big proponent of "someone is wrong on the internet."
+    So, as soon as it can be cited?
 
 Biella
-    it is so weird. wikileaks was a very dramatic actor in the geopoltical
-    stage, then it imploded a bit, and then the news orgs declared wikileaks
+    it is so weird. Wikileaks was a very dramatic actor in the geopolitical
+    stage, then it imploded a bit, and then the news orgs declared Wikileaks
     "dead." We saw this with Snowden!
 
     The news does not like to see things as history, but declare things as
     "over."
-    There are platforms now, thankfully, to push against it. but theorizing
+
+    There are platforms now, thankfully, to push against it. But theorizing
     the present is difficult.
 
 
 Molly
     People were reporting on this like the pentagon papers never happened...
-    that ahistoricity is a hallmark of journalism unfortunately.
-
-
-<hr/>
+    That ahistoricity is a hallmark of journalism unfortunately.
