@@ -1,0 +1,315 @@
+Benjamin Mako Hill
+    FSF board, prof of communication at U washington
+Karen Sandler
+    ED of SFC, Propbono council
+Matthew Garrett
+ginger coons
+    Editor Chief, LibreGraphics
+Zach
+    OSI Board
+Matthew Garrett
+    Security Dev, FSF Board
+
+
+
+
+WElcome to our session oth ehigher proiroty projec tlist. I'm going to try to
+give you a few minutes of background on th eilst, and what it is that we have
+to do. WE're going to talk about this process we have to go through. We're
+going to open it up to questions about process/steps forward, to talk about
+prirorities in the movement, reflected in the list we're creating.
+
+
+The list was created first 1o years ago, to point out, and point mmember of
+community to the most pressing problems we face. Historically, and
+technically, missing pieces, software that was causing a big problem for
+users.
+
+
+The initial ist, had 4:
+    OpenOffice
+    Flash under Free License
+    GNU compiler for Java
+    GNU Classpath
+
+
+Within 18 months of releasing this list, SUN started the process that lead to
+the free version of java. That said, the list over time, became something not
+revised frequently. It was maintained by staff, and sometimes people would
+just add things that would stay for long periods of time. There have been
+quetions about "why is this on/off the list?"
+
+Reality is, the staff, while they have lots of energy/expertise, they don't
+have all the time, and they need th broader community. The board supported a
+process through which a broad number of people across FOSS would be able to
+come together and revise the list going forward. To have an updated and
+proiroty list. WE announced a few months ago of the creation of htis new
+committee. Poeple who are not here: 
+
+Seth Schoen
+Lydia Pincher
+Mike Linksvayer, very involed within creative commons.
+
+
+This group was selected by staff/board, and charged with "telling us what is
+important?"
+
+Even with our broad expertise, we've decided that we needed more input. SO
+we've been collecting an enormous amount of feedback.
+
+So, that has sort of beent he basic process. Now going to pass of to Ginger.
+
+
+Ginger
+    The importance of doing that public call, and the surprising things that
+    wa've discovered. The things that have been importat to the Free Software
+    pbulic. We had 144 responses over 3 months. A few things turned up. Tax
+    software and accounting software. None of us had thought of it, except
+    maybe Karen. A solid 6 people had independently come up with the same
+    idea.
+
+    There was an exciting debate over GNASH. Some people said "Flash is dead"
+    and some said "it needs more work" or said "replace it with shumway" or
+    "html5 does this for us"
+
+    There were lots of lovely disagreements, though they didn't know they
+    were. It is going to be fun to go over these over the ocming monh.s
+
+
+Karen
+    Classifying and thinking abou thtis info, we wanted to make categorties.
+
+    Things that make Free Software available to lots of people. Tech software
+    touches lots of people.
+    Things that are cascading. Enabling users to break the log jam of not
+    using free software.
+    Frontier
+        Going lower and lower into the stack, making sure the bar for freedom
+        is not set too low.
+
+Seth
+    One thing I'm curious to hear about is the role of this list itself in
+    providing resources and motivating things. A greater proportion of
+    software, when the list started, was system software developed in C. The
+    interchangablility of hackers the, was much higher. As the set of things
+    that are on the list have gotten broader, adn the context of conributors
+    along with it.
+
+    I question whether people use or look at this list. Particularly, when
+    skills that are particular.
+
+BMH
+    Many people come to FSF and say "I wanna help improve things, what should
+    I work on?" As the list becomes stale.
+
+Seth
+    It would be great to hear about how you ahve/will use this list.
+
+Zach
+    We went through all the feedback we got, and decided which ones were a
+    good match. We tagged all the emails to look for macro topics that came
+    up. Is this problem universal/cascading/frontier/.... one of those 4
+
+    First one, projects listed currently:
+        Reverse Engineering Projects, which has always been clear by FSF.
+
+    GNASH
+        GNASH is too focused to be a high priority, but to generalized into
+        video/audio on the web
+
+    Free Hardware
+        Coreboot/Libreboot
+
+    SKype-case
+        Replacement for this to help people to communicate over the net.
+
+    Smartphones and FreeOS for Phones
+        one of the top suggestions
+    Everyting Related to Federating/decnetralizing the web
+        moving away from service providers that concentrate content.
+    Other inititatives that we think will be beneficial
+        Outreach programs, ones that get underserved/underrepresented
+        communities into Free Software
+    Government/State
+        Anytime gov requires Proprietary software to do things. citizens when
+        they get
+
+BMH
+    WE're looking to publish the full list by end of April. WE'll all be
+    making blogposts too. WE're going to get feedback today during our
+    "preview" and we plan to revisit each year.
+
+Q:  3D cad software.
+A:  This is something that came up in the public consultation; better 2d cad,
+better 3d cad, and drivers for 3D printers.
+
+Q:  Also revision control for 3d models!
+
+
+BMH
+    The mail list is still open. It may be hard to update this list based on
+    today, but next years's list.
+
+Q:  The HPPL is very egalitarian about listing them, but I've heard RMS
+    emphasize one member of the list, Reverse Engineering. How do you feel
+    about a "highest" priority list of one.
+A:  Someone suggested putting together an "american idol" style contest to
+fill the list.
+
+A:  Seth: The "Holiday Wish List" has been suggested for policies that
+companies/government we wish would make happen.
+
+A:  BMH: Good idea to help 
+Q:  SELinux was supported by someone, wasn't it NASA? (NO, NSA< one vowel off
+;)
+
+Ther eis an organization called 18F at the federal level to help gov
+contribute yes, but doing it at the city/state level that helps states to
+share work in a meaningful way. Going back a few years, we had a lot of states
+writing their own health exchange software, that contractedd with the same
+companies, FRee software could have helped.
+
+The FSF Could work here, but it is more of a policy issue than a technical
+one.
+
+
+Q:  HPPL has a few roles, but the one that stood out to me is for the new to
+the community people who want to work on things that change the world but
+don't know what to do. There are some members of the list where it is clear to
+see the collaboration point. THere is a link to the mailing list on some, but
+others, there is nothing. There are more general projects on the list where
+probably no one is doing anything on them, but we don't konw. It woudl be nice
+if therew as a reference for reach project, even if it is just a ticket. Would
+could start a hosted list. Getting a common point to get people together.
+
+A:  A fifth criteria of "actionable?"
+A:  For charities, for example, some poeple are looking for peopel to tell
+them how to donate to charity. Some peopel who make these lists, more money
+would help. Scientific progress is blocked for example. Making it clear what
+kinds of skills or resources needed would be a great thing to include, and
+also what resources our community can provide.
+
+Q:  My question is s aimsliar nature ot previous quetsion. If you look at this
+list, and you listen to the types of software people are asking for, they ar
+eusually long-standing. CAD software has been an issue forever.... these are
+old problems, which means they are difficult, and require specialized
+knowledge the average contributor doesn' thave. What does the FSF do to
+incentivize (whether publicity, or compensation, or equipment) the tasks.
+
+A:  One thing we can do is a bounty program, and I think it would be a
+horrible idea. Setting fixed amounts of money for pieces of work is a bad idea
+because the amount of money is large, but the amount of work is larger, and
+you don't know how many people you ar ecompeting against, and then introduces
+another initiative to keep your work private so that others won't pull away.
+
+A:  Recognition is something we can do. Someone will be recognized for their
+contirbutions to the community.
+
+A:  Recognition drives many poeple in the Free Software world. Providing
+hardware in the case it is expensive or rare, that makes it harder to make the
+case that it is a high-priority problem. On the whole, figuring out ways to
+develop better functional collaborative communities.
+
+Q:  In eocnomics, there is a concept of pack dependence. So what are you doing
+to avoid going on a locally maximum, but not globally maximum path?
+A: The plan of this committee was to do a first "big" round, and then
+republish the list every year. If we hit a local maxium, we can backtrack.
+
+
+Q:  PJ McDermott. Embedded systems are a nightmare for software freedom. So
+much of the software our lives and society depend on, they are not free. TVs,
+appliances, voting systems, medical devices, automotive braking systsms...
+these are not easy problems to solve, and may not be actionable, but ar every
+important and critical to a free society. There is work on mobile OS's for
+phone's tablets, but it is important to not ignore the other systems.
+
+A:  Embedded devices had not been suggested that much, but we've wanted to
+cover in general, so please send us suggestions.
+
+Q:  Including people from other backgrounds, I'd like to double down on that.
+I noticed that at the beginning of the list, OpenOffice was on the list, but
+LibreOffice is not. It needs to be. Network services are huge, and googledocs,
+and office365 are taking over academia. Making the documents networked for
+collaboration is hugely important.
+
+A:  Big quetsion, we're not yet clear, my personal take, stuff that is in the
+HPPL should be in there to change the status quo. My personal take on
+LibreOffice is absolutely necessary. But LibreOffice is doing a great job, adn
+I think they will make it work on their own.
+
+Q:  An issue taht I think should be addressed is the process of making Free
+Software taht is started nowadays is now on github or bitbucket, and most of
+these platforms are closed, and worse, not federated. If we want to not force
+our devs to use proprietary, we need alternatives.
+
+A:  When we use proprietary tools to build free software, it sends a bad
+message...
+
+
+Q:  All of you, have worked in some way or another on getting people into a
+project. What are you looking for in projects to be listed? What do you think
+should be done to get people from "I think this is important" to "Getting shit
+done."
+
+A:  Diff projects have diff methods. Depends on the project. I love the
+suggestion that projects have an actionable criteria component.
+
+A:  I think it is a good idea, and I want to make a clear description for how
+people can get involved.
+
+A:  WE can tyr to establish a synergy, a clear path for contribution, and
+spreading the culture through advertising. That is more difficult for a
+project htat invites peopel to start from scratch.
+
+A:  Having a paragraph to say "This is how we'd support a project" is
+something that is on us.
+
+A:  Best practices should be a HPP.
+
+Q:  2 issues that I'd like to see discussed more: outreach to people who are
+def not software developers. I'd like to see outreach for artist work, and
+beta testers. These are high priority things to break! It would be nice if
+there was a highlight for projects that have non-develpoer activities.
+
+the other is the outreach proprietary communities, saying "what are the
+high-priority" conversions.
+
+A: User communities to ask what we could do to switch, or developers?
+Q: both
+
+
+Q:  There is a disparity of specificity between the video stuff, and other
+projects.
+A:  This is reflected by revsions over time. There are diff things to
+prioritize over time.
+
+Q:  Connor. There is a benefit that you may not have thought of. Before I
+became a member of the Free Software movement, I was reading about it. "There
+is no replacement for skype?" Finding that on the HPPL was a big benefit.
+"they know this a problem, they don't live under a rock" Part of what I think
+with helping to "know there is a hole", the Free Software Directory doesn't
+want to recommend Proprietary.
+
+the directory is based on a wiki, so if we had another namespace, say
+"non-free" and have those pages semantically linked to their replacements.
+
+A:  Making sure Users know about free software is a HPPL
+
+Q:  Maybe you don't agree on the importance, but so many people use computers
+more when the encounter software that allows them to put notes, evernote and
+onenote, they are blowing up in the productivity community.
+
+
+Q:  You talke da bout best practices, and systematize, Karl Fogel did a
+kickstarter to produce a second edition of his book. Part of that is doing
+case-studies, and the HPPL has some projects that have reached a completion
+stage, and could be great examples of things that have been done. tihnking
+about the lifecycles of HPPL, and visibility when things get checked off the
+list, should be a priority.
+
+A:  If LibreOffice isn't on the list, it isn't because the problem is sovled.
+It' sint'. WE're moreso saying this is "this year's" emphasis.
+
+Q:  I'm an artist who want to contibute to fee culture. Would it make sense to
+have this list for people who need icons/graphics or non-technical.
+

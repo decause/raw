@@ -1,0 +1,95 @@
+MIT Stata Center
+Boston, MA
+
+
+I have a few things to rattle off at the beginning here:
+
+First, silent auction is still ongoing. YOur bid will help you get a good
+deal.
+
+I want to clarify a few of RMS's comments.
+
+There will be more detailed info about Day against DRM dayagainstdrm.org.
+WE've had businesses do sales on DRM-free media. people publishing articles in
+Unison on that day. Please stay tuned.
+
+Mozilla trademark question, the portions that apply to the trademark about...
+
+3rd: I neglected to mention the document  foundation, on March 25th. A unified
+effort for free formats.
+
+Don Robertson will be doing interviews of developers who released under
+GPL/AGPL. This is an extension of a project on http://fsf.org/blog.
+
+
+Tomorrow:
+    Informal lunch meeting for FSF members.
+
+This is a special LibrePlanet, it is our 30th anniversary
+
+(Loud cheering)
+
+WE were founded on 10/4/85, you may have seen the coverage in the New Yorker.
+WE're going to be having some evening events, and sending more details.
+OCt2-3, we'll be having an event in the Boston Area, with speakers and
+celebration. WE'll be encouraging others around the world to celebrate in
+unison, and globally.
+It is an important to think strategically about what the Free Software
+Movement should be doing, and the FSF in specific.
+
+We're going to be making tough decisions about what we should be working on,
+and the issue is huge, so we're going to make decisions about best ways to
+devote time and resources.
+
+We need to think about growing our resources. <!--$1.2M in a year-->
+
+Please keep your contributions and memberships coming, and talk to your
+employers about supporting free software.
+
+Each year we do 2 award.
+
+
+Project for Social Benefit
+    Applying free software or the ideas of the free software movement, to
+    apply to other social causes. Last year, it was the GNOME outreach program
+    for women, now known as Outreachy, that has done a great.
+
+
+    Reglue gives GNU/Linux computers to school-aged children in Texas. They've
+    given over 1000 computers that were going into the wastestream, and they
+    do it with Free Software. It gets them a computer, but it really gets them
+    a computer that empoweres them.
+
+    Please join me in congratulating the reglue project, and Ken Starks.
+
+    Ken:
+        *Plays text-to-speech*
+
+    Ken will present tomo at 10:40am
+
+Advancement of Free Softwar i
+    individual who make contributions in the spirit of Free Software.
+
+    Sebastian Segovnier(SP) Orthunk
+
+    I would like to thank you all, it is a suprise for me. Thanks to my
+    fmailyt. I'd like to say something about healthcare, it is something tha
+    twill benefit from Free Software in the future. I attended an event called
+    Health in France. I've seen private companies who are trying to gather the
+    data on all the patients and make money. We ahve the possiblity to control
+    the health data of patiencts, somethign we shoudl keep in mind. When I've
+    been speaking in Belgium, they are scareda bout ehealth. Theya re scared
+    devices will dehumanize the treatment of patients. I think FreeSoftware
+    is a goo a good solution for this.
+
+    I think there are still a lot of work to do in this area, and I ohpe in
+    the follwing year, we provide more solutions. My software is one that is
+    stargeted to hospitials, but there are many more patiencts, and many more
+    doctors.
+
+
+We're goign to do something a little different, we usually don't open
+nominations till fall, but I think that maybe while I'm here. So we're going
+to nominate people
+
+Award-nominations@gnu.org

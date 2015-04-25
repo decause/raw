@@ -1,0 +1,254 @@
+Libby
+
+Who is really exhausted?
+
+Ready to go to Grendels? I'm going to get more information for that after
+Karen's Talk. I'm so glad that Karen is here to give the closing Keynote for
+hte 3rd year.
+
+She is the ED of SFC, previous ED of Gnome Foundation, and previous in that
+role, won the FSF award for Social Benefit. She has done some amazing work for
+the community. GNOME OPW is now part of SFC as Outreachy.
+
+She o
+
+
+
+
+I odn't hav eto say too much about myslef with that great introduction. These
+are all the projects in the SFC. youprbobaly recognize names, can you hera me?
+
+I'm also on the BoD of the GNOME FOudnation. I'm a lawyer, which I usually
+hide behind the podium when I mention ,but I only do pro-bono work. I
+co-organize the OPW, and this week is our last week to apply for OPW. If you
+know women who are interested in FOSS, feel free to share this with them.
+
+
+I am a cyborg, I have a pacemaker/defribulator, and I know the importance of
+FOSS when I asked for the source for that device, and was told "NO" It was at
+libreplanet when I first shared my personal medical condition, and how that
+brought questions about software freedom and why it is so important.
+
+
+HOw manypeople are new to LIbrePlanet? You should introduce yourself to the
+person next to you who raised their hands!
+
+
+I'm glad there are so many newcomers here, becuase I wasn't sure if I should
+dive right back into the GPL, issues. Since there are many newcomers
+
+
+Im' going to do a quick synopsis of the GPL: the really basic explanation, and
+we often make the mistake of assuming what we are talking about, in many of
+the talks today and yesterdya, i heard it referenced without talking about it.
+So , the GPL is trhe GNU Public LIcense, it is copyleft, and there are
+multiple ones, but this one is the one that the FSF promulgates. THe GPL,
+LGPL, AGPL, serve different roles. People describe the GPL as a consitution.
+
+I can tell you the GPL is a great read. Just because you ar enot a lawyer
+doesn't mean you can't interpret it for yourself.
+
+
+THe title of my talk is "STand up for the GPL"
+
+People really care abou tthe GPL. I care, and most of ht epeople in the room
+really care about copyleft. A sa lwyer in free software, I've been getting
+alot of passionate requests for enforcement over the eyars. Many ideological
+develoerps, who do it because software freedom is something they beleive is
+the right htings. Many of hthem don't want to be identified, and I wonder who
+is going to pull me into a corner at social events.
+
+Lawyers and heads of Open source are sometimes passionately asking me to
+enforce. Their job is to implement foss, but their companies have to give them
+a budget, and take them seriously. If people are not enforcing the licenses,
+then it is hard to show value.... it has REALLY floored me. Those people who
+asked me to do it, they will swear up and down that that convo never happened,
+but it has over the alst 12 years. 
+
+
+some of the most vocal members have been kernel developers. As you konw, the
+kernel named linux is everywhere and in everything. The stats are fascinating,
+and what the kernel stands for in this proposition, is a uniqe thing that
+happens in copyleft. The kernel, as a long standing project, has benefitted so
+greatly from being published under the GPL. It is not a coincidence they have
+so many devs using it for so manyt hings. Linus said that his biggest
+contribution wasn't technical, bu tchoosing the GPL.
+
+
+You think about that, and the amount of moeny that is saved, and how much
+faster products can come to market, it is astounding. Thinking of Mako's slide
+from this morning, you can see those devices. Just because Free Software is in
+everything, it doesn't mean our freedoms are protected. We don't alway shave
+the freedom to modified. Many companies are treating the GPL like the LGPL, or
+not complying.
+
+The conservancy launced the GPL copmliance for devs. WE formed this coaltion
+because we didn't require folks to be public about theirm membership. By going
+anonymous, we had an impressive triumph.
+
+Once upon a time (oct 2011), we found out there wa s aviolation, and it was
+VMWare. We do a lot of enforcement actions, and we usually ahve to be quiet,
+to be as friendly and welcoming as possible. This way, they know they can come
+into compliance as quietly as possible.
+
+This guy, Bradley, he is an amzing person. He has defneded softwar freedom
+tirelessly, and he was ED of SFC at th etime. During the process, they made
+great progress, and after much back and forth, it turned out that on the linux
+kernel, there was a major violation. In 2014, they said they wouldn't comply.
+They came to a different conclusion (you can laugh). we reached out to as many
+ambassadors as they could, to be business friendly an dhelp convince them, but
+they were not successful. WE contacted Christoph Hellwig, 20th of the top 1000
+contributors, and 4th among third party code reviewers.
+
+Til Yaeger, he represeneted Daryll Yulty(SP fail)
+
+They statrted to work for a year to get compliance, and they had a year of
+back and forth to try to get compliance. After all that, they wanted to
+settle, and have an NDA to find out the terms of the settlement... not a
+sincere offer...
+
+
+WE were left with no choice but to sue. WE tried to do everything we could,
+but at the end of th eday, if you aren't willing to go to court, it isn't
+worth having copyleft. This is a really important case. This is the first case
+that involved derrivative works.
+
+WE can say things like "if a license has no teeth, whey would anyone follow
+it" we can talk about codeing being forever free, but if we aren't willing to
+stand up and go to court, it falls apart.
+
+What is interesting, companies have been doing analysis around the derrivate
+works interpreations. Ther is a Greg K H, who says he had private convos in
+dark rooms, and they say, one-on-one, they all agree on the derrivate works
+issue, but no one will say in public. WE need clarity. If the analysis by
+corporations, that hte derrrivative works provisions are not as strong as we
+think they are... then we should know that...
+
+
+#vmwareDTRT
+
+
+TO ont release a derrivate work is to not follow the spirit of the license. WE
+are not asking for much, just do the right thing.
+
+happily, after we launched suit, the statement of support came from the FSF.
+The quote from John floored me:
+
+"The point of the GPL is that no one can claim rights and then kick away the
+ladder"
+
+We had all thse organizations support this kind of action. We had kernel
+develoeprs feel like they could come forward and say they supported the law
+suite. Some had never come out in support of enforcement before, but when they
+saw how hard we worked to NOT file a suit, they decided to step up.
+
+
+The reacion from companies has been interesting. NO companies have made
+statements about the suit, orther than VMWare, who said they are in
+compliance... what is interesting that internal discussion at companies has
+been surprisingly supportive.
+
+"They shoudl read our Open Source 101 materials" anon company
+
+Enforcing the GPL is very political. When I came to conservancy a year ago, I
+htought I owuld be able to get compliance without suit, and put a friendly
+face on it. Bradley was telling me the whole time "you think you can make it
+nice, and ask them nicely, but they simply won't unless they have to" I spent
+a whole year trying to prove him wrong, bu the was right.
+
+WHile lots of the reaction is mostly positive, we've had one funder threaten
+to pull funding from SFC because of htis action. It has been very interesting
+to find that out first had. SFC is only 3.25 employees. Most of our activities
+are supporting the over 30 FOSS projects. WE host Outreachy, and we have lots
+of things we do, and we keep doing enforcement because it is the backbone of
+the GPL.
+
+WE launched a fundraiser, and got an anon 50K match, and we're 83% of that
+match. We've had over 1000 donations, and that is a lot of people who care
+abou tthe GPL. WE need your help as advocates, we need you to help explain why
+copyleft matters. Most importantly, seeing a public swell of support for
+GPL/Copyleft could influence the suit itself. It escalates the issue to one of
+public importance. We don't wnat to bring litigation, or go to court, we want
+compliance. WE lauchned copyleft.org with guides of information about the GPL,
+and it is itslef COpyleft, so please contribute and make improvements. Even
+helping us with typos, and questions for things that don't make sense helps
+us. We wanted a living document, that all people can contribute to. One things
+we added was an analyss of a pristine source cnaddat, and the think penguin
+wireless router. We had a product that we were able to demonstrate our
+analysis. It means that industry lawyers who are concerned with what we look
+at, can see, and that will help them.
+
+
+We filed suit,a nd it launced with fanfare, bu twe hav ea long road to go. ONe
+suit in germany won't make all companies come into complaicne tomorrow. WE're
+going to do it together, OK? I would say that you ahve al ot of power in this.
+RMS said that software freedom is political. YOu can go into your children's
+schools, for example. It can be exhausing to talk basic issues, but it is
+worth it. Blog. Talk about it. On the internet. Help me, stand up for the GNU
+GPL, we can do it together.
+ 
+We can apprecaite your help and input. Any quetions?
+
+I was astounded by how much develoeprs knew about legal issues an licenses,
+sometimes more than me. Ther eis no magic in being a lawyer. I have a legal
+degree, I went to lawschool, and a license, but that dosn't mean I have
+magical konwledge that other people cannot get themselves. Start with the
+summary materials, but dive into the licenses. Much of the legal udnerstanding
+in the field was surmised orignally by making guesses. WHich is why our case
+now is so important, it would bring clarity. mayb ewe'll have some more info
+after this.
+
+You said some people get upset when you do GPL enforcement. YOu are involved
+in FOSS, and somehow, they odn't like about enforcement. What are some of the
+kinds of motivations, why would poeple say that?
+
+A: Company reps who put pressure on us not to suport. Many say "I peronslly
+really support compliance and enforcemnt, but "THOS GUYS" upstairs think it is
+bad for business" for a long time, the argument was we would chill adoption,
+and that it would scare away customers, things like that. I think that what
+we've seen, since we've had those warnings, none of those suits have curbed
+any adoptoin. but. we've seen companies pressuring developers to choose
+yielding and permissive liecnes, which I htink is dtermental for companies,
+and individual devs.
+
+Q:  I hoe this suit succeeeds, mostly so that the collective glare of devs
+across the world. Then there is a precedent set, and no one can ever question
+it again, right?
+
+A:  Well, this is in Germany, and on a specific kinds of  derrivate works.
+There are many jurisdictions, and many ways companes are violating the GPL.
+Thi sis a good case to bring, but documents in Germany by default are not
+public by default. We home VMWare will disclose the complaint. We think this
+is going to take a long time.
+
+Q:  You amy have answered this, is there a chance of losing the case?
+A:  IN any litigation, there is always a chance of losing. The SFC is
+supporting Hellwig. What if we lose? WE know. A bad outcome in this case is
+ultimately good. We know how the license will interpretted in Germany. We'll
+have to take the case in other jurisdictions. Even if a bad outcome in htis
+case, we can go to other places.
+
+
+Q:  IN a practical sense, if you win, what source code will VMWare be required
+to release to come into compliance. Is it just a shim, or their entire biz
+product. I recommend looking at the website, where you you can find a diagram.
+I hope it is 
+
+Q:  Since not every company supports this, has SFC lost any sponsorship over
+this?
+A:  Taking this action makes it harder for us to do corporate fundraising.
+Everyone here should become a supporter, and an FSF member. The work we are
+doing is in the interest of the public, and we need that support from
+individuals. We can't keep going without individuals.
+
+
+Libby: Super important. First thing I want to do is announce the lulzbot mini
+silent auction. Thanks everyone for the bids.
+
+A few last minute announces. Having a computer issue here...
+
+
+it takes a ton of people to make LibrePlanet happen every year. Whether you
+are here in person contributing in that way, volunteering your time over the
+last few months. We have over 50 volunteers. Thanks to all the people who work
+on staff at the FSF.
