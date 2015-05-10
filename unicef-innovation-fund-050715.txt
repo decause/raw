@@ -3,26 +3,34 @@ UNICEF
 05/07/15
 
 
-Hi everybody
+Chis Fabian
+    <p>Hi everybody!</p>
 
-Thank you for joining us. It is great to have a triple-y sold out event.
-
-
-My name is Chris Fabian, I co-lead innovation unit. We're joined by colleagues
-from our Regional labs.
+    <p>Thank you for joining us. It is great to have a triple-y sold out event.</p>
 
 
-Our Executive Director, Tony Lake, on a discussion.
+    <P>
+    My name is Chris Fabian, I co-lead innovation unit. We're joined by
+    colleagues from our Regional labs.
+    </P>
+
+
+    <P>
+    Our Executive Director, Tony Lake, on a discussion.
+    </P>
 
 
 Tony
-    What a difference it is already making!
+    <p>What a difference it is already making!</p>
 
-    I took off my necktie, expecting to become cool, but not so much ;)
+    <p>I took off my necktie, expecting to become cool, but not so much ;)</p>
 
+    <p>
     We're celebrating here, not only innovations, but the <em>results</em> of
     the innovations.
+    </p>
 
+    <p>
     In terms of meeting the purposes of why we emphasize it; reaching
     disadvantaged children. The results are starting to come in in Uganda, so
     far, almost 1.5M who's births have been registered. Thanks to Shirad(sp),
@@ -31,14 +39,20 @@ Tony
     reporting now. It has huge implications in allowing youth to report. The
     development community then doesn't tell them, they tell the development
     community, democratizing development in ways we haven't been before.
+    </p>
 
+    <p>
     Innovations help us find if textbooks, in EDUtrac. Toilets, and teachers,
     whether they are working (both) *laughs*.
+    </p>
 
+    <p>
     Including kids in geographic areas, disabilities, indigenous areas, and I
     could go on and on.
+    </p>
 
 
+    <p>
     The global innovation center, and innovation fund are at the heart of
     this. They will help us reach many more. The center in Nairobi, will be a
     center where we can risk failure--something I will come back to later--and
@@ -47,22 +61,33 @@ Tony
     is the beginning of the stream. As we incubate and scale things, the fund
     helps. Then the center helps again to connect different groups and
     countries.
+    </p>
 
+    <p>
     It all works hand-in-hand. The founding members, the Government of
     Denmark, and Disney/Lucas Films.
+    </p>
 
+    <p>
     All of you are part of this. All of you are cool. All of you are making a
     difference. You won't know which kids you will have helped, but you should
     know there are hundreds of thousands and Millions of kids you are helping.
+    </p>
 
 
+    <p>
     I have a list of questions here, and you each have 2 minutes. Let me
     begin--we have people with first-hand experience. Caroline Berevra(sp),
     we've had some interesting talks already.
+    </p>
 
+    <p>
     Q: Why are youth partnerships so important, what impact can they have?
+    </p>
 
 Caroline
+
+    <p>
     A: Activists. When we talk about 700K reporters in 14 countries. We're not
     just talking about reporters, but individuals. At 15, I participated in the
     UN general assembly session on children. It helped make me the person I am
@@ -72,20 +97,28 @@ Caroline
     experience was access to info. During Ebola, he got info that was
     life-changing via SMS. The potential is enormous... you can ignore 10, or
     100 kids, but a billion, you cannot.
+    </p>
 
 Tony
+
+    <P>
     There was an emphasis on how we worked with partners. I'd be curious as to
     why you supported the center?
+    </P>
 
 
 Korea(name)
+
+    <P>
     I'm happy to be here representing the public sector in republic of Korea.
     As you know, Korea's success story is a story of innovation by education,
     and by entrepreneurship. This is an example of what investing in next
     generation is. We are talking about post 2015 development. Global
     sustainable development goal will be announced in September. Dignity, and
     Justice are part of that.
+    </P>
 
+    <P>
     Creating solidarity, we surcharge $1 for every plane ticket from Korea to
     overseas, which can be a resource to help other countries, and brings in
     about $15M/year. Samsung, and other electronics companies, will support
@@ -95,40 +128,55 @@ Korea(name)
     education. There is a saying that You can count the seeds in an apple, but
     you cannot count the apples in a seed. We're hoping to build 10's of
     millions of apples in the future.
+    </P>
 
+    <P>
     Public/private/media, all will benefit. This is what this global center is
     about.
+    </P>
 
 Tony
-    what we do with Children today will decide fate of SDGs.
+    <p>what we do with Children today will decide fate of SDGs.</p>
 
-Data Science within Mexico presidency's office.
+    <p>Data Science within Mexico presidency's office.</p>
 
-Q: Why is real-time data so important?
-A: Generating public policy is slow and costly. Policy that works is harder.
-IT is hard for governments to implement policy. It is sometimes because of
-lack of information, and ability to test out if it is working. We may be
-perpetrating policy that doesn't work, you don't know until many years after
-it has happened. Real-time data is what we can do.
+    <p>Q: Why is real-time data so important?</p>
 
-We can focus to analyze a situation more concisely. We can see and implement a
-decision. After you implement, you can see how it works. If it is working, you
-can improve and scale it up.
+    <P>
+    A: Generating public policy is slow and costly. Policy that works is harder.
+    IT is hard for governments to implement policy. It is sometimes because of
+    lack of information, and ability to test out if it is working. We may be
+    perpetrating policy that doesn't work, you don't know until many years after
+    it has happened. Real-time data is what we can do.
+    </P>
 
-In the case of maternal mortality rates, it is hard to tackle because we don't
-see the data as it is happening. When we get the data, it is too late. With
-RapidPro. We can see the most vulnerable and at risk women. We can get data,
-and be there as the problem arises, before it is too late. This is a problem
-that plagues Mexico,and the rest of the world.
+    <P>
+    We can focus to analyze a situation more concisely. We can see and implement a
+    decision. After you implement, you can see how it works. If it is working, you
+    can improve and scale it up.
+    </P>
+
+    <P>
+    In the case of maternal mortality rates, it is hard to tackle because we don't
+    see the data as it is happening. When we get the data, it is too late. With
+    RapidPro. We can see the most vulnerable and at risk women. We can get data,
+    and be there as the problem arises, before it is too late. This is a problem
+    that plagues Mexico,and the rest of the world.
+    </P>
 
 
 Tony
+
+    <P>
     You can't manage innovations unless you get real-time info on what is
     working or isn't. Good point.
+    </P>
 
-    David Morley, Rajesh Ananden(sp). Realtime is at the heart of our innovations.
+    <p>David Morley, Rajesh Ananden(sp). Realtime is at the heart of our innovations.</p>
 
-Q: Why are you taking the lead, with the UK, on support for these efforts?
+<p>Q: Why are you taking the lead, with the UK, on support for these efforts?</p>
+
+<p>
 A: Canadian committee believes so much that all the gains made in the last
 generation, we're in the middle of a child survival revolution. To keep them
 moving, we have to find new ways. I've heard you say many times "we've done
@@ -138,62 +186,75 @@ fortunate to see them working. You mentioned birth registration, I was in
 Uganda, and saw the electronic registration taking place. I was convinced
 beyond, when a father was there getting registered for his passport for
 protection. "My daughter's name is Gift..." he said.
+</p>
 
 
+<p>
 As the US fund, we're here thanks to our partners that believe in this work,
-at the Walt Disney company. Because of their belief in creativity in every
-child. Thanks to GE and Phizer, who fund many projects. Thanks to Google who
-believe in the power of information in the hands of all of us. From silicon
-valley to silicon alley, they've turned artisans into retailers, and drivers
-into taxi services. That is what UNICEF innovation is doing. We've turned
-volunteers into supply chain managers. We've taken rural Ugandan, who has a
-feature phone, and turned them into an agent of change to abolish corporal
-punishments. That is the privilege we get to be a part of that.
+   at the Walt Disney company. Because of their belief in creativity in every
+   child. Thanks to GE and Phizer, who fund many projects. Thanks to Google who
+   believe in the power of information in the hands of all of us. From silicon
+   valley to silicon alley, they've turned artisans into retailers, and drivers
+   into taxi services. That is what UNICEF innovation is doing. We've turned
+   volunteers into supply chain managers. We've taken rural Ugandan, who has a
+   feature phone, and turned them into an agent of change to abolish corporal
+   punishments. That is the privilege we get to be a part of that.
+   </p>
 
 
-Q: If you are going to be an entrepreneur, if you are going to be the first
-Woman CEO in Afghanistan , you are taking a risk. One answer we got was, the
-problem of the culture in the UN, which isn't risk taking. I'm curious what
-you've learned, and how you manage risk?
+   <p>
+   Q: If you are going to be an entrepreneur, if you are going to be the first
+   Woman CEO in Afghanistan , you are taking a risk. One answer we got was, the
+   problem of the culture in the UN, which isn't risk taking. I'm curious what
+   you've learned, and how you manage risk?
+   </p>
 
-A: Conflict is still happening. The government is not influenced by entirety
-of country. Security and insurance are a measures of the problem. There can be
-dangers that destroy businesses. Risks are sometimes in the category. The
-software of the Afgan businesses are not ready for the changes. I started my
-business to get new technology into the country. I faced problems with
-conservative people. I changed my business, and started using social media.
-That changed my personal/business life, and we need these tools to empower
-other women. We connected over 55K students. They learned about IT, and became
-digital citizens. They are not thinking about gender/color, they don't need a
-visa, they can be connected, an communicate. Risk allowed us to find other
-innovation. We have ll the business that has to be aware of, they can be
-prepared. They can take action appropriately after that.
+   <p>
+   A: Conflict is still happening. The government is not influenced by entirety
+   of country. Security and insurance are a measures of the problem. There can be
+   dangers that destroy businesses. Risks are sometimes in the category. The
+   software of the Afgan businesses are not ready for the changes. I started my
+   business to get new technology into the country. I faced problems with
+   conservative people. I changed my business, and started using social media.
+   That changed my personal/business life, and we need these tools to empower
+   other women. We connected over 55K students. They learned about IT, and became
+   digital citizens. They are not thinking about gender/color, they don't need a
+   visa, they can be connected, an communicate. Risk allowed us to find other
+   innovation. We have ll the business that has to be aware of, they can be
+   prepared. They can take action appropriately after that.
+   </p>
 
 Tony
-    A great illustration of the multiplier effect.
 
-Q:  Phillips foundation/UNICEF UK. You were core sponsors. What led you to be
-    among them?
+    <p>A great illustration of the multiplier effect.</p>
+
+<p>Q:  Phillips foundation/UNICEF UK. You were core sponsors. What led you to
+       be among them?</p>
 
 UK
-    Thanks for the opportunity, it was obvious to us. We're 120 year old
-    company, you may know us for CDs and TVs. But we were lighting up the
-    forbidden city, and we're in Beijing with X-ray machines. We have the most
-    sophisticated non-invasive diagnostic tools. We have portable ultrasounds
-    in Africa. I would say I have the best job in Philips, where I get to
-    harness these innovations. This is an opportunity to be innovative,
-    impactful, and caring.
+
+    <P>Thanks for the opportunity, it was obvious to us. We're 120 year
+    old company, you may know us for CDs and TVs. But we were lighting up
+    the forbidden city, and we're in Beijing with X-ray machines. We have
+    the most sophisticated non-invasive diagnostic tools. We have portable
+    ultrasounds in Africa. I would say I have the best job in Philips,
+    where I get to harness these innovations. This is an opportunity to be
+    innovative, impactful, and caring.</P>
 
 
 David
+
+    <p>
     It's great to be here on UK election Day. The polls close in about 20
     mins. I'm missing the buzz of that, because I believe deeply in this--the
     power of innovation to make a difference in the lives of children. UNICEF
     has been at the forefront for decades. When I first started 16 years ago,
     I asked one of my colleagues, how does it work? 
+    </p>
 
     <blockqoute>Innovate, Demonstrate, replicate, advocate.</blockqoute> 
 
+    <p>
     I've followed that ever since. You can't do it just once, you gotta do it
     all the time. When I heard, I jumped at the chance. I want to be at the
     heart of it. In UNICEF UK, it is part of our culture, and why we are
@@ -202,11 +263,15 @@ David
     Germany. We've been at the forefront of mobile fundraising. RapidFTR is
     amazing tool to help children to reunite in difficult humanitarian
     situations.
+    </p>
+
+    <p>
     Fundraising innovation, we've been looking hard at how to harness the
     carbon market to get access to energy. There are many ways we can look for
     ways to finance the coming development goals. We're keen to bring new
     partners to the table, so we can have 20 people on this stage, helping to
     help children.
+    </p>
 
 
 Tony
