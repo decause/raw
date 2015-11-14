@@ -1,0 +1,860 @@
+Saturday, October 3rd, 2015, 10:00 - 17:00
+
+Lesley University, University Hall, 1815 Massachusetts Avenue, Cambridge, MA, a short walk from the Porter Square Red Line stop, and ADA accessible
+
+Volunteer or Sponsor | Can't make it to Boston? | Safe Space Policy | Where to stay in Boston
+
+Join the Free Software Foundation and friends in Boston, MA to celebrate the culmination of our 30th year fighting for computer user freedom, powered by supporters like you. The User Freedom Summit includes two tracks of two sessions each, with a closing talk by Eben Moglen.
+Getting there
+
+The Summit takes place at Lesley University's University Hall, 1815 Massachusetts Avenue, Cambridge. University Hall is 450 feet from the Porter Square Red Line station.
+
+If you take the T, simply exit the station to the left-side doors -- you'll be on Massachusetts Avenue. Without crossing the street, turn left and walk down Massachusetts Avenue -- the building is on your left. Take the second entrance and the stairs to the second floor will be straight ahead, with elevators just to the right of the stairs. Follow signs to the atrium.
+
+If you drive, there is metered street parking in the area, and a fee-based parking lot in the back of the building, accessible from Roseland Street, which is off Beacon Street.
+
+More on the Summit
+
+In the atrium, get information from FSF staff and volunteers, buy an FSF30 t-shirt, a copy of the new edition of Free Software, Free Society, or other FSF merchandise, and help yourself to refreshments before the first session begins. Admission to the Summit is gratis, but a $30 donation to help ensure our next 30 years would be appreciated.
+
+There will be a break for lunch -- Porter Square has many affordable lunch options, including a food court on the first floor of University Hall (it's largely cash only, and there is an ATM in the building).
+
+If you're heading from the User Freedom Summit to the party, you have two hours between events -- it's the perfect time to go to dinner with free software friends!
+
+Register
+
+Schedule
+
+10:00–12:15: Two sessions
+Community Licensing Education & Outreach
+
+Our work in free software is motivated by the idealistic goals of spreading freedom and cooperation. Strong copyleft licenses like the GNU General Public License (GPL) allow us to spread this freedom and cooperation by ensuring that our software only to be distributed as part of free software programs, and not as part of proprietary ones. However, this only works if we, as a community, know how to properly license our code and understand how licensing compliance works. This is why community driven licensing and compliance education and outreach is so important. Join the FSF's Licensing & Compliance Team along with Karen Sandler of the Software Freedom Conservancy for a brief intro to our work in free software education and outreach, followed by a community hacking and editing session on copyleft.org: a collaborative project to create and disseminate useful information, tutorial material, and new policy ideas regarding all forms of copyleft licensing.
+Introduction to federation
+
+This session is an introduction to decentralization on the web, and why it is important for freedom, democracy, and a non-Orwellian future.
+13:35–15:50: Two sessions
+Dip a toe in crypto
+
+Encryption is one of the free software community's most widely recognized contributions -- it's personally empowering, technically fascinating, and a major political battleground in the struggle for computer user freedom.
+
+This session, led by FSF campaigns manager Zak Rogoff, will start with an intro to crypto presentation and a facilitated discussion combining technological and social perspectives. We'll also save ample time for a workshop introduction to GnuPG email encryption based on the FSF's Email Self-Defense Guide. This is a beginner-friendly session, but experienced people are welcome, especially if they're comfortable helping newcomers.
+
+If you're excited about a particular free crypto tool other than GnuPG, please reach out to campaigns@fsf.org. We'll talk about working it into the session or creating a breakout group.
+
+You'll get the most out of this session if you can bring a WiFi-enabled laptop and a trustworthy form of ID (for validating your crypto key). If you can bring a flash drive, that's appreciated too.
+
+Using a nonfree OS? You're still welcome to the session. We'd love to provide resources for switching to GNU/Linux, but unfortunately won't have time to install a new OS during this session.
+Libreboot: A talk and demonstration
+
+Libreboot is a free software BIOS/UEFI replacement for general purpose computers, including laptops and servers/workstations, and based on coreboot. The purpose of this session is to talk about the history of libreboot, why it was started, why libreboot is important and how it could benefit you. Further, the goal of this session is to show people how libreboot works, how it's developed, and show ways in which people can get involved with the project. There will also be a demonstration showing how libreboot is installed on a given system and how it is built.
+16:00–17:00
+FSF from 30 to 45
+
+Eben Moglen, founder of the Software Freedom Law Center, a professor of law and legal history at Columbia University, and the Free Software Foundation's general counsel will discuss FSF's future in phase two of the free software movement over the next fifteen years. There will be an opportunity to ask questions after the talk.
+
+Support the FSF's work
+
+Our supporters have made our 30 wonderful years possible. Join as an associate member so that we can keep up this work for the next 30 years. Members also get special benefits, including gratis admission to our yearly LibrePlanet conference.
+
+Become a member
+
+Volunteer or Sponsor
+
+In addition to setting up the venue and greeting guests, we need people with skills in free software livestreaming. All volunteers will receive a special reverse birthday gift from us to you.
+
+The FSF is also seeking general event, beer, or food sponsors. To sponsor or recommend a sponsor, or to volunteer, email us at campaigns@fsf.org.
+Where to stay
+
+This is our by-no-means comprehensive list of lodging recommendations, listed from inexpensive ($) to expensive ($$$). The city of Cambridge, where many of these hotels are, is directly across the Charles River from Boston and very well connected via the subway's Red Line.
+
+    Hostelling International Boston Downtown ($)
+    YMCA, Berkley Residence ($)
+    The Irving: a cute New England bed and breakfast in Harvard Square, Cambridge ($$)
+    The John Jeffries House: a B&B in Boston ($$)
+    Days Hotel of Boston ($$)
+    The Marriott: at the Kendall/MIT subway stop in Cambridge stop with many restaurants located nearby ($$)
+    The Kendall Hotel: a historic hotel in the heart of the MIT campus, originally an 1800s firehouse ($$$)
+    The Doubletree: a hotel in Boston that is known to give away free-as-in-cookies cookies ($$$)
+    The Charles Hotel: in Harvard Square, Cambridge, with valet parking ($$$)
+    The Cambridge Hyatt Regency: overlooks the Charles river, providing a view of the Boston skyline ($$$)
+
+To get the lowest rates, check out other hostels a little farther away on HostelWorld.
+
+We're honored to have Founder/pres/ed of SFLC Eben Moglen.
+
+
+*applause*
+
+
+I hope you feel as happy about the 30th as I do. After only 22 years of this,
+I'm getting a discount on the 30th. If you've been working for 22, it may feel
+like 30...
+
+
+It is true that it is a pleasure to see us at 30. I'm sure there'll be
+opportunities to get all sentimental and look back at the wonderful stuff we
+went through, bu I saw this as a chance to see where next we would go.
+
+
+I've been flogging FreedomBox along for 5 years, with help from people in this
+room.  Not having a roadmap, though fun, is not clear.
+
+
+Hopefully I can provide some terrain notes, and not ruin the fun.
+
+I want to present the "best we have" in our crystal ball. The past 4 decades
+with Richard, what we've been doing is far from hiding the Palantir. It wasn't
+we couldn't see it, but we could taste it. We were giving our lives to it. We
+were navigating upstream like Salmon, tasting the water, and knowing the place
+we had to be--not like all-seeing wizards with a marauder's map.
+
+You get "the feeling of the organism" *McClintock" and you can be told what is
+happening.
+
+
+What is happening to the movement is a thing that we would see from a physical
+chemistry view as phase transition. We've morphing form the first movement,
+into the second.
+
+
+The first, the one that we've put our time into, had an audience, people who
+knew how software was made. The philosophy and social was about User's
+Rights, as per today's name. user's rights were the center of the thing. The
+users being talked about, were substantially Prosumers. A substantial portion
+of that portion, made the kinds that many users relied on. IN the first
+phase, we were talking to people who could appreciate the freedom of making
+things with your hands. Those were the peopel we ahd to talk to. They made
+Free Software. the first movement di a lot of that. First phase created Free
+Software for other purposes, which didn't mean violating freedom, but
+violating privacy of humans.
+
+
+<blockquote>
+A big exoskeleton that never forgets, without justice or prudence.
+</blockquote>
+
+We found ourselves at the end of the first phase, as we succeeded in doing what
+we meant to do: Put freedom in everything, turn freedom on. In 3 decades, we
+were busy doing, and we did. WE changed how it was made around the world, and
+the values of the people who made it, to spread the philosophy far.
+
+
+RMS, always worried, that the software would not carry th politics well. The
+essence of Open Source v.s. Freedom. A vehicle that Couldn't hold tightly to
+idea, while capitalism could shake philosophy loose. This is a real worry,
+though not the thing you may worry about all 24 hours of a day.
+
+
+<blockquote>
+At the end of the first phase, write once, run everywhere, worked. We were
+busy creating. We did it and produced jobs, and did wonderful things. We were
+creating some social byproducts, ecological diffuses. 
+
+<em><strong>What happens when you offer services that aren't good for freedom?</strong></em>
+</blockquote>
+
+
+When historians will look back, they'll see this today we spend together as a
+convenient narrative point to talk about inflection. This will be seen in
+retrospect will be turning point. The symbol of that is Edward Snowden.
+
+
+He changed it form users, to mass movement of th human race. He put up a
+billboard the width of society, why the freedom of that software was crucial
+to their freedom. A point we've been teaching of years. And now, lots of
+people can understand that.
+
+
+Polling data shows that roughly 2/3rds of people who use internet are aware of
+what Snowden is, and what he represents. Of the 2/3rds of the internet, +/-
+controversy, a 1/3rd of them are trying to protect their
+privacy/liberty/freedom in some way.
+
+
+<blockquote>
+About 1/5th of the internet, are aware they have freedom issues, and want
+something they can do something about it.
+
+About 1/5th of the internet is looking for Morpheus. We had better show up.
+</blockquote>
+
+
+
+
+That broad swath, is looking for use now. You can feel it trying to find it in
+popular culture. You've watched Mr. Robot? We're the people not quite cool
+enough to get the girl, but we're getting there. People are seeing the
+position in the culture as necessary. On the other side, a faceless entity
+commoditizes selling it.
+
+Power cannot be trusted, and it has way more access to you than you know, and
+what you do know, is barely the beginning.
+
+We're going to be able, at least invited to be able, to address a scale of
+humanity that has not been available to us before. We're doing that in part
+with Software, and it is welded to the face that can't be undone.
+
+
+We had to disambiguate, with "Free as in beer v.s. Free as in Freedom."
+
+In phase 2, we're talking to people, users of what they now understand as a
+vast structure of digital tech that USES them. They understand they are the
+product, but don't know what they can do about it.
+
+
+They are looking for Morpheus, and they need a red pill. We have it. It is
+free software. 
+
+Free as in "protects your freedom"
+
+We're talking to a mass who is afraid their freedom is leaking into a tech
+that they need, but they know isn't good for them.
+
+We have a generation coming. If you savor public opinion date, what you don't
+but if you do, you know that that reading you love tails off early.
+Tweens/Teens have little buying power, but can't be studied like the slightly
+older.
+
+If you look at the scanty data, you find in every society where there is data,
+you find they are more positive about Snowden than other sections.
+
+Elsewhere, no matter how enthusiastic the adults are, they are more.
+
+I got a note, from an 8th grade essay contest daughter, and 3 kids wrote about
+Snowden, and no other hero was written about more than once.
+
+
+Chicano Highshool in Chicago.
+
+Laura Poitrus(sp) says he has an uncanny resemblance to Harry Potter ;)
+
+That is itself, a sign of how Legendry has come around this. Culture coming to
+reflect the idea that the hidden dark powers, we need a magic that is our
+own.
+
+When I say we need Morpheus, the only one surprised was Richard.
+
+We need a choice.
+
+<blockquote>
+This is the last generation in which the human race gets a choice...
+</blockquote>
+
+
+These young people., who have a strong set of mind already, get into a period
+where they express themselves. They take on attributes that helps them take on
+what is wrong in the world. They will be looking for us, and they will be here
+soon.
+
+
+We need tech, political organization, ideology, for them.
+
+2004, I said "We were keeping dinner warm til the kids came home."
+
+I thought since this started. Snowden is 62 days away from turning 30.
+
+The big bunch is coming. "what do I do about the bit that worries me?"
+
+We're about to get a flood of people who are going to attach to an important
+movement of their lives. Comprehensibly. About their technology, and what they
+say and do.
+
+
+For this reason, we need to make it clear that this about software that
+protects freedom. I tried to keep it running even when the house burdened down,
+and some people here who helped.
+
+Oct 30th, we'll be demonstrating this free bits and hardware--to make
+encrypted calls between any 2 places, protecting from malware, and a virtuous
+router. We have a lot of tricks to play,a nd we're going to start being able
+to play them.
+
+We're hoping that the stack, the Debian config, can be installed wherever we
+need to put freedom--the android powered dishwashers, or wherever.
+
+Federated social sharing with diaspora too. I really want us to go after the
+dark star of Facebook. We've been tyring to invent our way there for a
+half-a-decade.
+
+
+There are 12 year olds looking and saying "this isn't the way we want to live,
+is it?"
+
+That is very important. We're going to need to have the blue and red pill.
+
+
+That means taking Replicant in. Taking GNUplicant in. You take the mobile
+operating system, and re-engineer it. We need a thing that inhabits the
+midpoints in the net, and has appliances that can do the things you wan to do.
+Then inverting the cloud, processing and storing at home, and clustering where
+electrons are cheap.
+
+We'll have a little interlude in Iceland where electrons are cheap, like any
+good James bond movie. We have freedom, not bit-rot, and it protects freedom
+better and better. We're the people on your side, and we're in it together.
+
+
+<blockquote>
+We have to keep the network neutral, as they say, offering services to
+eachother without discrimination. We'll see business deals cut out network
+operators.
+
+We have a politics. Just as the patent war winds down, and the other things
+get better, that thing will get worse. Government and regulatory agenda will
+be big in our next 15 years.
+
+North of the Himalayas, there is an autocracy planning despotism forever. 1.3
+billion people, controlled by the net and digital tech, on it's own 5th or 6th
+of the human population.
+
+South of the Himalayas, that PM wants to be PM forever too...
+
+On the outcome of that experiment, 1/3rd of the human race isn't just the
+experiment, but the other 2/3rds too. The national digital sovereignty being
+controlled.
+</blockquote>
+
+
+We have to listen to Mr. Snowden. We have an enormous challenge. We can't just
+think of the FSF as a thing in a country. We're building an exoskeleton that
+makes a collection of human kind. It will not be separated based on
+boundaries. We have to think globally. Speak Chinese. Write Korean. Build
+bridges to the Islamic world.
+
+We need to build a home where everyone is welcome, of course, that is assuming
+that we want to take the phonecall.
+
+How can we not take that call. That is why we exist. This is what we have to
+do.
+
+Tech opportunities, political opportunities, and very large, and very
+dangerous to not show up.
+
+We did 30 years of great work. We are a tech and legal powerhouse in the world.
+
+Now we need to figure out how to turn outside respect into leadership of a
+global mass movement. It isn't easy. I've spent a lot of time thinking about
+what happens sociologically, when small movements get an opportunity to move
+into the mainstream of social political and cultural life.
+
+It isn't so simple as wining the lottery.
+
+Human societies respond in understandable, but not always rational ways, for
+that scale of success. The adherence to hold ways, and old metaphors, is
+adaptive, until disruptive growth is necessary. The agility of movement in a
+small entity turns out to not be there.
+
+
+We're going to face the beauties, as well as the terrors of immense success.
+30-45 will be about growth in ourselves. And immigrants too. When loads of
+strangers, who want to live and work and be a part of everything, and have
+strength show up, communities behave badly. They should be delighted, bu they
+behave in short-sighted ways.
+
+A lot of new people are coming, and they are not exactly like us, and they want
+to be a part of it. We need to be more inviting, and less geekish.
+
+We'll just go and do it. We've had this happen at at tech level. There were
+projects with 2-3 people, who now have lots more. There are plenty of folks
+who maybe feel that way in OpenStack?
+
+We're going to have a terrific 15 years. We're not going to fit in a room this
+size for the 45th, if we do it right. If we do it wrong, I will be much less
+happy to be there at the 45th.
+
+They have reason to worry. They have reason to be concerned. The more we know,
+and the more we understand that if they go up the creek further wit the
+"iThis" and the "CloudThat"... we understand what happens when you have tag
+clouds the size of Jupiter. Freedom can get really badly hurt. If you live in
+the communist China, you can get *real* concerned about the incidence of
+public forums. We are going to be growing by leaps and bounds.
+
+If by chance I'm not here, or RMS isn't here when we get to 45--which could
+happen--it won't happen. Humanity is about to be where we work. It is a big
+place, and there are good people in it. Let's make sure we make a place for
+them, and feel welcome.
+
+Q&A:
+
+Q: How would a political part of our movement, thinking about problems in the
+US, deal with the broadband monopolies and cell phone monopolies?
+A: One question you're asking, about the oligopolists. We'll find that us and
+Lessig have come back together again. Isn't politics everywhere unclean?
+Bandwidth generates money, and money influences. That is how Larry got where
+he is. A little box of freedom sitting on a pole can provide VOIP to villages.
+
+At the village level, I can be a telephone company for 40 dollars on a
+telephone poll. Add WI-Max, and now it more than one village.
+
+Then we add more to it for the things that aren't working.
+
+I spent a week in LA last week with Universities to keep GPL3 in their
+core stacks, even as telecommunications sniff around the 5G tech they don't
+have yet.
+
+<blockquote>
+We're going to have some last-mile disruption from the bottom. The core of the
+politics is th "ceaseless inventing" that they are doing. The usual power
+games where we make our running, we have terrific intelligence services, and
+collide people across fields of fracture. We've always been the
+balance-in-power-politics-people. We didn't have the money or power, but we
+proved that we can make capital equipment without capital investments, which
+made money look less important.
+</blockquote>
+
+Even power was limited by some extent by the power of ideas. We used that as
+dynamite to collide larger objects. That was our legal/regulatory strategy.
+
+I'll talk more about that at the end of October our our annual conference...
+...where I can talk about the "old magic tricks" in case I ever go under a
+bus.
+
+We're going to play them against eachother. Mr. Zuckerberg is still busy
+explaining what a philanthropist he is for giving bandwidth to the poor. We're
+getting our own traction, explaining he's just buying de-anonymized packets
+from the poor, at value. "No HTTPS for the poor" is just another MiTM. He went
+from internet.org, to "free basics by Facebook." He'll soon find out
+non-profit law may be something of a hurdle.
+
+It isn't always elegant, but it works.
+
+Q: I think you did a good job explaining we needed to accommodate the masses
+when they get here. It goes beyond accommodating, but absorbing. When they
+come, we should allow them to help us with the things we are not good at. I'd
+like to see more of that. I want to make sure that we let in the folks who
+wants to.
+
+A: The good news is, you're right--but bad news is it is harder than you
+think. It is hard because you don't absorb <em>them</em>, they absorb
+<em>you</em>. When the stuff you didn't know was in you. It is fine having a
+boom when the boom is babies... but when they vote... it gets harder.
+
+We need to be effective. They are coming because they want something. The idea
+is part of what they want, but we have to be there to be effective. Every time
+I say Raspberry Pi, I hear RMS shouting, and that is his job. If there is a
+$30 thing out there, to give $30 privacy, and they wanna do that, I want it to
+work.
+
+Part of the beauty is that the ARM9 world has blobs that are free. We're going
+to have nice competition, but I do want it to run on android-powered
+coffeepots. If you are person with one, and you want secure comms, I want it
+to work when you're in China. It is important that it works. 
+
+<blockquote>
+"We knew you were coming, we had your back." That is where political power
+comes from. Not that we were more, or smarter. Our power is coming from us
+being there for you, before you knew you needed us."
+
+Authenticity is the place where it comes from now. 
+</blockquote>
+
+<!--
+You can boil down the politics today to, "I'm doing a better job simulating
+(Authenticity) than she is"
+-->
+
+We did this for generations, before you were a glint in your parent's eye.
+
+
+Q: I'm part of the folks in this room who have kids. 3, 6, 9, 12. My 12 year
+old understands why she doesn't have an iPad, but she still wants one. It is
+powerful when you say "this is the last opportunity." If I give her one, her
+brothers and sisters will follow. I would encourage anyone who doesn't have
+kids, to go to the committees and School Boards, and other people with kids.
+I'm leaving almost all my work in FOSS completely, to join in the EDU
+advocacy. I'm not talking about myself, but the impact of people discovering
+this is amazing. So much information is missing, not being ignored.
+
+A:  Those are the people we need to be best at reaching. Those of us, who are
+working in that part of the EDU system, are the people we need to listen to
+most carefully. I have this feeling. The mayor of NYC, says he's going to get
+CS instruction to all kids in the next 10 years. That could be terrible if you
+believe him. Joe Klein, who signs up with Murdoch, to monitor every child
+through every iPad... that is not us. We have to do that very well. That is
+why I do all the edX support I can. Keep this in mind. Purity is hard in this
+world. If you allow yourself to get excluded, you are gone.
+
+My nephew went off to college, and I gave him a de-chromed Chromebook. "it's
+disposable computing." He started his life at Colby, and within hours, he's the
+kid running Free Software. He is something now, and he is staggering under the
+unwanted identity. 
+
+The reach we have to reach down there, should feel like fun to us, because
+they aren't our kids. It is easier to do other people's dishes, and we have
+to. We can assume Coca-cola and FIFA are the folks who have to market to these
+people, but we have to be in touch, and know how to make it better for them.
+
+I'm hopeful we'll show up.
+
+Q: Do you make a distinction between AWS and Google Cloud?
+A: What I would say about htis, you could try and measure this for us, or you
+can measure what scares everyone in the industry. Amazon has a franchise that
+people understand, but that isn't why people are running scared. Google cloud
+is eating their customer base too fast, and they don't know what to do about
+it. We do. We say "that is why you must be hybrid cloud builders." You need to
+offer "not being able to lose their entire destiny." Of course they're going
+to buy utility computing from Google and Amazon. They aren't doing it because
+it is "cheaper." The M$ cloud is unique, because it is breaking windows
+server, and making people use it. Breaking things, then forcing people to use
+Office 365.
+
+Everyone who has enterprise email, there is on a software checklist with your
+CIO/CSO with "Two-factor Authentication (2FA), yes/no." if no, go to the
+compliance office to get whacked. You buy from phone-factor, "sms" factors. So
+Microsoft buys phone factor, and then "for tech reasons, you can't do 2FA for
+your own exchange server BUT if you upgrade to cloud, you can!"
+
+This is part of the reason that the patent wars are over. Microsoft and Google
+agreed this week to stop.
+
+<blockquote>
+Peace is breaking out everywhere. We have to go win it before other's win it
+for us. Leaving out the Microsoft cloud, they are not selling cheaper
+computing, but expensive utility computing, but you get to remove IT jobs. You
+don't need a single throat to choke anymore. The execs are having a morose
+year, but it will balance back. Even if people want to get rid of IT
+staff--revenge against revenge of the nerds--if they need to spin up 10K
+images an hour, they'll buy it at 1.5x and get rid of jobs. A bit later in the
+cycle, the CIOs and Boards will decided they've given up too much destiny, and take
+some back.
+</blockquote>
+
+The really smart people will realize they're in the datamining business, and
+the databrokerage will help they get through the next cycle. Martin Fink's
+announcement let other semi-conductor announcements come forth. But that is
+another talk.
+
+
+Q:  What is opinion of Apple pushing a BSD stack to replace GPL?
+A:  One thing we need to understand, we have to do two things to keep our tech
+vital: prevent bit-rot, and keep people from becoming allergic to Copyleft.
+Making sure the PH didn't get too high or low, is something that we do that is
+valuable. If we allow allergies to GPL, we'll stimulate more such activity.
+Keeping GCC ahead of LLVM becomes a very difficult technical job. RMS's
+designs carried us for an entire generation. Solving a nuance in Copyleft to
+do Inter Process Communication (IPC) in a clever way. When we went from GPLv2
+to GPLv3, we protected large-scale IPC optimization. That would mean writing
+out more data, and more room for proprietary optimization. When we moved to
+GPLv3, we changed gcc linking exceptions, and gave our selves more room for
+not rewriting the frontends, which worked for a while. What has happened as a
+consequence of Android, and Java overdependency, and hotspot, we've found a
+place where Jobs can screw us from the dead. Are we going to face more
+non-Copyleft alternatives? Yes. Do we need to be careful how to keep demand
+growing for Copyleft? I'm busy worrying about embedding. Rocking and rolling
+with the bylaws of the OpenStack foundation by making GPL'd contributions?
+Yea, I'm hoping to buy more scotch to make that happen.
+
+Is Samba going to turn out to be more than it was? That is like every release.
+Will Samba not be as important when no one is running Windows? Yes, and we'll
+have a party then. :P
+
+We should not think about this oppositionally. This problem is not our fault.
+Oppositional thinking is cheap/easy. Ecological thinking is harder, more
+expensive. Ecologically, we need to get the idea of Copyleft "born Free, stays
+Free, no Bullshit, no patents" cores, with other exploring going on around it.
+Then there'll be commercial feed zones, where people can eat eachother's
+customers.
+
+RMS would say "Eben's job is companies and intrigue." Intrigue isn't the word
+he always uses, but I won't repeat it here.
+
+Sometimes the companies are parsecs away, and we don't care. But the
+overdifferentiation for no good reason. I'm telling them "if you don't have
+enough Copyleft in this vertical, you'll lose money differentiating for no
+good reason."
+
+<!-- TIL: Overdifferentiation is a crucial aspect of Ecological thinking in
+the enterprise realm.-->
+
+"You're going to have too many orchestration layers. You need AGPL in the
+middle of OpenStack." Imagine if NASA understood as clearly as we do now...
+
+A certain billionaire said to me "We should have just put OpenStack under
+AGPLv3."
+
+People waste a lot of money on this stuff. Differentiating stuff is more
+important to them.
+
+If we keep our mind on the ecology. If we concentrate on "why is everything
+under the Apache license? Look at what the consequences will be?"
+
+We have to talk the language they understand, which isn't "it's evil.' it is
+"it's expensive."
+WEBVTT
+
+Software is all around us
+
+and sometimes inside us.
+
+But what happens
+
+when the tools we use
+
+are obeying someone else?
+
+A tool you control
+
+serves your interests,
+
+but if someone else controls it,
+
+they serve their own.
+
+When you can examine tools
+
+to see how they work,
+
+you're able to learn about them,
+
+even modify them
+
+to work differently or better.
+
+When you can share a tool
+
+and its changes,
+
+you help others and, in turn,
+
+they help you.
+
+In fact,
+
+this is how early computing developed.
+
+Everyone could see a program's code
+
+and people shared their work freely
+
+to drive its growth.
+
+Every user was a potential author.
+
+But when companies began
+
+to lock source code away,
+
+it stopped being possible to participate
+
+or even to know what the code was doing.
+
+In response,
+
+hackers formed the GNU project,
+
+to create a computer system
+
+designed to respect
+
+the autonomy of users.
+
+They adopted a copyleft maneuver
+
+and built it into
+
+the GNU General Public License,
+
+a legal structure
+
+that preserves user rights.
+
+In ten short years,
+
+the free software movement
+
+had produced the GNU/Linux system.
+
+Computing that nobody could own,
+
+but anyone could use.
+
+Today it's keeping planes in the air,
+
+stocks trading
+
+and the global Internet running.
+
+We all encounter free software
+
+in invisible ways.
+
+But software freedom
+
+was designed for people.
+
+It's about what shape
+
+the technology we inhabit
+
+will take,
+
+and what kind of society
+
+we use our digital powers to build.
+
+We've still got work to do.
+
+Free Software Foundation
+
+30 years
+
+of propelling user freedom
+
+join us
+
+contribute
+
+learn more
+
+fsf.org
+
+License CC by-sa 4.0 2014
+
+Video by urchn.org
+
+Transcription Benjamin Sonntag
+
+Pre-order your FSF 30 commemorative shirt and the third edition of Free Software, Free Society
+
+by Chrissie Himes — Published on Sep 15, 2015 07:14 PM
+Commemorate the Free Software Foundation's 30th anniversary!
+FSF 30 commemorative shirt
+
+Commemorate the Free Software Foundation's 30th anniversary with this limited edition tee-shirt. The high-quality cotton, charcoal shirt is double-sided with the FSF 30 Years Propelling User Freedom slogan. We have unisex and women's sizes. The shirts are manufactured by Bella Canvas, a WRAP-certified company, meaning they comply with ethical, health, and safety standards in manufacturing.
+Free Software, Free Society, 3rd Edition
+
+We are excited to announce the launch of the third edition of Free Software, Free Society: Selected Essays of Richard M. Stallman,. Most of the essays of the second edition that were kept have been updated, and a third of them are new. The publication of the book is timely, not only because it marks thirty years of fighting for software freedom, but also because, with the evolving list of threats to both our freedom and our privacy, free software is now more important than ever.
+
+    I hope this book can show you how you might lose your freedom, teach you how to protect it, and inspire you to value it.
+
+    - from the preface, by Richard Stallman
+
+The book is available for pre-ordering, both in paperback and in hardcover, and proceeds from its sale will go to fund our efforts to protect and promote computer users' freedom.
+
+Join the Free Software Foundation and friends in Boston, MA to celebrate the culmination of our 30th year fighting for computer user freedom, powered by supporters like you. There will be plenty of social time for catching up with old friends and making new ones, and an address by FSF founder Richard Stallman as the centerpiece of the party.Free Software Foundation and friends in Boston, MA to celebrate the culmination of our 30th year.
+
+Items will arrive the first week of October. To claim an item at the event, please use the discount code FSFBDAY . If you are ordering to have the item shipped, please do not use this code as it will not be shipped. Order the shirt by September 18th, 7am EDT/11am UTC to guarantee availability in your size.
+
+ FSF30: Get in on the party and User Freedom Summit, in Boston and worldwide!
+
+by Georgia Young — Published on Aug 12, 2015 03:23 PM
+We recently announced a 30th birthday party for the Free Software Foundation, to be held in Boston, Massachusetts on the evening of Saturday, October 3rd. What better way to celebrate three decades fighting for computer user freedom?
+
+If you're planning to join the celebration, with hors d'oeuvres, drinks, an address by FSF founder and president Richard Stallman, and lots of birthday fun, RSVP now! The party has a limited capacity, and many free software supporters have already let us know they'll be attending.
+
+If you're attending and want to brag about it on social media, use the hashtag #FSF30.
+
+But that's not all -- we're also holding a User Freedom Summit in the daytime, before the party. The theme of the summit is "Thirty Years, Four Freedoms," and it will feature sessions for longtime free software fans and those who are new to free software. Stay tuned for more details on the summit, including session information and registration.
+
+Bookmark the event homepage for lodging suggestions and more information about the summit and other festivities that weekend, coming soon.
+Join our worldwide party network!
+
+We know that not every free software fan will join us in person in Boston -- so we're hosting a party network where you can promote your own party (we'll even offer some ideas for making your event lots of fun!) We'll have a livestream of the Boston party, and welcome photos and reports from your own parties, too!
+Renew your membership to support our work for computer user freedom
+
+Dedicated supporters like you have made our thirty wonderful years possible. Renew your associate membership so that we can do even more in the next thirty. We're pleased to offer current members special benefits, including gratis admission to our LibrePlanet conference each spring.
+
+If you'd rather not renew your membership, you can also help by making a donation when you RSVP, or on our regular donation page.
+Volunteer or sponsor
+
+If you are interested in helping out at the summit or the party, we welcome you! In addition to setting up the venue and greeting guests, we need people with skills in free software livestreaming. All volunteers will receive a special reverse birthday gift from us to you.
+
+The FSF is also seeking general event, beverage, or food sponsors. To sponsor or recommend a sponsor, or to volunteer, reply to this email.
+
+See you in October!
+
+ You're invited: 30th birthday party and mini-conference
+
+by Zak Rogoff — Published on Jul 23, 2015 01:17 PM
+
+As you may already know, this is the Free Software Foundation's thirtieth year fighting for computer user freedom. It has been a great year already, with our biggest LibrePlanet conference ever and an article about GNU in the New Yorker. But what's a birthday without a party?
+
+FSF30 logo
+
+Join the Free Software Foundation and friends in at CIC Boston, 50 Milk Street, Boston, MA, 02109 USA from 19:00 to 23:00 EDT on Saturday, October 3rd for our 30th Birthday Party. We'll share hors d'oeuvres, drinks, and an address by FSF founder and president Richard Stallman, as well as plenty of social time for catching up with old friends and making new ones.
+
+RSVP now! If you want to brag about it on social media, use the hashtag #FSF30.
+
+If the free software movement is coming together for a party, we might as well get some work done, too. We're planning a User Freedom Summit from 10:00-17:00 EDT on October 3rd, before the party, where we'll share what we've learned from the first thirty years of the free software movement and swap ideas about the future. Stay tuned for more details.
+
+Bookmark the event homepage for lodging suggestions and more information about the mini-conference and other festivities that weekend, coming soon.
+Not coming to Boston?
+
+We've been flattered by supporters around the world asking to hold their own local events for the FSF's birthday. Of course! We'd even love to write about it, or come up with a creative way of connecting it to the event in Boston. Contact us at campaigns@fsf.org if you're interested.
+
+We also intend to stream the event and post videos online afterwards.
+Support our work for computer user freedom
+
+Our supporters have made our thirty wonderful years possible. By becoming an associate member you'll help us achieve even more in the next thirty. Members also get special benefits, including gratis admission to our LibrePlanet conference each spring.
+
+If you'd rather not become a member, you can also help by making a donation when you RSVP, or on our donation page.
+Volunteer or sponsor
+
+If you are interested in helping out at the mini-conference or the party, we welcome you! In addition to setting up the venue and greeting guests, we need people with skills in free software livestreaming. All volunteers will receive a special reverse birthday gift from us to you.
+
+The FSF is also seeking general event, beer, or food sponsors. To sponsor or recommend a sponsor, or to volunteer, reply to this email.
+
+Also, we'd like to introduce Georgia Young, our newest FSF staffer, in the role of program manager. Georgia is planning the thirtieth birthday events, so expect to hear more from her soon.
+
+See you in October!
+
+Read the New Yorker Article, The GNU Manifesto Turns Thirty by Maria Bustillos.
+
+March 17, 2015
+
+The GNU Manifesto Turns Thirty
+By Maria Bustillos
+
+Richard Stallman, who published his manifesto in March of 1985, has been known to say that, “with software, either the users control the program, or the program controls the users.”  Credit Photograph by Denis Allard / REA / Redux
+
+Unix, one of the earliest computer-operating systems, was developed between the late nineteen-sixties and the early nineteen-eighties, by A.T. & T. Bell Laboratories and various universities around the world, notably the University of California, Berkeley. It was the product of a highly collaborative process, in which researchers and students built and shared their code in an atmosphere of excitement and discovery that was fostered, in part, by an agreement that A.T. & T. representatives had signed, in 1956, with the Department of Justice, circumscribing the company’s commercial activities in exchange for an end to antitrust proceedings. But in 1982, A.T. & T. was broken up and its agreement with the department ended; before long, the company was selling copies of Unix without including the source code from which it was derived, effectively commercializing the operating system and hiding its building blocks within a proprietary program. The move greatly upset many in the programming community, including Richard Stallman, a software developer in his late twenties who was then working at M.I.T.’s Artificial Intelligence Laboratory.
+
+Stallman was uneasy over the increasing encroachment of proprietary software. He’d seen evidence of it in his own lab, when he found himself unable to adapt a new Xerox printer with a program he’d created to alert users to paper jams, and he believed that he had an obligation to protect and nurture the hacker ethos he’d experienced at M.I.T., which valued intellectual curiosity, esprit de corps, and fun over profit. In late 1983, he posted to two newsgroup discussion forums an idea to create an alternative to Unix. “If I get donations of money, I may be able to hire a few people full or part time,” he wrote. “The salary won’t be high, but I’m looking for people for whom knowing they are helping humanity is as important as money.”
+
+Stallman expanded and formalized his ideas in the GNU Manifesto, which he published in the March, 1985, issue of Dr. Dobb’s Journal of Software Tools, thirty years ago this month. “So that I can continue to use computers without dishonor,” he wrote, “I have decided to put together a sufficient body of free software so that I will be able to get along without any software that is not free. I have resigned from the AI Lab to deny MIT any legal excuse to prevent me from giving GNU away.” The nearly forty-five-hundred-word text called for collaborators to help build a freely shareable Unix-like operating system, and set forth an innovative method to insure its legal protection.
+
+The GNU Manifesto is characteristic of its author—deceptively simple, lucid, explicitly left-leaning, and entirely uncompromising. He explains the point of the project in short, declarative sentences: “[A] user who needs changes in the system will always be free to make them himself, or hire any available programmer or company to make them for him. Users will no longer be at the mercy of one programmer or company which owns the sources and is in [the] sole position to make changes.” The document is also funny, in keeping with the playful traditions of early hackers. For instance, GNU (pronounced “guh-NOO,” with a hard “g”) is a recursive acronym, spelling out “GNU’s Not Unix.”
+
+Stallman was one of the first to grasp that, if commercial entities were going to own the methods and technologies that controlled computers, then computer users would inevitably become beholden to those entities. This has come to pass, and in spades. Most computer users have become dependent on proprietary code provided by companies like Apple, Facebook, and Google, the use of which comes with conditions we may not condone or even know about, and can’t control; we have forfeited the freedom to adapt such code according to our needs, preferences, and personal ethics. “With software,” Stallman still frequently observes, “either the users control the program, or the program controls the users.”
+
+Thus, the “free” in “free software” refers to freedom, not cost—a distinction that is key to understanding Stallman’s career. A few months after publishing the GNU Manifesto, he founded the Free Software Foundation, of which he is still the president. “Proprietary software was the norm when I started the GNU project in 1983,” he told me by phone. “It was because you could no longer get a computer that you could run with free software.”
+
+Now, as a direct result of his work, you can. A home system running exclusively free software today might include, in addition to a GNU/Linux operating system, LibreOffice instead of Microsoft Office, GIMP rather than Photoshop, and the IceCat browser in place of Chrome or Internet Explorer. There is a free version of nearly every software program in common use; more than eight thousand are currently listed in the Free Software Foundation’s program directory. While few such programs are as popular as their proprietary counterparts, interest in free software has increased alongside rising concerns about privacy, as well as about corporate and governmental control over media, culture, and commerce. (A few weeks ago, the technology writer Dan Gillmor published a widely shared piece on Medium about his own efforts toward adopting such a free system.)
+
+Perhaps the most significant innovation in the GNU Manifesto is a method of rights protection known as “copyleft,” which gave rise to GNU GPL software licenses, the first of which was issued in 1989. Under a GPL license, you are free to use, study, modify, and share a software program according to your own wishes, provided (and this is the important part) that any works you make from it are shared on the same terms; you can’t conceal any of it, as A.T. & T. did with Unix. The idea borrows from existing copyright law, but grants protection to users, rather than authors. Stallman wrote:
+
+    GNU is not in the public domain. Everyone will be permitted to modify and redistribute GNU, but no distributor will be allowed to restrict its further redistribution. That is to say, proprietary modifications will not be allowed. I want to make sure that all versions of GNU remain free.
+
+Copyleft licenses differ from other software licenses, such as Berkeley Software Distribution (BSD) ones, which also came into use in the late nineteen-eighties, and which impose no such restrictions on proprietary modifications. Such licenses are commonly known as “permissive”—but this means, in a sense, that they permit the future commercial exploitation of users, whose right to copy and share a software work can be restricted by those who make use of it later. (GPL licenses do allow developers to profit from their work; the publishing platform WordPress, for example, is licensed under GPL, and has a for-profit arm.)
+
+The first complete free-software operating system became available in 1991, with the publication by Linus Torvalds of the Linux kernel. The “kernel” of a computing system controls its most basic functions, like memory management and the scheduling of tasks. A GNU kernel called the Hurd had long been in development, but had never achieved a stable release. The developer Jeb Boniakowski told me: “Meanwhile, some kid in Finland … reads a book on operating systems and looks at GNU and he says ‘Shit, all these guys are missing is a kernel.’ And so he hacks out Linux. Which was an absolute pile of garbage, clumsily written and using a grossly outdated design. But it worked. It did stuff. It was free in both senses of the word.” By combining the Linux kernel with the extant GNU programs—text editor, compiler, debugger, and many other tools and utilities, many of which Stallman wrote himself—it again became possible to run a computer using only freely modifiable, shareable software: the GNU/Linux system, now often known simply as Linux, though the full term is more accurate.
+
+Despite the achievement, a rift soon opened in the free-software movement, giving rise to the “open source” camp. In 1994, Netscape released Navigator, a Web browser whose rapid adoption demonstrated the coming economic importance of the Internet. The pitch of the surrounding debates rose accordingly. In 1998, as the Web began to explode, Netscape, which was rapidly losing market share to Microsoft’s Internet Explorer browser, decided to release the source code for Navigator, hoping thereby to capitalize on innovations drawn from the broader developer community. The newly formed Open Source Initiative held a conference in response to this move, calling on developers to “dump the moralizing and confrontational attitude that had been associated with ‘free software’ in the past and sell the idea strictly on the same pragmatic, business-case grounds that had motivated Netscape.” Stallman was not invited to the conference, nor to the Open Source Summit held later that year.
+
+“Business-case grounds” often meant advocating for the development of proprietary software in tandem with free software. Developers who released software under lax free licenses, without copyleft, all joined the open-source camp, along with some others who released under GNU GPL. Many new structures for the commercial distribution of software were introduced as a result: for example, some in the open-source camp released non-free software products alongside free teaser versions that intentionally omitted some features. In effect, these early meetings of the open-source movement amounted to a call for companies to gather, make private, and “monetize,” in future, the efforts of all available contributors—putatively in the name of progress and standardization.* “The people who started using the term ‘open source’ wanted to suck up to business. They said so!” Stallman told me, adding that companies that tout open-source principles often “seduce our community to release free software without copyleft.”
+
+The entrepreneur and venture capitalist Tim O’Reilly, who is today the most visible representative of the open-source movement, told me that he considers an open-source license to be freer than a GPL one, because it imposes no restrictions on those who seek to make use of code. “I think the BSD-style licenses are both more effective at creating more value in the world, and a better morality,” he said. “Richard’s sort of like an Old Testament prophet, with lots of ‘Thou shalt not,’ and BSD is a more Christian approach, saying, ‘Love your neighbor; make value for the world. Let the people do with it what they will!’ ”
+
+Though proprietary and open-source software publishers might appear at the moment to have the upper hand, Stallman’s influence with developers (among whom he is known simply by his initials, “rms”) remains immense. When I asked around about him, many people spoke of him as one might of a beloved but eccentric and prickly uncle. They would roll their eyes a bit, then hasten to add, as more than one did, “But he’s right about most things.” I told Stallman that I’d spoken with several developers who venerate his work, and who had even said that without it the course of their lives might have been altered. But they don’t seem to do what you say, I observed; they all have iPhones. “I don’t understand that either,” he said. “If they don’t realize that they need to defend their freedom, soon they won’t have any.”
+
+Stallman does not own a cell phone, nor does he use Facebook, Twitter, or many of the programs most of us take for granted. “Flash Player tracks users and has DRM [Digital Rights Management]. Skype is designed for the NSA to snoop,” he wrote in an e-mail. The message was prefaced, like every e-mail he sends, with a preamble addressed to the National Security Agency and the Federal Bureau of Investigation:
+
+    [[[ To any NSA and FBI agents reading my email: please consider]]]
+    [[[ whether defending the US Constitution against all enemies, ]]]
+    [[[ foreign or domestic, requires you to follow Snowden’s example. ]]]
+
+He does not confine his demands for principled behavior to potential whistleblowers. During our phone conversation and several e-mail exchanges, he was unstinting in his use of the words “right” and “wrong,” and nearly all of his voluminous writings, talks, and interviews (and e-mails to journalists, so far as I am able to determine) insist that his listeners or readers behave differently, and better.
+
+Nowadays, he spends much of his time flying around the world, giving speeches and continuing to spread the message of the GNU Manifesto. Prior to such engagements, his office sends a ten-thousand-word document to prepare his hosts for his arrival, which makes for oddly charming reading. (He loves good food, folk dancing, and beautiful landscapes; he hates avocados, dislikes hotels, and is indifferent to wine. Also, don’t buy him a parrot!)
+
+Though Stallman’s free-software dream is far from widespread, his ideas are succeeding by many measures. Government agencies, schools, and businesses around the world use free software, and parties as diverse as the Internet Archive, CERN, Wikipedia, the International Space Station, and the actor Stephen Fry have adopted GNU/Linux systems. It’s very easy to believe that, had he cared to try, Stallman might have become as rich as Steve Jobs, Larry Ellison, Bill Gates, or any other Silicon Valley nabob.
+
+What does happiness signify to you, I asked him, if it isn’t based on wealth and comfort?
+
+“Happiness for me is a combination of feeling good about myself and having love,” he said. “And to feel good about myself, I have to do things that convince me I deserve it.”
+
+When I asked him whether his message is received more readily in countries with a stronger political left, he said, “Yes, it is. Basically, Americans have shown that they are politically naïve. If you look at how successful plutocratic candidates are in the U.S.—you can get Americans to vote to give their money to the rich. You have to just say certain predictable, silly things to them, and most of them will be fooled.”
+
+He paused for a moment, then added, “The point is, even though it’s sad to see people being foolish, there’s no use giving up. Nothing good can come of giving up. That just means you lose completely, right away.”
+
+*Clarification: This post has been amended to clarify the relationship between permissive software licenses and the open-source and free-software movements.
