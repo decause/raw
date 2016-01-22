@@ -140,8 +140,8 @@ Tania Katan
 
     From the responsibility we felt, we started a scholarship, going into
     STEAM fields. We put the A in stem, for the arts. We could have put the A
-    in there for Aristyle(sp), who said "when your talents and the needs of
-    the world corss, therein lies your vocation." They could have predicted my
+    in there for Aristotle, who said "when your talents and the needs of
+    the world cross, therein lies your vocation." They could have predicted my
     being here today.
 
     I'm pretty sure the world needs more women in tech.
@@ -153,7 +153,7 @@ Tania Katan
     Who will use their talents to make a difference?
 
 
-    when I say "Make A"
+    When I say "Make A"
     You say "Difference!"
 
     Make A! Difference!
@@ -177,11 +177,11 @@ Tania Katan
     some stickers.
 
 
-Thank you tania!
+Thank you Tania!
 
 Next on schedule, we had a documentary, but that has been moved to later.
 
-we're going to do our next panel, led by Tracy, who has a personal interest in
+We're going to do our next panel, led by Tracy, who has a personal interest in
 clearing roadblocks. Welcome Tracy.
 
 
@@ -252,7 +252,7 @@ Tracy
 
 
 Bottom-lining
-    My name is Julia, I run a acclerator in Ebay. I was born in Russia. When I
+    My name is Julia, I run a Accelerator in Ebay. I was born in Russia. When I
     was 19, I became a manager for the first time. I was in a room with men,
     who said "so gentleman, what are we discussing today?"
 
@@ -279,7 +279,7 @@ Bottom-lining
         I've found helpful in my career, and that is what I'm looking to give
         back.
 
-    Somia
+    Sumia
         On Deck. I'm excited to learn from everywhere here. This may sound
         idealistic, but I believe everyone should be given equal opportunity
         to pursue interests and things they are good at. I think forums like
@@ -548,8 +548,351 @@ Bottom-lining
 -----------
 
 Tracy
-    welcome back. if you could grab your seat.
-    more feedback, you whistled, and you promised more chime?
+    Welcome back. If you could grab your seat.
+    More feedback, you whistled, and you promised more chime?
 
     It it missing!
     If one of you come across it, please bring it back.
+
+
+Mentoring Panel
+
+    I'm excited about this panel too. I'm particularly excited cause we're here
+    with women with bright careers ahead of them. Women are a resource at
+    Accenture. It is a neat space, you all know that, because you are here.
+
+    Before we start with the knowledge bombs
+
+    Stacy Jones, Director of Corp Marketing, Accenture.
+
+    How many have a mentor?
+        10%-ish
+    satisfied
+        less hands
+
+    go back to oyur desk, and think about what these women have to tell you.
+    WE have mentor/mentee pairs, and community builders.
+    mentoring doens't have to be 1to1 releathionship. I've had many men and
+    women who have helped me in my career.
+
+    Our first pair, introduce yorselfs, and tell us your story.
+
+    My name is Joshi Liu, data scientist at capital one. Hired straight out of
+    college, into a dcollege deve program. i was given a oportuinty to get a
+    mentor. My caompany was going through an indentify crisis of what a data
+    scientist was. It is a new job, and upcoming. I was usually they have
+    pairs int he same job. i kenw all the data scientists in the company, and
+    I'm open to anyone. So I paired iwht monica.
+
+    Monica Neff
+        manage emertirpise dev programs
+        new to the world of technology.
+
+        I was approached to manage a new training program, and to work closely
+        with data scientists to do data grainign.
+        i was appraoche, wsomoen in ny, well connected in datascience, but
+        mayu need other advice,a nd benefit from other info.
+
+        I say yes a lot, and this was an easy yes for me.
+
+        I have been paired up with Jochi, and she was awesome. I have learned
+        as much from her as she has from me along the way.
+
+    Mod
+        was this common? A formal mentorship?
+
+        Jochi
+            a little of both! It was diff than other development programs
+
+    mod
+        with the idea of value in mind, you structured something important.
+        Who determins the scheudle? What are some tips that listeners can take
+        away.
+
+    jochi
+        it is pretty casual. we  work in diff offices, but both in NY. We
+        don'thave a set structure, we just sort of organically have it hldappen.
+
+
+
+    I wanna make big change, and have people to help me. Harvard had no
+    student union for African Americans in the school of design. If was to say
+    quickly, I woudl say that it is someone that wants to make a big change,
+    but konws they cannot do it themselves.
+
+    Mod
+        there is another ocmmunity connection, in our committement, we formed
+        a community with Girls Who Code. It comes back to the theme of working
+        together.
+
+    emily reed
+        dir of ED at girls who code. Before that, i worked as an engineer,
+        training in CS.
+
+        There are these small moments. When you think about mentoring, hyou
+        think of something big and intimidating. The story I'll tell often, to
+        our girls who code, is sometimes you'll have another small moment, a
+        negative moment, that is scary for you. I had never taken CS before
+        college. When I walked into Intro to CS, I wa styring it out, I was
+        curious. I thought i ouwld like it, but ididn't know what it was.
+
+        I was paired with Gerald, who was very upset to be paried with me. He
+        had been hacking at home for a long time, and he knew alot, and wnated
+        everyone to know he knew alot. "I thought they were going to pair us
+        upw tih people of similar abilities?"
+
+        I felt "maybe this isn't for me." but there was something that grabbed
+        me about it. I finished the course, and I did better than gerald in
+        the course.
+
+        When i found out later I was experiencing was impostor syndrome. I
+        found a mentor at my EDU, who helped me in those small moments.
+
+        I had exhausted moments int he lab when i thought I couldn't do it.
+        She didn't realize at the time that telling me I could do it was, but
+        it had a huge impact on me. If she wasn't there for me then, i
+        woudlnt' be here talking abou this now.
+
+        and now, my passion is closing the gender gap in tech. At girls who
+        code, we get girls who commit in middle/high school, who are just
+        learing and passionate. They'll run into roadblocks. It can feel a
+        little strange, but if you can be there when they are freaking out
+        about their next algorithms assignment, or dealing with a bully in
+        class, or taking a risk and need a push, that is how I try to pay it
+        back.
+
+    Mod
+        little does Gerald know, he is inspiring even more women today!
+
+        We did some reaserach for int'l women's day, which we love. Mentoring
+        came up in the top 3! It is not a soft thing. The other thing, it is
+        the power of storytelling. it isnt' just 'put in 6 more hours'
+
+        the lasting impression, the teachable moments. The storytelling, you
+        or your mentor, tha is a huge value.
+
+        we're oging to go back to the woman who said this is her passion.
+
+    Suma
+        I'm an entriprenuer who jumped into tech a few years ago. I had
+        immense impostor syndrome. Microfinance, peace-corps background. For
+        me, I was liek "java is an island" nad "ptyon is a large snake."
+
+        I did out in tech, and lesbians in tech. Joined FLatiron school to
+        learn iOS development. WHat I found was that the importance of
+        community is to be come the most supportive champions. YO maight find
+        a mentor, a colleague. I found the community saved me.
+
+        My co-founder passed away a few monthgs. Hacker-actor elite-js camp in
+        SF. The community came together for almost 7 days a wweek, working on
+        the code. They helped me because they knew I need help, and peopel
+        around me.
+
+        that is an extreme example, but the community will be your champions
+        and support.
+
+    mod
+        thank you for sharing that.
+
+        going back to capone mentoring pair. we all want to understand the
+        mentoring relationships. Help us undrestand, what is the most
+        challengeing issue you have helped eachother work thorugh? What kinds
+        of stuff can I work through?
+
+    Jochi
+        going back, I brought up the idea of "no one is sure what a
+        datascientist is" and it is up to the scientsits to dfine it. That has
+        been a great challenge. I'm a computer scientist by training, I wanna
+        work on unsolved problems, and build random things for the sake of
+        building them. It has been helpful to just be able to talk to someone
+        about how i want to idnetify myself, and articulating that myself,
+        that helps me come to ht realization.
+
+    mod
+        did you come up with a quick definition? is taht what you worked on?
+    jochi
+        Wihtin software engineering, there are people who lean towards
+        statistics, or business, but I dinetify more twoards building a data
+        product, and comign up with ideas bout what to do with data to create
+        a viable product.
+
+    mod
+
+        understanding that, has that helped you? What was the benefit?
+
+    jochi
+        direct, being able to articulate to my program lead, helped me
+        identify projects, and which skillsets I want to develop further.
+        Konwing that is super important in allocation of reosurces, and what
+        products we pursue and launch.
+
+    jochi mentor
+        it is new aat capital one. She is invlved in the community, which
+        helps to engage more fpopel intenrally too.
+
+        there is big value to defining some boundaries, or saying "ther eare
+        no boundaries, it will just be the two of us."
+
+        konwing how you approach, help you leverage and coach in whatever role
+        you are in in a much better way.
+
+        What do you want to get out of the relatinshiop, and if it isn't
+        valuable, you can end it! You're investing time, and if it isn't
+        valuable, you can stop, and go back to being co-workers and friends. 
+        
+        You open the door
+
+    mod
+        Candor. HOlding back is not helpful, and helping with boundaries.
+
+        I'm hearing the mentor-mentee tie-up doesn't have to last forever. It
+        can change.
+
+        back to cmmunity builders, ti takes time. It isn't autopilot. with
+        that in mind, we've got peopel wtih really big jobs. You're CEO and
+        Founder of a company. HOW do you balance that? Keeping community and
+        the job, and yourself going?
+
+    Jean
+        How do I balance it all? I was half joking about the assumptions :P
+        WE've got series A funding, and 30 employees, mostly tech hires. ONe
+        of things you realize when you have sale/creative/tech teams, each one
+        takes a balance. How you motivate a tech team, or a mktg team, to ge
+        tthem to work toegehter. The same ideas for mentorship are paplicable
+        to any group. Being as candid as possible, saying "great, go talk to
+        that person directly."
+
+        people think I have the answers all the time, and mostly  I don't. You
+        need to figure it out. Community building is creating a space for
+        peopel to figure it out for themselves.
+
+        finding the balance in my job, is really, holding the space. My job is
+        to hold the space, to problem solve, and bring their very best.
+        Weather student groups, work, or bookclub. Let peopel do their best.
+
+        You can't do your best, particulary in a tech startup, if you cannot
+        be candid and open. that can be "i don't udnerstand" or "i need hlep
+        defining my role."
+
+        I have learend to be very canddi about saying wha you don't know. my
+        main mentor really inspired that in me. She is constantly a
+        reality-check on me with "do you really understand what you re
+        doing???"
+
+        balance in candor, and to be super candid, if ther are people looking
+        ot join a startup, it is mainly why I am here. I hope I'm dropping a
+        knowlege bomb.
+
+        we are hiring for tech/front-end back end. It is not hard.
+        Jean@sweeten.com. Women in tech is a lonely place. The best thing I
+        can think to offer you is a job.
+
+    mod
+
+        i can hear opportunies there. as one of 130K women in tech at
+        Accenture, we're all helping to do that today.
+
+        Speed round: What is the best advice you've ever gotten from a mentor?
+        simple or story.
+
+    Suma
+        Be present. i think a lot of times we're obsessed with outcomes, and
+        you can't control that. Have fun in what you are doing, and learn, and
+        you don't know what is going to happen 6 monthsf rom now. Make the
+        most of now.
+
+    Jochi
+        my mentor in college was  a pro-violinist, and decided CS/Security was
+        her passion. She taught me it was ok to change your mind later on, and
+        that you can do something different in your 30's. That was inspiring
+        and valuable.
+
+    Jochi mentor
+        Ask for what you want. I was debating quitting my job, or taking a
+        left turn in my career in capital one. He said "go home, think about
+        what you want, and ask for it." that has changed the way I interact
+        with pretty much everywone in my life. There is a possiblity that
+        peopel will say "double salary, or moving to hawaii, is not possible"
+        but getting something from that. YOu an find power and peace in just
+        sahying it.
+
+    mod
+        think about it, ruminate, that resonates with me. Did you, in your
+        process, did you talk with friends/family, or did you sit in th
+        corner?
+    jochimentor
+
+        my process is both. I will think first, and then try to articulate. i
+        start with my dad, usually, and then go to my peers, and people with
+        more experienc than me, and then someone outside of me, even as far as
+        the opposite of me. If it is a big ask, I ask widely, small asks,
+        maybe one person.
+
+    Jean
+        Just don't quit. That doesn't mean don't quit if you are unhappy, but
+        don't quit tyring to be unfulfilled. The definition of porn by supreme
+        court "you konw it when you see it" you'll know whn you're happy.
+
+    Emily
+        You don't have to go it alone. I used to be the person who though I
+        owuld have to deal with everything myself. I'm an outgoing introvert.
+        When something is difficult, i can turn inward, but you can turn too
+        far intward. Girls who code has grown a lot, and it took a long time,
+        and they hvae a community. A girl posted she was being bullied, and
+        before the full-time staff could respond, the community reallied and
+        gvae her encouragement. IT made me tear up, I didn't always have that.
+
+        one is to be empathetic, related to gerald (that wasn't his name)
+        we were talking about anger, and I was angry at that gerald situation.
+        But he was going through his own thing too, he had amazing konwlege,
+        and went through school with no one knowing what he was talking about,
+        and then got over enthused in college when someone saw that in him.
+
+        It is important in mentoring releatiohsoisp too.
+
+    mod
+        
+        magnificent advice. My own journey--which I'm still on--theme that
+        connects nicely. In many situations, it is not all about you. Other
+        peopel's reactions, we personalize them. There may be some element of
+        self-examination, but stepping back, and focusing on what you bring to
+        hte table, and that youa re here and you are engaged. Keep reminding
+        oyrueslf how amazing that is, and don't let anyone have the power to
+        make you forget that.
+
+        we have a little time on the clock, and I would love to take some
+        time to take some questions.
+
+    Q: how do you have a male mentor, and have them see your problems as a
+    woman in tech?
+    A: Emily. Because we're still tyring to solve this problem, this a common
+    thing. you are likely to get a male mentor. I"ve had multiple kinds of
+    mentor, who do diff aspects. One om y undergrads, was a gay male cs prof.
+    He idnetified and felt like he wasn't pat of the community either. We had
+    things to talk about that. I've had straight white males, but they have
+    been feminists. you have to seek them out, and we can learn alot.
+
+    Jean
+        you can have many mentors. Maybe you don't go to him with that issue.
+        There are lots of peopel. GO to th eperson you think can help you with
+        each issue.
+
+    Q:  YOu guys gave some your best advice. Some of the hardest advice you've
+    given or received?
+    A:  Jean
+        what popped into my head, I went ot a small biz thing, looking for a
+        mentor, and heard "honey, you are pretty, why don't you just marry
+        well?" That is not the worst advice I've hard, but ughhhhhh...
+
+        I know that isn't what you meant though.
+
+        I manage a lot of people, and I hired a lot of my firneds. That can be
+        really hard. I literally love everyone who works for me. I konw that
+        is the most biz thing to say, but I respect and love each person,a nd
+        giving them feedback about their performance is hard. The empathy
+        piece is huge.
+
+        telling your friend they are not doing their job well is really hard
+        advice to give.
+
+
