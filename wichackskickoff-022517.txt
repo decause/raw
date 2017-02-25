@@ -1,0 +1,249 @@
+Public Safety
+
+Officer Griffin
+    quick things:
+
+    Chaperones, raise your hands. If you get lost, these people can help
+    direct you. Every 2-300 feet, there is a blue light, you can push that to
+    get to 911.
+
+    Everyone here has nice tech. There are 20-30K people on campus, not
+    everyone has great intentions. Don't leave it on a park bench.
+
+    IF there is a fire, don't be hero and try to fight it (I had that happen
+    once)
+
+Kaitlin Keenan
+
+    WiChacks committee lead
+
+
+    Has everyone here joined our slack team? If you haven't gotten an invite,
+    we'll add you. This will be our primary comms channel.
+
+    There is a photos channel there too, so feel free to post there. Post to
+    our insta/twitter/etc. We also have a snapchat filter! 
+
+    Use our hashtag #wichacks17!
+
+    It's going to be a really fun weekend! 
+
+    If you don't have teams, there is a team formation channel. At the end of
+    the kickoff, we'll head back to atrium to help with formation. That is all
+    I have, so now, Swift from MLH.
+
+Swift
+    I'm from MLH. 
+    First hackathon, raise hands?
+
+    WOW!
+
+    You're going to have a great time. My first one, I was studying to be a
+    lawyer. My first hackathon, I didn't even finish what I did, but I had a
+    great time!
+
+    This URL. bit.ly/mlh_loves_hackers there is a lot of goodies here.
+
+    If you forget, you can always come find me.
+
+    I'm CEO/Co-founder of MLH.
+
+    What is it?
+
+    We're the worlds first official Hackathon League. We help students learn
+    to be amazing engineers, designers, makers. 50K students like you join
+    those events. By being here, you earn points for your school. Bring your
+    friends to more, and the winners on the season get crazy hardware, like
+    laptops from Dell/M$.
+
+    Sometimes it's a good idea to take breaks. There'll be a fun game later
+    tonight, at 6pm, to do cupstacking.
+
+    We have a hardware lab, so that you can have access to latest/greatest
+    tech. There are laptops/computers, but also Alexa, Pebble, Leap Motion,
+    Oculus, Muse. Check https://hardware.mlh.io
+
+    We have $100 in AWS creds. This should be in your email, but if not, you
+    can grab a card at the table.
+
+    You got free domains (.com, .net, .org)
+
+    The GitHub education pack includes a bunch of goodies for students.
+
+    We're doing a drawing contest.
+
+    We're partnered with #hackharrassement. If you take the pledge, come see
+    me at the table and you get a super secret bit of swag.
+
+    Top teams go home with medals. Domain.com swagbag for tagging your URL.
+    Best AWS gets $30 amazon.
+
+    We have free Soylent! If you win the drawing contest, you can get a free
+    months supply.
+
+    Anyone who demo'd, gets an "I demo'd" sticker.
+
+    And Tshirts! If you go to cupstacking, you'll get one of the tshirts.
+
+
+    We believe at MLH should be safe and inclusive.
+    Harassment and abuse are never tolerated. Come find me or an organizer if
+    you ever feel comfortable. Code of conduct: mlh.io/code-of-conduct
+
+
+    Thank you partners:
+
+    I'm Swift. Huge round of applause for all the people who made this event
+    possible!
+
+Keynote Speaker Bobbilee Hartman, SE at Iona Health.
+
+
+BH
+    Hello! Everyone please get up from your seats
+    <audible groans> LOL
+
+    For those of you who are new, this is the beginning of a journey. You are
+    part of a community of women in tech. We're going to have you put arms to
+    the right, and to the left.
+
+    <laughter>
+
+    Get closer.
+
+    Bobbilee and I wanted to congratulate you for making the trek. Some of you
+    took planes, driven a while, and we want you to feel supported.
+
+    Yeah, this is a comp, but we want you to know you have a network. Whether
+    it is Intuit or other companies, we're here to coach and help you.
+
+    You Got it!
+
+    Thank you Kaitie, and George, and all the volunteers.
+
+    <applause>
+
+    Let's get started.
+
+    <sitting>
+
+Aliza Carpio, Tech Evangelist at Intuit. If you wanna know what that is, you
+can come find us at our booth.
+
+When Lana V. asked me, who could be a keynote, there was only one person I
+thought About. I love her passion for the craft, and teaching young, or not so
+young people, to help them invest in theirselves. She came from Minnesota, and
+your weather is actually better right now Rochester.
+
+
+AG
+    You see her up here on the screen in this picture. Tell us a bit about
+    yourself.
+
+BL
+    That pic was actually taken in NYC--same state! Orig from Minneapolis. I
+    went to brooks institute for photographer.  Decided to go back to regular
+    biz degree in marketing at U of AZ. Then I went to the midwest, to do
+    mobile app design work. We outsourced to a closeby devshop, and I worked
+    with them from early on. I only knew Photoshop. They seemed like supermen!
+    They were so powerful doing all the things! I started going to meetups and
+    conferences with them, and there was a talk there "Everyone can learn to
+    code."
+
+    "Finally, some drop and drag thing they've been hiding from me!"
+
+    But Actually, it was a bootcamp school, to do a 4 month program to learn
+    one language.
+
+    I left my job, went to Chicago, a BIG change.
+
+    Everyone was like "take the front-end course" but I took the whole thing.
+
+    I got my first junior position in Minneapolis, at Intuit, then Iona. They
+    are based outta Boston, with an engineering office there.
+
+AG
+    You talked a bit about creating--and when we talk about opportunity
+    creation--it is about networks. How are they key?
+
+BL
+    When I first got started, I went to Meetups and hackathons early on. Many
+    people at school said "it will overwhelm you" There are people who are
+    wayyy higher level. It didn't cross my mind I wasn't good enough yet. I
+    know I would learn something. By doing that, and going to conferences, I
+    stayed in touch with all those people
+
+    I don't go to VCS all the time, but I stay in touch via twitter. I've
+    helped to run retreats to run too, but I've always used the network.
+
+    I search for the companies that do the things I want, then find someone
+    who works there.
+
+AG
+    If You are an introvert, what is your advice for growing your network.
+
+BL
+    I'm an extrovert, but have intra parts. I went to Meetups, and I went with
+    friends, sometimes alone, but mostly with friends. There are some events
+    you can go to with people. I used to think you needed to go to lots to be
+    known, but you can go to random ones once in a while. I learned lots from
+    non-tech Meetups, even how to build software better.
+
+    You don't need to go to everything, just go to a couple. Even if you feel
+    like you're being awkward in the corner observing, that's fine! Don't be
+    intimidated.
+
+AG
+    You're at a hackathon. What advice do you have -- new or returning?
+
+BL
+    Don't be overwhelmed.
+    You'll probably redo this code. Don't strive for perfection.
+    Take things once at a time. Make progress.
+    You can pivot at any time
+    It doesn't need to be perfect.
+    If there are people around you, don't compare yourself, keep moving
+    forward.
+    I used to compare myself, but even if someone is ahead of you, they are
+    not necessarily smarter than you, they may just be ahead of you. Maybe the
+    read a book? Maybe the got some extra experience? Keep focusing on you.
+    You'll get there.
+
+AG
+    if you look back to that first time you went to a hackathon, what would
+    you tell yourself?
+
+BL
+    def the comparison thing, but I'd try to reach out to people working on
+    different things. The workshops are going to be really cool. Don't get
+    super overwhelmed. I've done startupweekend, where this is lots more going
+    on even, but get rest, and work on things that you are passionate about
+    that are interesting to you. That motivates you best.
+
+AG
+    Thanks BL. It's great to hang out with you as a keynote. This wraps up our
+    portion.
+
+    I want to echo:
+        Your job today, is that.
+        You are here to express your idea.
+        Get that thing out
+        you'll have multiple challenges to tackle.
+        It's about expressing your ideas through code.
+        Leverage the help out there.
+        I wish you luck!
+
+        Thank you for being here.
+
+
+BL
+    any questions you have, come up and talk
+
+    @bobbilee19
+
+Kaitlin Keenan
+    at this time, we're going to head back to the atrium, look for volunteers,
+    and guide everyone back.
+
+
+wic.hacks.rit@gmail.com
