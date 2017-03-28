@@ -1,0 +1,333 @@
+Eben Moglen
+
+
+I'm sure you didn't really expect that there was going to be a swell of
+orchestral music with backlighting, and shadow rising again over the morning.
+
+We ought to begin in the normal conversational way.
+
+So, we still don't need the shadow has fallen over Mordor stuff, we're still
+in conversational mode, but lets take a moment to understand our problem.
+
+
+1/5 of humans live under the communist party of China. The purpose of the net,
+is to prevent the ideas of freedom/democracy, rule of flaw, from existing.
+
+1/5 another live in India democracy. The sometimes frightening liberal regime
+will set generational policy for the next largest society.
+
+China has more hardware building capacity than the rest of us. It is
+controlled, and has the largest pop in the world combined.
+
+The next decades of our lifetimes, that the Indian model became the Chinese
+model. That is something rapidly thinking about developing itself. Having a
+biometric ID platform for all Indian citizens, and moving at a break-neck pace
+towards cashless society.
+
+
+Jack Moss PM, the china using post-modern monitored economy with Chinese
+characteristics, and would be a perfect platfrom for despotization of human
+race.
+
+We're one generation of production away from that, with new communist party
+of next year.
+
+
+The EU of the world, is holding the values of the free world, but in a
+paralyzed position. In which, disturbingly illiberal tendencies.
+
+The nature of the possible regimes controlling end of 2017, poses problems as
+dark as the end of 1847. We're at the cusp of a very difficult moment.
+
+
+And the pres of the US, has no respect for constitutional Democracy or rule of
+law.
+
+IN 1985, dismissing the billion dollar lawsuit against the writers of the
+Chicaog Tribuine. When I was a genuinely young lawyer, I learned a lot of DJT
+then. In March of last year, my 84 year old mother said "I always thought you
+were paranoid about DJT..."
+
+
+This is one of the most dangerous men on earth, and now he's one of the most
+powerful, and I speak from careful intelligence on the matter.
+
+We're at the place for which the FOSS movement exists. This is what motivated
+a group of young people to take the design of operating, for this. This
+possibility, to add, to the political propositions, that the telecomms
+networks, are now behavior collection networks. A cube of cheese on the giant
+mousetrap. The regulators are not up on this.
+
+
+The long process of regulating prices, has ceased to be what we care about.
+But the govs, even well affected, care about is the management of behavior
+collection networks. We want to understand how the conduct of the public goes.
+We're the ones with the longest thinking on this.
+
+Our attitude on it was just sinking on. We've done lots of designing, and
+hacking, and using, largely from that supposition---with respect to tracking,
+monitoring, etc... That the human system is built upon now.
+
+Our "just say no"-ness wasn't about saying no, it was about building a
+universe of technology of saying no. Building not just tech, but the legal
+technology secondarily. That purpose was to protect the idea that users have
+rights. The purpose of the secondary tech, law, and all the tertiary, the
+government, to keep industry comfortable about the licensing to use the
+code--the primary purpose, was to ensure users actually had rights.
+
+Even in our early sci-fi way, we were pursuing tightly the public policy point
+you can make to everyone; users should have rights. We've positioned
+ourselves as experts as what rights users to have rights means, and what those
+answers are. Copyleft, and GNU, and a series of philosophical and ethical
+positions. They weigh more that what the world has sense.
+
+
+Drinking from the firehose, most of the worlds users, and decision-makers, to
+uncompromising for those in the social structures, because there are real
+impediments to the nature of their business, their livelihoods, dependencies
+they've built...
+
+All my life doing this, it has been a pleasure to see ourselves doing this,
+and seeing eachother. In the last couple of years, we've watched the world
+come to a crisis. We can't do a whole awful lot. Though the thing we're
+dealing with, the scale of it has escaped our ability to deal with it.
+
+
+What can we do? What can we really do about a mess this big. In terms, this is
+where we are. In the teachable moment in our history of the movement, there
+are more people receptive to the idea that users of tech have rights. Why
+those rights are pivotal to the survival of political liberty is larger than
+ever.
+
+It began with Snowden, but that is comparatively small in scale, to the global
+anxiety of tech savvy young people. Society slipping out of control to their
+own immediate disservices, and things they are a part of that they know are
+not right. They feel it about Facebook, and Twitter, and the deliberative
+quality of the world is falling apart, but not knowing how they are
+contributing. They know they are trying to buy the happy music of "privacy is
+over" "if you're not doing anything bad, don't worry" "If you don't mind the
+ads, then the service is so convenient!"
+
+The know something is wrong with it, and they want something that isn't as
+desperate as the red pill. Giving up everything you've ever known and done to
+fight the matrix. They don't want to wake up in that movie either.
+
+
+"What can we do before we otherwise get wiped out."
+
+We're in the world we thought we'd be. When we used Slavery, it was metaphor.
+When machines you cannot modify control you and everyone else.
+
+
+2 thought experiments. Not just what we can.
+
+What would happen if you woke up and Google decided to replace the kernel on
+android with a permissive one like Fuschia. The Free Software content would
+have remained the same. But the loss of copyleft in the kernel, in the only
+mobile system you can use safely, means you cannot use it safely. They would
+lose any rights they had at the bottom of that stack.
+
+
+The situation would be the same... but that one is close. That is not that
+further off. Let's leave that for another day
+
+
+Another experiment:
+    you live in a community run by Chinese communist party, all payments are
+    cashless and electronic. Your citizen rating determines how fast you get
+    deliveries, and what tickets are available to you to travel with.
+
+    I know, black mirror does this to us all the time, why bother us with
+    this, right????
+
+
+It doesn't feel like that. It feels like inconvenience. If it adjusted
+subconsciously, it would be more convenient. Despotism works efficiently at the
+citizen rating level.
+
+This too.... is very close.
+
+What can we do to prevent being wiped out...
+
+
+Near to here, it doesn't feel like the last war. What is the point of being at
+war? With it being M$, that was one thing.
+
+What about when it's China, and Europe, and Trump?
+
+Confrontation is useless
+
+Positive engagements
+
+1) Save copyleft. The undertaking that users have rights, in tech, in some
+defined way, available to the rule of law, and vindication---under broad
+social consensus that this is the way to do it---it's almost broken now. We
+have a number of govs that have discriminated against copyleft. I've had this
+happen in NSF, DARPA, and others. In FSFE, same problems in Europe too. We
+must justify copyleft to gov, and industry, and true, it is not at its best.
+This is the conceptual tool for explaining that users have rights, and we can
+make those rights effective, and have those structures respected around the
+world. Even in places where it's disregarded. China is against copyleft for
+the wrong reasons, but eventually, they'll find the right ones...
+
+2) We have the freedom to tinker. We need to prove that running code for
+ordinary people for political change. If we can deliver freedom in tech, they
+will adopt tech freedom as their own, and advance it as their own. If we don't
+deliver to them, then we are alone, and it doesn't work for them. If you are a
+townhall, you need to have a single-board system. If you are organizing for
+the minority party in Paris, it has to exist, and be ready to go. This is
+central operational work for the movement right now. It is Free Software in
+configured forms, and getting out of the way and letting them use it. Using it
+is the lesson that means the most.
+
+We have engagements around the world that we need to be careful about
+diplomatically. The Indian supreme court has been kicking around the can on
+deciding the bench that has the citizens with privacy from their government.
+We need to get it established, and then get it to win. We need to work on the
+implementation of people's rights in national service provision. Not just open
+APIS, but free code. This is one of the biggest tasks with the biggest
+governments. We need to treat it the same as if it was in the white people's
+back yards.
+
+We can engage with over a question: What is your biggest problem right now?
+That Google, or your own secret police?
+
+The yearning that has been hiding behind the national security establishments
+in 20 years, attribution of every human action, is within spitting distance.
+intra-ethnic antagonism rising in many societies, the yearning becomes more
+effective in everyone's governments. ThE two largest govs, capitalize on that.
+Surveillance capitalism companies do that in their own interests.
+
+We can engage with the EDU systems of the world. We need to provide ways to
+teach about these issues in middle school through higher ed. We cannot
+prohibit their use, but we need to provide material to copy modify and share.
+It means slowing down tech development--programmers writing docs. But we must
+document the process and the flossophy. We need Richard's voice more. We need
+to put forward  a series of ideas in an accessible condition, in the same way
+we need to put our bits into peoples hands in an operable condition.
+
+They need to see our freedom as operable.
+
+We must be careful not to destroy any coalitions. This is not the time to be
+in our "purist" moods... we are too small, and what we have to say is too
+important. We are dealing with people we don't like, because the world is run
+by people we like even less.
+
+We're not centralizers. Everything we do needs to be done mostly by ourselves.
+We need to be finding the neighbors, and finding out what tech they need.
+
+I was really proud of a lawyer I trained who went out to JFK during the first
+executive order crisis, and she got there, and they needed someone to make the
+WiFi to work, and the printers to operate. The Georgia Tech part, not the
+Columbia law part, was the part needed at the airport that day.
+
+We need to deliver bits, branded as Free Software, to bring to the party. We
+need to be documenting the philosophy, preferably understandable for an 8th
+grader, in the way a highschool CS curriculum could discuss it.
+
+My nephew was in a magnate program for CS/Math. He spent a whole day hearing
+about what RMS and I had done. Computer Science said I was now important.
+
+Documenting what we thought, not just the code, is what matters.
+
+My book I'm writing now is for someone 75 years from now. If I have one thing
+to offer, of value, at 2090, may be the location of a thing that is hidden to
+you. A thing that most of us in the 20th century cared about, that we
+struggled and died for.
+
+We called it freedom.
+
+(Thunderous applause)
+
+
+The purpose of that was so we could have questions:
+
+
+I can bring mic, or line up down there.
+
+
+Q: I want to thank you for addressing that it needs to be in education. I use
+tech to teach women and preschoolers. Tech moves slowly in EDU, so please,
+provide tech and help them use it. My question, do you have advice for dealing
+with the political slowness of Education system. We're still implementing 2-5
+year old tech. The purpose grows, but adoption is slow.
+
+A: We watched that thinking about Free Software was important even without
+computers. It wasn't that you cannot use Emacs without a computer, children
+want to understand tech as a thinker in the world. The learning that is going
+on, not just iPad versus Chromebooks, isn't just about the ideas. The reverse
+of the method. If you ask Page what he thought about AI, he was "we're going
+to roll out services, and then let people decide." People are adjusted to not
+thinking about ethics. If we jump the bar, and make them think before they
+build. Technology is always changeable. I don't like things that don't let me
+change the background color. I know there is a lot to be done with the idea
+first. You don't need to give technology to teach about it.
+
+Q: Big Data, and AI< and ML. What I see in my research, there is an inordinate
+amount of money being poured into it. They want to personalize what they give
+you. They cross-reference against the dataset of everyone else. When you have
+turnkey totalitarianism, you get a centralized system, that can be changed at a
+later point in time. What do we do with big data?
+
+A: Depends on who we are, and what we do.
+
+One is getting interested in copyleft data licensing. That will not solve
+problems, but can contribute to a solution. It would diminish the urge to
+collect more data because you then have to share with your competitors. They
+want the edge that used to come from proprietary in 20th century...
+
+With ML, we have a challenge with licensing. I get calls, almost always MIT
+Grads, Have you thought about how the license is not as important for the code
+than the data? See above.
+
+Third. What are we going to do about the question of "public rights" in
+behavioral collection? It is a problem of Govs looking in the wrong place.
+They want environmental regulation, but the telecoms are a disaster. The
+behavioral conduct you're talking about, the unethical research, the human
+subject barriers... good luck to you.
+
+The age of Trump, the FCC to get out of the business of behavior collection
+regulation, is a devastating decision. When I talked with Clinton transition
+team, they were tasking the opposite question. How the FTC and FCC can work
+together better. We get a gov that retreats to not even being the night
+watch. We need to work on it in Belgium, and then India and the US.
+Environmental rightness, extraction of coal is not any better than extracting
+coal. Some will be researchers, some will be surveillance capitalists, and
+some, I say this without reservation, the worst governments in the history of
+humanity.
+
+Q: is this a "get your ass in gear"
+A: Diplomatic optimism is part of my nature as much as darkness. Freedombox,
+like any project, when people are investing in our development, we made the
+Debian freeze. Now you can just click a box. We have a teachable moment. The
+audience waiting for us is bigger than any we've see in the theatre.
+
+
+Q: the main lesson from Arab Spring was that tech would help to tear down
+Institutions, but not build them. You see the lack now. When I look at Trump,
+if we tear down institutions, it may be worse than having no institutions.
+
+A: we have gotten out of that. We do build things with Free Software. We're
+always going to places to where there is proof of concept and running code,
+that is the exit mark of this situation. If we didn't do what we do--political
+model that says build first, then give it to people to build their world. What
+is happening with the urgency is making it pretty. We cannot afford to be
+purists anymore. We need to build public support for freedom right now. They
+are suffering right now. And need help right now. It's going to get worse,
+before it gets better. Our social constructivist politics keep us out of this
+hole.
+
+A: We need to do 2 things: Future and Peesent. We in the present need to be
+there for allies. We have an attractive thing, not just chocolate at bedtime.
+The ability to hide from centralized spying. That is the job of delivering
+software. We need a more than adequate quickstart doc.
+
+Then we need to get to the younger generation. The "Snowden" generation, who
+were born at the beginning of the 21st century. They look different
+psychographically. If we have bits for them that have shiny packages, that
+include Freeedom. We were there for servers in the 20th century. We're 2
+product cycles out. Android will be an enclosed system with a closable kernel.
+We'll have to do consumer ed for stuff that doesn't exist yet for that....
+
+Thank you.
+Very much.
