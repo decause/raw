@@ -1,0 +1,332 @@
+Zack Rogoff
+Campaigns Coordinator
+
+Thanks new and old friends for making LibrePlanet awesome.
+
+Sumana Harehareshawara (sp)
+
+Coding and Management with GNOME, Mailman, MediaWiki, Wikimedia. Writing for
+Salon.com, GeekFeminism.
+
+Inessential Weirdnesses in Free Software was last year, very popular,
+available on media.libreplanet.org.
+
+She has a very unconventionally structured talk for you today. But before
+that, she's going to draw the last two prizes
+
+
+draws
+
+
+I'd like to thank the FSF, the MIT SIPB, LibrePlanet and it's sponsors, and
+you for staying here and listening.
+
+I acknowlege the Wampinoa People, adnt he involuntary and exploited labor from
+the people from all the lands that created cambridge.
+
+
+I'm wearing approparite garb.
+
+I arrived in Berkeley, and fell in with Hippy Nerds. i learned about FOSS, and
+the GPL, and reading Slashdot, and installed maybe Mandrake on a 386, and that
+set me on the path I'm on today. Since 2009, I've worked and made my living or
+endeavored to exchange my labor for money in Free Software. My personal
+connections, my hobbies, my spouse, have all been part of FOSS.
+
+What do I wish I could have learned just a smidge earlier. I'm in front of a
+scifi author, so rules:
+
+I can't say "you should take time off of school and design ballots in
+Florida."
+
+I'm taking inspirationf rom the infinite wrench. Any
+
+
+24 - Rumplestilskin fallacy
+
+Naming a problem is enought o make it disappear. Myth of Rymplestiliksin...
+person has to give their first born child to a demon. The demon doesn't stamp
+it's foot and tear itself in half.
+
+29 - bug tracker v 10x programmer
+
+we all must have this ability to be a part of the community. Anyone can submit
+a bug to the tracker. What does it mean to have a wiki that anyone can
+contribute to. It is the case, that anyone, whom I've never met, that doesn't
+look or sound like me, may have a better idea than me. WE should listen. We're
+demonstrating it.
+
+Then there's the programmer who's like the John Henry of Code. Why would you
+ever listen to the crowd? Allowing for the possibility that a stranger may be
+smarter than you, is stronger than the myth that you can be a code autocrat.
+
+20 - Different people learn differently
+
+There is a myth I ran into early on, very Paul Graham-y, "the really good
+people..." "well, you know..." anybody can just learn by themselves if they
+want. Really great contributors are auto-didacts. Why give any mentorships? I
+met a guy who said "no one ever became a better engineer from mentoring?"
+
+guffaw. There were no emoji back then for the tiny bits of spit escaping my
+lips. Learning styles may not be connected with learning outcomes, but FOSS,
+we are not that great who want structured apprenticeship. We ahve this
+"aftermarket addons" like OUTreachy and GSOC, but that's not built in. If
+they're already in community, versus joining the community via means of
+contribution. Look up Dr. Mel Chua who has a great blog posts I wish I could.
+
+11 - Describe more than prescribe, and watch out
+
+When I'm talking about what works and what doesn't, I try to say more about
+what seems to be the case in a descriptive way. If I'm being prescriptive,
+about what "ought" to happen, I'm careful to say "this is what I should do" vs
+"You, second person singular" or "yall" third person singular. In thinking and
+reasoning and listening, it would benefit young Sumana, when they say "You
+should do X" they are talking about themselves.
+
+26 - Freedom, Safety, OpSec
+
+You may have seen my OSBridge Keynote. I was talkinga bout my family
+background, Indian raised in the states, they wanted to keep me safe. They
+wanted me to be happy, and beilved much would be in keeping the faith(?) I was
+about to enter the shaky process of stopping the process of holding safety
+hihgly. Not physical, but the emotional safety of failure exploration9decause9
+
+on the Nationalsecurity level, not on that, but in our individual lives. We
+need to make choices to stay emotionally vulnerable, like asking questions in
+public where you may get judged on your ignorance.
+
+i wish I coudl tell sumana earlier that sometimes free is better than safe,
+and youc an take steps earlier that feel like pepole are judging, and you are
+uncertain, but that is what learning is. The feeling of being uncertain and
+uncomfortable can feel unsafe until you know the diference. Those risks, like
+saying something unpopular online, you shouldn't need the opsec of Jason
+Bourne to live online. (knowing laughter)
+
+No one should have to put so much effort into avoiding divulging PII. I would
+encourage 98 me to take care about not putting ID online, but also putting
+shoulder to wheel on making sure others don't need to either.
+
+4 - ASCII and Sovereignty
+
+I wish I had told me of 98, please please, everytime that you save data, make
+sure you save it in an open format. No one will respect corel. Don't upload
+the fun music to Google Video, cause they'll take it down and you'll never get
+it back. If I had only saved lots of stuff, and took better care of my data.
+realizing that I was the master of this, and once I upload, I cannot analyze,
+correct, or give it away, and it will goa way without notice.
+
+8 - People keep dying
+
+When i was that young, I was really fortunate. I think that, I dunno, that I
+had not experienced a difficult death of anyone close to me. Many by the first
+year of college have. Therefor, it came as a shock, when  a prof died. Then it
+happened again. and Again. Ok, alright, fine, old people, they will die, sure,
+but I never had braced myself when people my age, or younger, that maybe I
+knew through this community died. Like Aaron Swartz. Or last year, in 2016, I
+found out in 2 days ina  row, that 2 peopel in wikimedia, Gorman, and
+Governor, both died. I was rocked. Every year, for the rest of my life, I need
+to budget ahead for grief. There'll be days that are for sick days, or
+vacation, but there'll be days that will come from people who die, and it will
+increase faster than I expected. and People will leave our community. I talke
+dto someone recently, who wasn't feeling so great, and he does great stuff. He
+said I was the first one who noticed or said anything.
+
+what the hell, what civilization are we that doesn't take care of others
+through the whole cycle.
+
+19 - 
+
+When I arrived in 98, I had a set of people who's work I got introduced to.
+These are the people who's words and Ideas you need to follow, and they come
+to campus. None were women, all were white. we didn't talk about the
+contributions that women made to free software. we didn't talk about the
+contributions of people like me, who look like me, made to the infrastructure.
+I talked about linus, and RMS, and ESR.
+
+I was at the MLK student Union, to see a panel, with Linus. The CS student
+assoc got ESR to come, and he coulnd't make it, and there was sadness. First
+time I saw RMS, it was a ssimiliar thing. All these people made contributions,
+and then all of them showed their colors.
+
+Sometimes they don't return the respect you show them.
+
+98 wasn't then
+
+alex bailey, founded Geek Feminism
+Ashe Dryden, done a tremendous amount of work to make Ruby and Free Software
+so many people in this room, I wish I met you in 98, but I didn't know to
+look. I didn't know to look for Aaron, or Chelsea, or Eddy. If we called him
+Eddy (snowden) would that make him more approachable???
+
+(big laughs)
+
+I wish I knew earlier the decisiveness and charisma, and self-confidence, can
+be a warnign sign as much as a useful trait. This is one of those "I mourn my
+own innocence" no, I wish I had a doseya.
+
+17 - Enlightend Self-interest versus infrastructure
+
+Maybe this was in CatB, but it is in the enlightened self interest to support
+infra, ofcourse they'll just do it, right? (I wrote 'hahahaha' in my notes.)
+just because it is the right idea, you may have written a silly poem about it.
+it turns out that money is not available for thigns that need doing, that are
+not visibly salient to those with the purse strings. Call it greed, call it
+shortsightedness. Standard anti-feature, but it seems like what we do. So many
+people came to help heartbleed?
+
+The anxt that come from predictable tragedies. The invisible 90% of the
+iceberg will hit. you really gotta learn the skill of making that thing
+salient, so those with the pursestring people know why to support it, or just
+control the strings directly.
+
+12 - That person who thinks they are contrarian, but they are conforming to
+the same beat of the different drummer as all their friends. it is important
+to get the word out.
+
+Community sounds great.
+Society sounds awful.
+
+Marketing sounds awful.
+
+I did work for GNOME, and it sounded like "hey neighbors, here is where the
+recycling bins should now go." If it hadn't been for that insight, I might
+still be here saying "marketing/selfpromotion?" Why doesn't anyone konw aobut
+my work?
+
+It doesn't have to be gross. it is harder to read code than write it. There is
+a missing balance in execution in tasks. To help curb that, lets mention a
+few:
+
+Jupyter and Jupyter notebooks are a great way to collaborate with peopel.
+Great for Sci computering.
+
+Library Simpolified. Initiative by libraries that lend books kind, including
+NYPL, to make it easier to borrow ebooks. There is a bunch of LibreSoftware. 
+
+Zulip. This is a free software for gropuchat. Python, Django. We did zulip
+bot, which makes it easier to deal with organizations. Github believes that
+maintainership is binary, not like "I want notifications for this part of the
+repo" for example. We have great standards for eingineering.
+
+software carpentry. project to get researchers to use free software and tools.
+
+Dreamwidth. Fork of Liverjournal. very friendly community. emphasizing metrics
+and teaching, and doesn't use mailing lists.
+
+Beautiful Soup.
+ArchiveOurOwn
+GNUMailman3
+
+Be unsurprised by ignorance. Marketing.
+
+15 - FLOSS people aren't all like Seth Schoen.
+
+He's the Free Software version of Mr. Rodgers. Imagine if that first person
+you met was Mr. R, and eveyone was like him?
+
+I met a bunch of nerds in my dorm, and i met this person who "wouldn't even
+windows." and "have you ever read slashdot" and gave me a copy of "In the
+beginning there was teh command line" I saw him preaching the GPL in the
+plaza once I think :P
+
+If you say something inaccurate, or you don't know something, he doesn't do
+that "well actually" or "you don't know that???" he'd say in a collaborative
+or curious thing to udnerstand where your mental models diverge. Maybe he's
+wrong about the root of the word, or how debian pacakagin works? For those of
+you who are not TV watchers, there was this guy named Fred Rodger, who was the
+most kind person on TV, and consistently demonstrating that youc an be your
+best, and that you can use emotional self-regulattion even when it's hard. I
+thought everyone was like this...
+
+(big laughs)
+
+then there's like Paul Reiser. The people who offered me the greatest
+betrayels, they too, were free software people. I'm gonna think for a second
+about the stuff I can't say. Maybe you ahve some stories you can't talk about.
+Maybe I can tell those to Sumana. Why did you do that to me?
+
+33 - No one is Yudishthira
+
+He is so pure and so good and so full of integrity, his chariot floats above
+the ground. Youc an be pure on one axis, but my taxes pay for dronestrikes.
+Nonoe of us.
+
+
+i'm really greatful. Is anyone frustrated that we didn't get all the way
+through? I could post these on my blog later. I know that some of you wanted
+to konw everything on the menu, and that you can see the things you are
+missing out on, but the peopel we are trying to reach, they don't know that
+frustration that will get them to act, because they don't konw what they are
+being denied or deserved.
+
+We ahvent' done the work that gives them the menu that shows them what to be
+angry that they are being denied. THose people who are conributing, we're only
+dimly aware, by looking more inward than outward about our communities. 
+
+
+THat FOMO, I didn't get to go to FOSDEM, the social comparison, or
+completionism, is often about the wrong things. iw ish that young sumana spent
+more time learning the languages that my parents speak.  I wish that I had
+kept my Russian. 
+
+Reading wisely, and learning to learn perspectives of peopel not liek you, as
+a strategy of ....
+
+
+to read widely, is to learn, using sense of touch in the dark, where you scars
+are.
+
+i wish that younger sumana might have learned earlier, something that I'm
+still struggling with now. The willing ness to be wrong, to live with tension
+and ambiguity, and to not shrink from ocntradiction but mediatea on it.
+Humility, and Seth, adn the ways we can be. We have this amazing strength, to
+find otu wer'e long. Do you let people report bugs to you? or report bugs
+against yourself?
+
+Young sumana I wish youc ould have learned earler, how to be ok with being
+wrong. It is better to be wrong than to stay wrong, and it doesn't have to be
+a shameful thing. It can make you a better person.
+
+That is my advice to you.
+
+Thank you.
+
+(standing Ovation)
+
+
+-----
+
+Thanks for coming out, we have some acknowlegements
+
+
+Thank you all for coming. Thanks to the folks who made this possible. First of
+all, volunteers, can I get a round of applause.
+
+Thank you sponsors
+
+Thank you exhibitors
+
+Thank you Staffo
+
+If you want to leave some feedback, in the spirit of Sumana's talk, we'll take
+it to heart.
+
+libreplanet.org/conference/feedback or paper at welcome desk
+
+YOu'll be happy to know there is one more social event. The classic Grendel's
+hangout.
+
+I hope to see you all at LibrePlanet 2018, and until then, Happy Hacking.
+
+Georgia
+    I really appreciate Sam Duchovny, our main rep from SIPB. The student
+    group made it so we can have our conference here the last 4 years.
+
+    It is ag reat privilege for MIT to have LibrePlanet here and I hope to
+    have you back next year.
+
+Sullivan
+    these folks worked really hard for you, starting in about August, so one
+    more round of applause, then let's head out.
+
+    Thank you!
