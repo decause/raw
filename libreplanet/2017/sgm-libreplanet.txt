@@ -1,0 +1,293 @@
+One can one love one's work...
+
+
+by the end of her career, she understood how her work would impact millions
+and billions of people. I'm going to talk about the burdens we carry as
+technologists.
+
+I'm going to focus on politics. Narrowing our focus to politics, we can focus
+on 2 things: Automation and news media.
+
+
+Automation
+    the economy is changing. That's nothing new. Millions of people. Thousands
+    of bizz's. Hundreds of countries.
+    Social movements, discoveries, natural disasters all play a role in the ever changing landscape.
+    So much of our live depend on the economy. 
+    healthcare. Education. Living space. Human needs like water.
+
+    It is incumbent to understand what were coming from. Desperate people are
+    politically dangerous.  How sympathetic varies.
+    At some point, economic discontent spills into political discontent.
+
+    In December, Carrier struck a deal with Trump. They struck a deal to move
+    Huntington jobs to Mexico. Then VP elect pence was gov there. There were a
+    number of misleading things. There was no mention o the plant, who is
+    still sending the jobs.
+
+    Trump announced it would save 11K, it only saved about 130.
+    But most relevant, Carrier said they were taking their $7M in savings and
+    turn it to Automation. I don't think too many people here would be
+    surprised by Trump trying to make himself look good. Who was Trump trying
+    to appeal to?
+
+    One of the big things, was the "rust belt states"
+
+    This was the manufacturing belt, but the decline there has lead to a
+    decline in the economy. To the right is MA, which was part, but has changed
+    the focus of our economy, unlike the rest of the belt.
+
+    The US has lost 5M manufacturing jobs since 2000. Some is blamed on
+    Outsourcing. Though we lost jobs, our output has been increasing. There
+    was a drop in 2008, but it's recovered past it's pre-2008 levels. If it
+    was outsourcing, it would show both decline in jobs and production.
+
+    Turns out supply chain open data is not forthcoming from companies (lolz)
+
+    Apple/Samsung announced they'd eliminate 60K jobs (about half) with robots.
+
+    It depends on the job being lost. With college degrees, manufacturing jobs
+    are increasing. From the traditional perspective of a floor worker, it is
+    even dimmer than the raw numbers would show.
+
+    This is from a project called campaign explorer, made by Ben Schmidt(sp)
+    What it does is takes mentions of words, as reported by media. Blue is
+    Clinton, orange is trump. This slide is mentions of automation. This is
+    the number of times per million words. On average 2-3 mentions per mil
+    each. This is "trade" and it is mentioned orders of magnitude more often.
+    TPP was about 20 times more often. This was the display for immigration.
+    Orders of magnitude increased.
+
+    If you consider how much attention is around anti-immigrant fervor, if
+    only a fraction was about immigrants taking jobs, this is a big
+    bait-and-switch. Immigrants are being scapegoated for what the most
+    powerful industry (tech) has done.
+
+    Low-wage workers have been organizing under "fight for 15."
+
+    Former pres of McDonald's:
+        I have a simple message "I told you so." I told you union demands
+        would create costly investments in self-service automation.
+
+    What we have is a workers being scabbed by robots.
+    The robots didn't build themselves, we built them. We built them. We sold
+    out the workers to get ahead(tech.)
+
+    The carrier story continues, with Chuck Jones, the pres, saying "Trump is
+    lying/ignoring the impact of automation/giving people false hope."
+    of course Trump attacked on Twitter, and blamed the unions for moving jobs
+    out of the country. Chuck Jones and the union wants the workers to earn a
+    living an survive.
+
+    What tech workers can learn from Dock workers" was a talk last year.
+    Dockworkers faced automation early on. Bridges faced mechanization and
+    automation agreement. It was an unusual agreement in how forward looking it
+    was. The more automation progresses, the harder it is for workers to
+    counteract. Kelsey's talk, points out tech workers are laborers. We see
+    ourselves as this "special" everyone is an entrepreneur. But the wages are
+    high only because of the shortage of workers.
+
+        Kelsey: I find urgent ...
+
+    Recognizing the political power we have when we act collectively.
+
+    I want to place this in the context of free software. I'm going to vastly
+    oversimplify the McD case. The techies make the kiosks, who sell their
+    work to McD, who sell that. Tech makers create value for owners.
+
+    When I license as FOSS, I give away the value I create. It creates
+    problems, like persistent underfunding, and a lack of diversity because of
+    a corporation or other source of funding singularly supporting that
+    project. Users may not get value.
+
+    In both of these cases, we have a problem with tech laborers, giving away
+    value. Why?
+
+    In the case of the employee, there is something to be said for being a
+    laborer v.s. capitalist. You don't have to worry about the guilt or
+    complexity of running the business, or the impact of jobs.
+
+    There is something similar involved in FSM. I'm giving my work to everyone
+    is a good thing to say/believe, but it lets you off the hook for deciding
+    who gets what resources. Making work open access doesn't mean everyone
+    gets what they need. The free market is not perfectly efficient. Sometimes
+    we need to take collective action, rather than relying on a system or
+    visible .
+
+
+    Back to Jones, people were sending harassment and death threats--nothing
+    new for twitter. trumps seems to use the term "fake news" to discredit any
+    story. It is meant by others to mean "misleading."
+
+    Facebook is one of the biggest platforms for fake news. It is the most
+    common news source for under 50. Hyperpartisan sites outperform tradition
+    sites. They use eyecatching headlines to get folks to click through for
+    that sweet ad revenue. The term "clickbait" may be new, but the problem
+    isn't.
+
+
+    William Randall Hearst "you furnish the picture, I'll furnish the war."
+
+    Speaks to the lack of ethics in journalism who was at the head of the
+    largest papers. A "yellow journalist" caused a hard tack in the other
+    direction. They then forced.
+
+    "all the news fit to print." The NYT fought sensationalism. It's worth
+    knowing that there is a diff between reputation from ...
+
+Journalistic Ethics?
+    Disclose conflicts of interest
+    publish corrections
+    cite sources
+    respect privacy
+    seek content from subject of reporting
+    use full and unfixed quotes
+
+    There are folks working on media literacy, helping to show norms. This is
+    a problem with the movement to online news. It is a problem of applying
+    the norms to new tech. We don't need everyone to get on board with media
+    literacy if we can build up trust.
+
+    Shortly after the election, Zuck said "FB influencing the election is a
+    crazy idea."
+
+    There is something pretty uncomfortable about a private company using
+    proprietary software to address this problem. To Zuck's credit, this is
+    where his hesitation comes from.
+
+    Google has hesitation towards addressing hate groups as well. Algos have
+    biases, and we need to address these as a community, not a business.
+
+    I've added some links at the end, but I want to emphasis transparency.
+    When FB/GooG make a decision on how we see things, they are saying "trust
+    us." We cannot even agree on basic facts. We can't just be people inside
+    FB or Goog. We, FOSS, are used to working collaboratively, and knowing
+    when we can trust sources.
+
+    I want to talk about fake news. Misinfo is funded by foreign states.
+    Russia's influence on the election is an evolving story, but the group
+    propornot(sp), identified 200 sites with over 200M views.
+
+    Corps, funding thinktanks, which is used work in the press. Press releases
+    get worked into stories. The internet,
+
+    "Merchants of Doubt" is a great title for further research.
+
+    Propaganda is difficult to counteract mostly because they don't have
+    funding.
+
+    "A few Million spent on misinfo..."
+
+Money problems
+    difficult financial model for journalism.
+        Less funding than Misinfo
+        privacy violations/behavioral tracking
+        vulnerabilities to media consolidation
+            Gannett, Clearchannel (these are the small ones, not the big 6)
+        lack of diversity among reporters (also in Free Software, but not to
+        same extent)
+            role of journalism is to have varying perspectives
+
+    These are complex problems, but not helped by "information wants to be
+    free"
+
+Recurring Themes
+    What I take away from Automation and Media
+        work collectively
+            beyond self-interested individual hackers
+        pay attention to resources
+            valuable v.s. profitable work gets done
+
+        We're good at working collectively, but we have a culture of
+        independence and autonomy (which I do love, disclaimer)
+
+        Often when people have problems they say "fork it." it is easy to fork
+        code, but hard to fork a community, and the points of integration.
+
+        FOSS is good at creative resourcing models. We do support by licensing
+        away our profit. Hardware not created in sweatshops, fact-checked
+        news, these are not about profit, but maximization of value beyond
+        "access to the source code."
+
+Potential Solutions
+    alternative business models
+        many tech companies are aiming for acquisition, not aiming for
+        mid-sized modestly wealthy companies. Education and cultural support
+        like "b-corps" or worker co-ops, things not just about massive
+        exponential growth.
+    Unions
+        not a traditional one necessarily, but the demands:
+            Demand companies pay FOSS projects
+            Demand companies don't use hardware in sweatshops
+            demand companies pay taxes
+    professional code of ethics
+        doctors and lawyers have these, when they recognize that their work
+        can affect others. It doesn't stop all, but it gives a set of harms to
+        watch out for, and ways to describe them.
+    Government action
+        tech industry has come together before, but we need to broaden the
+        range of things we work towards. Retraining. Telecommunications act
+        rollbacks. Universal healthcare and income would help big with
+        automation.
+
+    If you have reservations, tell us. Talk about them.
+
+    We need to talk.
+
+    I'm going to challenge you, this weekend, talk to atleast one person about
+    money and how you fund ethical software.
+    Talk to one person about using collective power for collective benefit.
+
+    Because as overwhelming as these problems are and can be, as tough as it
+    seems, we are among some of the most powerful people in addressing them.
+    It is in this sphere, the tech industry, where we need to take the lead.
+    We should be following in other domains of activism and work, but in this
+    field, we need to lead.
+
+    We have to grapple with the things that people are doing with our work.
+    Going back to enjoying our work because it's beautiful.
+
+
+Jeremy Breckers' STRIKE
+    collective action by workers, often, takes place in the context of not
+    being through an already organized union. The strike is the thing that
+    creates the union, or there is a union that doesn't want you to strike
+    because it's been co-opted. Do you see similar problems in tech work with
+    unions?
+
+    A: industries without unionizations. Canny Prestige, Harvard in the 70's.
+    They were primarily research assistants, frequently women, and many unions
+    turned them down, because they needs and backgrounds were diff. One of the
+    things getting in the way of union org, is the mental model of what unions
+    are. Realizing that tech wouldn't followed the standard model. Start with
+    what we want to do, then see how well the infra and tactics apply.
+
+Q: Thanks fro your talk. I have reservations about unions, but not starting a
+union with you, today (applause.) The reason we don't leverage our collective
+power, like Sumana said, some of us are served by others. People see their
+immediate interests. I don't have time to work through this now. The first
+person thinking about Greg Olsen in unions of tech. It's been on my mind. The
+easy, wonderful, but weak proposal of "fork it" is better than nothing. Let's
+keep in touch. 
+
+A: There is a session on BOF's, we should do a collective political action
+BOF.
+
+Q: Fake News == Propaganda, right. Why do you think there has been an
+invention of a new term invented?
+A: Trump and his supporters are using the term in a weird and inaccurate way.
+I was part of MisinfoCon, and we talked about how to use the word "fake
+news." there is a severe linguistic schism. Propaganda, seems to have to come
+from a place of power, like gov or corp. While that covers much of what we
+see, that isn't what we totally see.
+
+Q: Fake news, we have these new techs for news, but we haven't figured out how
+to apply those ethics. There is a problem of quantity, where we cannot review
+it all. How to fix?
+A: Have a centralized, open, transparent fact-checking. Part of what I've seen
+trolling in conservative communities. "Snopes has a liberal bias" Do we create
+a "3rd" level of checking then? There is a problem of ownership. The founder
+of Snopes, it is a great org, but it's not transparent like Wikipedia (though
+they have their own issues.) Culturally, without tech, you get lost. Without
+culture, you don't get buy-in on the checking.
+    
