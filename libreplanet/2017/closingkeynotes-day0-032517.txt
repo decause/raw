@@ -1,0 +1,285 @@
+After this, 2 social events. Scholars bistro, 7-9. At FSF office hacking
+alcohol free session. Both will be available via red line. We'll end here at
+6:30.
+
+
+2 of the 4 prizes have not been claimed.
+
+GNU FSF Bundle
+
+
+500 060
+500 412
+
+
+I want to thank my good friend Eben Moglen, of over 20 years. I want to thank
+him for speaking earlier. He is one of the pillars of Free Software Movement.
+Sometimes we've disagreed on the details, but we agree fundamentals.
+
+He led the team of lawyers, and international team, that checked over every
+phrase, and the public process to place criticism. He wrote some passages, and
+discussed nearly every word.
+
+The SFLC provides probono legal services, and the Freedombox foundation,
+makes it possible to run a Free Software personal server at home. We all Owe
+Eben a big thank you, so please join me.
+
+
+I want to criticize a couple of talks. "Trumps America" he may wish this
+country were his property, but it's not so.
+
+One of of those details I disagree with Eben, is the "age" of Trump.
+
+They assign to him a bigger victory to him than he had. We are not defeated.
+It's not "trump's" anything. I call him the troll, or cheater, or liar, or
+loser. He actually lost the electoral college to if you counted the million+
+people who were kept out from voter suppression.
+
+Even though he has no heart, we still need to apply to "de-fib-rillator" to
+him. 
+
+LOLOL
+
+We need to keep reminding people what we're fighting for, so they don't got
+forgot. Open Source doesn't do that. We want to escape from Non-free software.
+Even this computer has a disk drive in it that has non-free software, and we
+have to live with that, but we shouldn't have to. Even when we compromise and
+deal with intolerable things, that is a fight we have to win someday.
+
+Even as we coexist with our adversary, the forces of subjection, we have to
+remember that they are our adversary. We will have to deal with them, and
+throw off their power.
+
+Crucial to this, is a non-free program, is an injustice. Snooping on the user
+is an injustice. Sometimes non-free program, sometimes through internet
+dis-service, sometimes cameras in the streets.
+
+The adkar(sp) system in India is even built with Free Software! Using
+computers for voting is another. You cannot trust a computer, to know whether
+the election authority is using the computer fraudulently.
+
+We must compromise, but in careful ways. We must tolerate in ways that can
+lead us to fighting them in the future.
+
+Now.
+
+We.
+
+Need to
+
+Uh.
+
+Fight the fight against big data when it's about personal data about people.
+We have to go to great links to refuse to give data. Yes, it is inconvenient
+sometimes. If you are focused on convenience, it'll look like a sacrifice. It
+will start to look like the store is the sacrifice if you focus on the
+freedom. You won't have to steel yourself against the resistance, if you came
+this far.
+
+A well meaning friend tried to get me something, and she ordered from Amazon.
+She told Amazon to send it to my address. To me, she had doxed me to Amazon. I
+would never think of doing that to myself. When you learn to value your
+freedom, and privacy, and anonymity, it gets easy to insist on them.
+
+There is no way we can protect ourselves from the abuse of prescription data
+for medicine. We can campaign to keep that data strictly unavailable to anyone
+else.
+
+When it comes to big data, often we see the wrong approach being followed by
+mainstream on Human Rights orgs. They want to put limits on the use of the
+data. When a hero is designated as a spy or traitor, the gov will always
+authorize itself to use that data to capture the hero.
+
+I'm speaking of Edward Snowden.
+
+Three Cheers for him.
+
+Hip Hip Hooray
+Hip Hip Hooray
+Hip Hip Hooray
+
+
+The Privacy rules only inhibited the commercial use of ISP data, not even the
+collection. 
+
+The only data that is safe, is the personal data that wasn't collected. Once
+collected, it will be misused. Government, Company, Rogue Employees. Abused by
+Thieves that steal it from the collector (don't call them hackers, please.)
+
+You can tweak the level of danger about when it will be used, but all it takes
+is one terrorist act to throw out those rules, but they cannot retroactively
+collect data they didn't have.
+
+We need to require it so that
+
+GNU.org/philiosophy/surveilalncvsdemocracy.html
+
+
+People are making great progress in software to modify the parameter of the
+neural network to get different results. Recognizing an ear against a nose,
+while doing the same things we did.
+
+We can tweak the parameters, as source code! This makes things easier, the
+training data to get a set of parameters, may be impossible to distribute at
+all. Modifying the parameter set, can help us modify the set of the trained
+parameters with free software.
+
+One of the vital things we need to do. I did a grep, and it is giving me a
+gigantic amount of output from my mail.
+
+One of the vital jobs to do, is reverse engineering. We're doing more to
+encourage people to do it. You gotta be clever to do it.
+
+We posted a list of high-prio reverse engineering tasks, which is parallel to
+our main list:
+
+fsf.org/reverseengineering
+
+We're looking for people to improve the software to do reverse engineering.
+There isn't a free decompiler yet. To recognize those that do it, we plan to
+give out a medal from time-to-time. We don't have one now, but when someone
+does this, we'll recognize it in this special way.
+
+Since we're going to give out the Free Software Awards eventually, we want you
+to nominate someone today. Give your nominations.
+
+
+I recently read an article about Free trade ebooks. But there are 3 injustices
+in normal ebooks. 3 Evils/Problems
+
+DRM
+EULA
+tracking the buying
+
+We need to be able to buy anonymously. taler.net is a GNU project that helps
+with this.
+
+Another threat that we find is that the internet of stings, untrustworthy
+devices that are fundamentally no good, turns out to have poor security in
+the classical sense. Free Software doesn't guarantee security, but many have
+fully crap security, with no intention of patching. There is a consideration
+for a universal backdoor for adding security patches by law. That cure is
+worse than the disease, but it's a really problem.
+
+Suppose all the software in the internet related part of the device, it has to
+be published, and it has to have a security update service. Initially, it can
+be the default one, or you can change to an alternate service. You freedom can
+be respected, and security protected this way.
+
+
+We are looking at changing the license of gnu lib c in a subtle way.
+Currently, LGPLv2 or GPLv3. We're thinking of making it Gplv2 or LGPLv3. This
+will help clarify enforcement, but shouldn't make a big difference in what
+programs are allowed to link with glibc.
+
+We want to do as much as possible to verify there will be no problems, so we
+are asking people to look at this issue, and we're going to post about it.
+We're hoping that folks with legal minds, or knowledge of use-cases, can verify
+that nothing will break from this.
+
+In regard to privacy, I'm looking for people with impressive credentials, who
+would like to join me in proposing to legislators that we need stronger
+measures to stop measures to collect data, not just privacy policies. That is
+the case with laws, that often the only thing that is required is maneuvering
+a user to give consent. Talk with that person, and put her in touch with me
+rms@fsf.org, and we can talk about working together.
+
+Another place we have a big battle, is JavaScript. Many websites won't
+function without non-free JavaScript. I was posting on my personal websites,
+petitions, but they wouldn't run without it. I convinced a few sites to change
+this, and now I can post and recommend, but we still have problems with
+Salsalab. If you have contact with them, or orgs that use them, please try to
+use that influence.
+
+This is not limited to petitions. The register of copyrights, decided to make
+everyone register over again, over the DMCA take-down provision. Previous
+registrations would be thrown out en masse, and registration requires non-free
+software. That is particularly ironic, but there are plenty of other bad
+cases too. We need tog et that JavaScript freed, or convince the sites to work
+without JS, or develop replacement free JS. A web extensions front-end that
+will run in Firefox or Chromium, or other things someday, that would talk to
+the server, but turn of the server running JavaScript.
+
+I should point out that web assembly changes nothing. It doesn't matter if
+they are are obfuscating minimized code--equivalent to compiled code. If you
+are good at JavaScript code, please write to me.
+
+When the site allows putting free licenses on the code, I know of programs
+that generate free code, but we know it comes out of a free repository. They
+can do that. Write to me if you want to do that.
+
+And
+
+At this point.
+
+I'm going to give out the Free Software and Social Benefit awards. Can I have
+the first award
+
+The 2016 award for advancement goes to a true champion of Free Software. He's
+contributed to programs like gcc, but has also called attention to freedom via
+distribution of Linux Libre--a version without non-free firmware. He's
+liberated paying tax in Brazil. The government imposes running a non-free
+program to file taxes, but not anymore! In many years they get the updated
+version of the free program, before the official non-free program.
+
+Alex:
+    This is too good to be true.
+    I want to thank Richard. I first met GNU in 91, just before Linux was
+    published. I met and fell in love at first sight. I met Richard 5 years
+    later, and it changed my life. The ethical and social aspects of
+    technology were more important that what I had learned before. I didn't
+    have a choice, and I had to work on that from that point on. I was never
+    sure that what i was doing was right, because I'm so insecure. This award
+    means alot because it means that something i was doing was right. That our
+    message....
+
+    Huge applause, sanding ovation
+
+    That the message this guy taught me, was right.
+
+    I want to thank Richard. And my colleagues at FSF Latin America. The GNU
+    hackers that started GNU, and the other that created this great operating
+    system. Linux Libre collaborators like Jason Selfry(sp)
+
+    My managers at Red Hat, who never gave me any trouble being a Free
+    Software Hacker, while making a living.
+
+    I want to thank the FSF for being the Lighthouse, as Snowden put it, so
+    appropriately. I want to also thank my lifepartner, my wife, and my
+    daughter, who have been my supporters and partners in this life. My
+    daughter will carry it on, and someday, talking here too, as happy as I am
+    right now. Thank you so much.
+
+RMS
+    The social benefit award goes to a project that is tremendously important
+    in regards to issues of security and control of the state. It's
+    Palantir--oh no, that is a mistake--you might say the opposite, but not
+    exactly. A program that makes it safer to be a whistleblower. If we don't
+    know what the government is doing, we can't control what it does. That is
+    what democracy is. We need to make it safe to be a whistleblower. This is
+    why it is so dangerous to allow the state to track where people go and who
+    talks to whom, because they can find the whistleblowers. And we don't have
+    many of those. The program is called secure drop, and I'd like to give
+    this award.
+
+    Conor Shafer(sp). I work for Freedom of the Press Foundation. We feel very
+    strongly that an obstinate and cantankerous press keeps society safe and
+    secure. Secure and anonymous communication is more important today than
+    ever before. Investigative journalists and their sources are some of the
+    most vulnerable. Securedrop is the result of free software developers in
+    the journalism and technology communities.
+
+    Thank you to the FOSS community, and the FSF in particular. We couldn't do
+    this without you. Keep fighting the good fight.
+
+RMS
+    So I guess we're done for the day?
+
+
+John Sullivan
+    We'll now head to the social events for the night.
+    We'll be leading people out of the lobby in about 10 minutes.
+
+RMS
+    I forgot to mention, GNU.org/help is a place where you can find the jobs
+    suitable to your skills.
