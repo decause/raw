@@ -1,0 +1,566 @@
+Welcome.
+
+Part of FOSS@MAGIC program, and our minor in FOSS and free culture.
+We'll probably have another one of these, prolly with someone from the FOSS
+office at FB. Probably on a Wednesday, but in 2400 in bldg 70 on 4/26. Prolly
+there. Unclear on the title yet.
+
+For those of you who are new, it's from 4-6pm on Wednesdays on the 2nd floor
+of GCCIS. Make sure that you meet people and intro yourselves.
+
+I"m SJ, I run the FOSS program with Schneidy.
+
+Today we have Deb Nicholson, from BOS.
+
+She won an OSCON O'Reilly award last year, and she's going to school you guys.
+
+
+Deb
+    thanks for the intro.
+    I"m going to talk about patents, copyrights, Trademarks, and how that
+    may curse us.
+
+    You can twee me @baconandcoconut
+
+
+    The title of this,
+
+    Intellectual Property, like cake, is a lie. I'm going to talk about them
+    together as they relate to FOSS development, and the creative endeavors
+    that go along with it. The "future might curse us part" IP Has drifted a
+    lot. It is hard to get certainty about what each of them means. We're
+    going to look, individually, and see where they are headed, and what
+    policy levers or actions we want to take.
+
+
+    Trademarks, if you think of a website, is like the stylesheet. The
+    original trademark is for bakedgoods.
+
+    These are Mooncakes. They usually have "longevity" or "harmony" baked into
+    them, and is the oldest trademark we know of.
+
+    It helps to ensure your reputation. We use them in baked goods still.
+
+    Borio vs Oreo
+
+    The trick with trademarks, is that it's expanded in scope. It's not just
+    the name, or look, or color, but also smell...
+    That makes it difficult because you don't know if it smallest the same
+    between.
+
+    Is that smell special? Or is it all model clay?
+
+    Notice and Money
+        this is where my property begins,a nd if you cross there, you owe me
+        money. It is Duked out in courts. If you infringe or degrade the mark,
+        you owe them money.
+
+    How do you set  up a sign that says "you've come into my smell!"
+
+    If you don't know when your product smells like something else, you don't
+    know when you'll get sued for infringement.
+
+    Let's talk about who is pushing the TM creep, and who the creeps are.
+
+    You must continually enforce your mark if you want to keep it. That means
+    suing them, or at least sending a nasty letter.
+
+    We have an event "the tiny tall ships festival"
+
+    This is the artwork to promote the event. This is who they got a TM notice
+    from. The people who sell tickets to the small ships.
+
+    They were afraid they'd confuse this, with this...
+
+
+    They are paranoid to lose TM?
+    Do they have a friend, an out of work lawyer, who saw this and said "hey,
+    we can both make money?"
+
+    The tiny ships people get their own lawyer, and they defended
+    successfully.
+
+    Disparagement
+        not allowed to get trademark.
+        People remember about the Washington Redskins getting their TM
+        revoked?
+        The TM office has another role that needs to be recalibrated to keep
+        out slurs.
+
+        The Slants
+        The first Asian American rock dance band wanted this name, but the
+        office said No, because it is disparagement. Is reclamation the right
+        place to decide this? Maybe the TM office is not up on the lingo the
+        kids are using? This is an odd role to decide who reclaims what words.
+        In the 80's in was Dykes on Bikes, and today, they could use an Urban
+        dictionary.
+
+        This is another wiggly space with uncertainty.
+
+    Use our code, but not our trademark?
+        In FOSS, you have confusion where people are contributing to a code
+        base, and they think we're all in it together, sharing all the things,
+        but not the use of the TM. If folks don't understand what the TM is, it
+        is def confusing.
+
+    FSF v. FSF v. FSF
+        I used to work at the Free Software Foundation.
+        We used to get mail from the Friends of Science Fiction.
+        And the Footballers Supporters Federation.
+
+        As more and more things are on the internet, we end up with more
+        namespace collision, more font and color space collision, and more
+        things pretending to be something they are not. Kissing the boundary of
+        infringement, and allusion.
+
+    Register your TM
+        You want to pay attention to who holds the TM. There are lots of sad
+        stories about "we all own it" but then the person who owns the mark,
+        leaving folks out in the cold.
+
+    Resist increased scope for TM
+        as we find more sensory info, we need to avoid creep
+
+    Copyright
+        The right to copy.
+        Intended for the written word originally.
+        Expanded now to scripts, and maps, and all things written.
+        Earliest example
+            Irish king had a monk, and asking monk wanted to make a copy. 2nd
+            monk said no.
+            King decreed:
+            To every cow belongs her calf, and to every book belongs it's
+            copy.
+
+            This is where it comes from, even if you didn't spend the entire
+            night awake doing the copying.
+
+        They can be for written word. For instructions. For music. For ways to
+        replicate a performance.
+
+    Is it instructions, or is it creative work?
+        If it's just instructions, it shouldn't be under copyright.
+        It is hardware instructions, but it is also creative.
+        And to make it complicated, code can make copies too.
+
+    Copyright creeps
+        let's talk about the mouse in the room.
+        Disney pushes fro extension.
+        Life plus 70 years. May be up to 120.
+        Not going anywhere anytime soon.
+
+        Not just Disney
+
+        Warner Bros and Sony aren't generous either.
+
+        Here's a list of sites that WB sent takedown notices to. Highlighted,
+        is their own website here.
+
+        That is the process of sending notice to websites.
+        But they also you other methods to squash fair use.
+
+        "Harry, you fucked all the shit up, but it was dope as hell.
+        Fifty points for Griffyndor"
+
+        This is from a rifftrax.
+        The Brad Neely soundtrack was being played at theatres, but they
+        threatened all the theatres and said if they played it, they'd never
+        get another WB movie ever again.
+
+        Some people take public domain books, and then put it into a
+        copyrighted Format. It's easily available, but you gotta pay us for
+        it.
+
+        New stuff won't go into the domain, and old stuff is being put out
+        into a copyrighted "format."
+
+    Terms of Service
+        this is on top of copyright.
+        The DMCA, CCFA
+        So these laws make legal to enforce the way people use your website.
+        Instead of "here is info, do what you want with it."
+        "by clicking this button, you can only behave in this way as a
+        consumer of this product." infact, we can send the police if you use
+        our site in a way we don't approve of.
+
+        It's not just copying a site, or fair use, but other stipulations
+        about how you use data on a site, an how you use it, by law.
+
+        And there is no recourse for an overreaching TOS.
+
+        My father is an attorney, and he says he doesn't even read all those.
+
+    We should not let companies suck up public domain work.
+    When we write FOSS, we can use copyleft.
+
+    Copyright is "all rights reserved"
+    Copyleft is "you can use this as long as you share back the changes."
+
+    Unfortunately, copyleft has enemies. 
+    It's like "lock the door now that I"m here at your free buffet." There are
+    companies that are misinformed, or are intentionally pretending to be
+    misinformed, to come back against copyleft.
+
+    We didn't just make up these licenses, and then accidentally release code.
+    We release this code to the commons, on purpose, so we can all use it. It
+    wasn't an accident. You didn't "Discover" all this free stuff.
+
+    Patents
+        Pin with ball at the end v.s. pin without
+        There isn't much ambiguity here when you compare the two. In the
+        physical world.
+
+        It gets trickier with chemical formulas.
+
+        We start to get trickier. Did you add an inactive molecule at the end?
+
+        You can have a patent on a biz method. On software. You can say "I
+        found an idea, and I'm going to fix it with 'software.' and you don't
+        have to provide the sourcecode when you apply for the patent.
+
+        There is kinda some money in software.
+
+        If there is an algorithm to match cats with cat owners, versus shoes
+        with shoe owners, are people talking to eachother.
+
+        People ask me "I'm writing this code that does X, maybe you can tell
+        me if it's infringing..." and I say "yes" and they say "wait, I didn't
+        show you the code yet."
+
+        There are lawyers that have made a boatload of money.
+
+        Apple wanted to sue Samsung for the rounded corners on tablets.
+
+        VC's would like to see robust patent space. If the dream dies, they
+        want to sell off the patents. 
+
+        And also, there's certain companies that are trying to get their
+        platforms adopted as a standard, with gov use, and other fair
+        reasonable non-discriminatory.
+
+        Apple is one of these, and there are not many others that expect a
+        small royalty to.
+
+        Is it like a dollar or two? Is that a big deal?
+        When a phone has 2-3000 patents, yeah.
+        You can buy a smart phone in India for $5. You add $50 to it, it's not
+        longer affordable.
+
+        Trolls
+            the more vaguely written, the more people they can beat people
+            with it. Esp old ones that seem to apply to new tech.
+
+        What do you do?
+            When you talk to a lawyer/VC, get it in writing.
+            Maybe you just want to do defensive publication.
+            Maybe you just do a patent pledge.
+
+            There are ways to do this, without giving more food to trolls.
+        OIN
+            We run a defensive patent pool, for people who agree to
+            non-aggression. As a community, we agree to not sue eachother. If
+            you write software, pick with with patent protection. GPL, Apache,
+            or MPL.
+
+            You want everyone to know they can collaborate, without one of
+            them pooling info to sue people later.
+
+        LoT Network
+            If your patent gets sold to a troll, it gets invalidated.
+
+        Defensive Patent License
+            attempt to create a GPL for patents
+
+        PAX
+            Non-aggression pact, specifically for Android stuff
+
+
+    Conclusion
+        First, keep building stuff. If you build stuff people are excited
+        about, you get to decide how it goes into the world.
+
+        You get to call the shots
+
+        If you put stuff under the GPL, they have to play by your rules.
+
+        Resist lawmaking without transparency.
+            We just saw the TPP crash and burn, which was great, but we see
+            more of this policy creation happening.
+
+        Garbage in, Garbage out
+            if we continue to elect people who don't understand how tech
+            works, we're not going to good tech policy.
+
+            If you have a representative, you can say "I know this isn't your
+            super specialty, but I would love to come in and talk about this
+            issue."
+
+            I don't know if there is going to be legislation coming that will
+            help with patent problems, but there is a link for an org that
+            does a good job tracking this stuff. They have a 2016 version,
+            we'll see about 2017.
+
+        News you can use
+            FSF
+            SFC
+            EFF
+            OSI
+            TechDirt.com
+
+        Further Reading
+            Brief o the Cato institute and basket of deplorable people and
+            organizations
+
+            The market for software innovation through the lens of patent
+            licenses and sales by colleen v Chien
+
+            One year review of ALICE v CLS Bank Jasper L. Tran
+
+            http://patentprogress.org
+
+Questions
+
+Q: What is a good place that can hold onto your trademarks and copyrights?
+A: The SFC is a great one for that. If you are a small project with just a
+couple of coders, and you don't want dive into tax law and administration,
+you can talk to them.
+
+Fi you are working on GNU code, you can work with the FSF.
+
+
+Q: I'm taking Open Source in Invention, attending OSCON. Any tips?
+A: There is potential for FOMO. It is basically from 7-? So don't forget to
+sleep. It's really easy to do that. Second thing, if you are interested in a
+topic at OSCON, you can go to the expo floor, and invite folks to eat with you.
+For me, it's software patents. "Hey if you wanna talk, let's all go to lunch."
+"we're standing by this Pole, you can find us here, and we can all go each
+lunch at X time."
+
+Q: The tables at OSCON often have banners too.
+A: Eventually, they just have people looking for a place to sit.
+
+Q: Do you see an increase of people under these umbrellas?
+A: OIN is over 2000 companies and projects. We just had our 10 year
+anniversary. We are starting to get more companies that are not software. We
+just signed Toyota, for example. Cars have Linux in them now. And getting them
+to think about the "open source way" of doing things is a big deal. This is a
+great problem to have, the "Open source is the thing, here's where we don't
+sue eachother out of existence, here is where we don't use the community for
+sales leads, and here's where we don't pretend we don't understand the
+license."
+
+Q: What trends have you noticed where ordinary people understand these issues?
+A: Non lawyers, it's both. The old-time coders, they had to understand the
+licensing and patent stuff, because there were not lawyers in place who
+understood it. Now, there are plenty of young coders who don't know the
+licenses, or understand the environment in which the licenses were created.
+The "post-open source" era. This is a challenge for us, we haven't done a
+great job explaining.
+
+"everyone is nice and gets it now" v.s. "no, they are contractually
+obligated."
+
+A: SJ, a trend we see on campus here, now that GitHub is a thing, students
+often believe that because it's on GitHub, it's FOSS, but we have to ask them
+if they posted a license with it.
+A: A good understanding of the culture of sharing, but not licensing. The biz
+and legal professionals now understand FOSS licenses, when I started, it was
+like the handful of people at the SFLC.
+
+Q: How aggressive should open source projects be in registering trademarks?
+A: you should do it earlier rather than later. You never want to get to the
+point where you have 8 people contributing who think "I'm the contributor"
+and they're using the name and logo made by someone's roomate who has
+disappeared. It's not that much to register, and if you want to go with an
+umbrella org--if you are Apache, you can get help from Apache foundation. FSF
+for GNU. SFC for others. That's not super scientific, I know, sorry.
+
+
+Q: Tidal was a Haskell music programming language. But then, 2 years later, the
+music platform came, and we changed the name/logo.
+A: Yeah, courts are expensive. If you have the most money, you likely win
+before you even go to court. Not defending is the cheapest option.
+
+Q: Would registering a trademark have helped in this situation?
+A: Yes, and if you are going to name something, doing a thorough search to
+avoid overlap.
+
+Q: Toyota, and other companies that are joining. What are the repercussions if
+they abuse the system, besides bad press?
+A: A lot of companies join the OIN, for the Optics and PR. "We're for real
+FOSS, you can trust us..." SATA joined for a year, but all their patents on
+the books when they joined, are free. Patent terms are 20 years. Anything
+after they leave, not subject to the pool. They are not protected by the pool
+either though.
+
+We've had very few people leave the pool.
+
+
+Q: Did the auto industry have a pool on their own?
+A: GENIVII alliance? It's an automotive Linux group, for coordinating Linux in
+Cars. They shared stuff, similar to open stack, where they agree to platform
+stuff they all use for interoperability, and makes parts cheaper, and it
+helps to not reinvent all the pieces of the OS. It doesn't apply to the
+patent. Because much of it is GPLv2, there is an "implied" patent grant some
+would say, but it doesn't have the explicit grant like the GPLv3. Up until PAX
+announced, OIN is by far the largest free patent pool. There are others, but
+they are pay-to-play. You pay in, you get the license, and then you get to not
+get sued. OIN doesn't get sued, so it's a very different model.
+
+Q: Are there ever issues with Trade Secrets in FOSS development?
+A: Much of that falls under NDA, and fought out over a particular employee. It
+tends to be more on an individual level. Not like the big company-to-company
+expensive lawsuit.
+
+Q: MPEGLA? That sounds a lot like extortion?
+A: It is.
+
+**big laughs**
+
+Except it is legal. That's why we need to target the legislation that makes it
+legal, and profitable. It's very "eff you pay me."
+
+Q: You mention the Samsung rounded corners suit. That seems odd that the
+patent office allows that. Seems like a waste of time? Why would they allow
+that?
+
+A: You're not wrong. That's a great question. I've never worked there but:
+1) They are overworked and likely underpaid agency. They get a certain number
+of hours. If they made it easy, ti would be different, but they are probably
+about 20 pages long, and includes "due to our ergonomic blah blah blah" they
+cover it with lots of verbiage to obfuscate the claims. Lots of legalese to
+cover a simple idea, and until many people look at it, they don't see. You pay
+an additional fee once your patent is granted. So, like a commission.
+
+Q: That seems wrong for a gov agency?
+A: Yeah, but it's like the post office, where it's not fully funded, but they
+are funded by the services that they provide. So yeah, maybe we should set up
+the office in a different way with diff carrots and sticks.
+
+Q: I went to a conference recently with presentations about blockchain?
+A: Blockchain has some overlap with Linux and open source. There is stuff not
+covered at OIN in our patent pool. What we've recommended, they should develop
+their own pool for their tech. That sounds like the potential for a huge pile
+of expensive suits. Techwise, blockchain is the new docker. Its like the
+magic sauce on everything. There will be lots of companies putting block chain
+into stuff form here on out. The code base is very different than Linux, they
+should start their own pool.
+
+Q: I'm based in Boston, but I have colleagues from all over the world. Korea,
+Australia, China, Japan, Europe, and the US.
+
+Q: Since OIN is global, would it be good to talk about different
+jurisdictions, where it's not possible to surrender your copyrights in some
+places, for example?
+A: What happens in diff jurisdictions? The US Exports, sometimes forcefully,
+our ideas of what copyrights and patents are. If you read NAFTA, there are
+parts in there that say "you agree to adhere to the US Standard" spelled out.
+Other countries are like "Ehhh, we could keep the IP out, and just do
+physical goods?" and the US was like "Nah."
+
+This is like, above my paygrade, but the US looks diff.
+
+If you are writing code, and it's used by people in the US, you can be sued
+here in the US. For many years, Chinese companies get called over to the US
+for infringement, eastern Texas district specifically. The Chinese patent org
+has gone through exponential growth in the last year. Now any country can sue
+you, and you can either stop making your stuff available to people in diff
+countries, or you have to go to that court.
+
+If you wrote code that was usable by a small language group, you may not have
+to worry about the scope outside of that place. But if you write in English,
+in iOS or Apple, you have to look at globally, how patents and copyrights
+work.  That means, looking at the biggest, pushiest, most litigious country
+works, e.g. the USA.
+
+The one glimmer of hope is that not every country says they like the scope of
+patentablility, and are building their own patent offices. India decided,
+where Sony Erickson has tried to sue there, and there is a court there and an
+org that protects local organizations. Weighing the global interests, versus
+local interests. One time they through Sony a bone, but most times, it is
+decided it's too important how connectivity has created a boom. It's been a
+huge revolution in the way Indian business works, and we're not going to make
+people pay Sony.
+
+"We're going to out-patent you" v.s. "we're not going to allow patents."
+
+
+I can take 2-3 more questions.
+
+
+Q: I have a left-field. Stephenson talks about Disney theme parks, and the
+artisans who built them, they are not credited in any way for the things they
+built. The same comes from the limited reading on Moral Rights. Euro Disney
+has moral rights. The artists and craftspeople, have moral rights to be
+recognized as creators. Are there plaques at Euro Disney, where you can see who
+built things? Is this a thing? Does anyone talk about this?
+
+A: that is interesting because it doesn't apply to software. I haven't been to
+Euro Disney either.
+
+Q: Sometimes you see credits, and sometimes you don't. Unlike a movie, where
+you always get credits?
+
+A: that doesn't usually happen, because all the authors are listed in a
+CONTRIB file, or there is an agreement to assign copyright. Sometimes they do
+both, because they know you're contributing code unpaid. The thing where,
+there is no 'hand crafted' 'I used a special brush' for like, python, per se.
+The thing is, where patents and copyrights come from, neither of them make
+sense for computer code. Neither are a good fit. Is it creative, or is it
+instructions for a device?
+
+Patents used to always have a diagram.
+People are talking about the diagram requirement be revived.
+
+Q: if you submit software to a group or org that doesn't have a copyright
+protection themselves, who does that belong to?
+A: You can't actually do that. If you write something, you have the copyright.
+It defaults to "all rights reserved." if you write it, you can keep those, or
+you can give them. The example you are thinking if you contribute to GitHub?
+
+If there is no license, there is nothing there beyond default copyright. That
+is the case.
+
+Q: Is there a way you can force, have final review over copyright, but not
+enforce it? Can you retain it so that you can control the direction that an
+aspect of it goes, but keep other from using it?
+
+A: Yeah, you can use a Free Software license. You choose a license, there are
+lots, and then, make sure your code goes where you think it does. Say you
+change your mind, you fall in with a bad crowd, and you wanna revoke the
+license. You can only revoke on future aspects. If you put it up on GitHub
+under a FOSS license, you can write additional code, but the original will be
+under the Free license.
+
+Q: Technically, you can hold your license forever, and decide if you wanna
+charge someone for it, but you have to be in a position to have legal teams
+back you up?
+
+
+Q: Companies make lots of money off licensing? If they join, do they no longer
+make money off of patent licensing?
+A: OIN is about patents specifically. It depends. We do have folks that still
+license the code. They provided a cross license on the function of the code.
+The trademarks, the style-sheet, and the copyright is like the content. The
+patent is on the function, or the interaction on the real world. If you
+cross-license your patent, that doesn't preclude you from selling a license on
+the text itself.
+
+Not only are we the ones that hold the text, we have the most bug-free version
+of the text. You could get it off the street, but you prolly wanna get it from
+us.
+
+There are more ways to make money from software than just patent lawsuits.
+
+
+Schniedy
+    IN 2 weeks is the last hackathon at RIT for the year. The NASA space apps
+    challenge.
+
+    29th-30th. All open source data and programming. You can register here
+    right now on their website. We're one of hundreds of sites world-wide.
+
+SJ
+    this isn't just for coders, it is for crafty and maker-y people.
+
+    Not just for RIT students, but the public and other schools.
