@@ -3,7 +3,7 @@ Campaigns Coordinator
 
 Thanks new and old friends for making LibrePlanet awesome.
 
-Sumana Harehareshawara(sp)
+Sumana Harihareswara
 
 Coding and Management with GNOME, Mailman, MediaWiki, Wikimedia. Writing for
 Salon.com, GeekFeminism.
@@ -21,11 +21,11 @@ that, she's going to draw the last two prizes
 I'd like to thank the FSF, the MIT SIPB, LibrePlanet and it's sponsors, and
 you for staying here and listening.
 
-I acknowledge the Wampinoa(sp) People, and the involuntary and exploited labor
+I acknowledge the Wampanoag People, and the involuntary and exploited labor
 from the people from all the lands that created Cambridge.
 
 
-I'm wearing approparite garb. (Shows off Tshirt from late 90's EFF days)
+I'm wearing appropriate garb. (Shows off Tshirt from late 90's EFF days)
 
 I arrived in Berkeley, and fell in with the Hippy Nerds. I learned about FOSS,
 and the GPL, and reading Slashdot, and installed maybe Mandrake on a 386, and
@@ -39,7 +39,7 @@ Sci-fi author, so I need to establish some time-travel rules:
 I can't say "you should take time off of school and design ballots in
 Florida."
 
-I'm taking inspiration from the infinite wrench. Any
+I'm taking inspiration from the infinite wrench. http://www.nyneofuturists.org/tiw/
 
 
 24 - Rumpelstiltskin fallacy
@@ -70,12 +70,13 @@ people..." "well, you know..." anybody can just learn by themselves if they
 want. Really great contributors are auto-didacts. Why give any mentorships? I
 met a guy who said "no one ever became a better engineer from mentoring?"
 
-Guffaw. There were no emoji back then for the tiny bits of spit escaping my
-lips. Learning styles may not be connected with learning outcomes, but FOSS,
-we are not that great who want structured apprenticeship. We have this
-"aftermarket add-ons" like Outreachy and GSOC, but that's not built in. If
-they're already in community, versus joining the community via means of
-contribution. Look up Dr. Mel Chua who has a great blog posts I wish I could.
+Guffaw. There were no emoji back then for the tiny bits of spit
+escaping my lips. Learning styles may not be connected with learning
+outcomes, but FOSS, we are not that great who want structured
+apprenticeship. We have this "aftermarket add-ons" like Outreachy and
+GSOC, but that's not built in. If they're already in community, versus
+joining the community via means of contribution. Look up Dr. Mel Chua
+http://blog.melchua.com/ who has a great blog posts I wish I could.
 
 11 - Describe more than prescribe, and watch out
 
@@ -88,10 +89,12 @@ should do X" they are talking about themselves.
 
 26 - Freedom, Safety, OpSec
 
-You may have seen my OSBridge Keynote. I was talking about my family
-background, Indian raised in the states, they wanted to keep me safe. They
-wanted me to be happy, and believed much would be in keeping the faith(?) I was
-about to enter the shaky process of stopping the process of holding safety
+You may have seen my OSBridge Keynote from 2012
+http://opensourcebridge.org/wiki/2012/Keynote_by_Sumana_Harihareswara
+. I was talking about my family background, Indian raised in the
+states, they wanted to keep me safe. They wanted me to be happy, and
+believed much would be in keeping the faith(?) I was about to enter
+the shaky process of stopping the process of holding safety
 highly. Not physical, but the emotional safety of failure exploration
 
 On the National security level, not on that, but in our individual lives. We
@@ -111,28 +114,31 @@ shoulder to wheel on making sure others don't need to either.
 
 4 - ASCII and Sovereignty
 
-I wish I had told me of 98, please please, everytime that you save data, make
-sure you save it in an open format. No one will respect Corel. Don't upload
-the fun music to Google Video, cause they'll take it down and you'll never get
-it back. If I had only saved lots of stuff, and took better care of my data.
-Realizing that I was the master of this, and once I upload, I cannot analyze,
+I wish I had told me of 98, please please, everytime that you save
+data, make sure you save it in an open format. Don't trust Corel
+WordPerfect's format. Don't upload the fun music to Google Video,
+cause they'll take it down and you'll never get it back. If I had only
+saved lots of stuff, and took better care of my data.  Realizing that
+I was the master of this, and once I upload, I cannot analyze,
 correct, or give it away, and it will go away without notice.
 
 8 - People keep dying
 
-When i was that young, I was really fortunate. I think that, I dunno, that I
-had not experienced a difficult death of anyone close to me. Many by the first
-year of college have. Therefor, it came as a shock, when  a prof died. Then it
-happened again. And Again. OK, alright, fine, old people, they will die, sure,
-but I never had braced myself when people my age, or younger, that maybe I
-knew through this community died. Like Aaron Swartz. Or last year, in 2016, I
-found out in 2 days in a row, that 2 people in Wikimedia, Gorman(sp), and
-Governor(sp), both died. I was rocked. Every year, for the rest of my life, I
-need to budget ahead for grief. There'll be days that are for sick days, or
-vacation, but there'll be days that will come from people who die, and it will
-increase faster than I expected. And People will leave our community. I talked
-to someone recently, who wasn't feeling so great, and he does great stuff. He
-said I was the first one who noticed or said anything.
+When i was that young, I was really fortunate. I think that, I dunno,
+that I had not experienced a difficult death of anyone close to
+me. Many by the first year of college have. Therefor, it came as a
+shock, when a prof died. Then it happened again. And Again. OK,
+alright, fine, old people, they will die, sure, but I never had braced
+myself when people my age, or younger, that maybe I knew through this
+community died. Like Aaron Swartz. Or last year, in 2016, I found out
+in 2 days in a row, that 2 people in Wikimedia, Kevin Gorman and Chip
+Deubner, both died. I was rocked. Every year, for the rest of my life,
+I need to budget ahead for grief. There'll be days that are for sick
+days, or vacation, but there'll be days that will come from people who
+die, and it will increase faster than I expected. And People will
+leave our community. I talked to someone recently, who wasn't feeling
+so great, and he does great stuff. He said I was the first one who
+noticed or said anything.
 
 What the hell, what civilization are we that doesn't take care of others
 through the whole cycle.
@@ -155,11 +161,10 @@ Sometimes they don't return the respect you show them.
 
 98 wasn't then
 
-Alex bailey, founded Geek Feminism
+Alex Bayley, founded Geek Feminism
 Ashe Dryden, done a tremendous amount of work to make Ruby and Free Software
 so many people in this room, I wish I met you in 98, but I didn't know to
-look. I didn't know to look for Aaron, or Chelsea, or Eddy. If we called him
-Eddy (Snowden) would that make him more approachable???
+look. I didn't know to look for Aaron, or Chelsea Manning, or Eddy Snowden. If we called him Eddy (Snowden) would that make him more approachable???
 
 (big laughs)
 
@@ -170,7 +175,7 @@ own innocence" no, I wish I had a dossier.
 17 - Enlightened Self-interest versus infrastructure
 
 Maybe this was in CatB, but it is in the enlightened self interest to support
-infra, ofcourse they'll just do it, right? (I wrote 'hahahaha' in my notes.)
+infra, of course they'll just do it, right? (I wrote 'hahahaha' in my notes.)
 just because it is the right idea, you may have written a silly poem about it.
 It turns out that money is not available for things that need doing, that are
 not visibly salient to those with the purse strings. Call it greed, call it
@@ -211,20 +216,20 @@ bot, which makes it easier to deal with organizations. GitHub believes that
 maintainership is binary, not like "I want notifications for this part of the
 repo" for example. We have great standards for engineering.
 
-Software carpentry. Project to get researchers to use free software and tools.
+Software Carpentry. Project to get researchers to use free software and tools.
 
 Dreamwidth. Fork of Livejournal. Very friendly community. Emphasizing metrics
 and teaching, and doesn't use mailing lists.
 
-Beautiful Soup.
-ArchiveOurOwn
-GNUMailman3
+Beautiful Soup
+Archive Of Our Own
+GNU Mailman 3
 
 Be unsurprised by ignorance. Marketing.
 
 15 - FLOSS people aren't all like Seth Schoen.
 
-He's the Free Software version of Mr. Rodgers. Imagine if that first person
+He's the Free Software version of Mr. Rogers. Imagine if that first person
 you met was Mr. R, and everyone was like him?
 
 I met a bunch of nerds in my dorm, and i met this person who "wouldn't even
@@ -236,14 +241,14 @@ If you say something inaccurate, or you don't know something, he doesn't do
 that "well actually" or "you don't know that???" he'd say in a collaborative
 or curious thing to understand where your mental models diverge. Maybe he's
 wrong about the root of the word, or how Debian pacakaging works? For those of
-you who are not TV watchers, there was this guy named Fred Rodger, who was the
+you who are not TV watchers, there was this guy named Fred Rogers, who was the
 most kind person on TV, and consistently demonstrating that you can be your
 best, and that you can use emotional self-regulation even when it's hard. I
 thought everyone was like this...
 
 (big laughs)
 
-Then there's like Paul Reiser(sp). The people who offered me the greatest
+Then there's like Hans Reiser. The people who offered me the greatest
 Betrayals, they too, were free software people. I'm gonna think for a second
 about the stuff I can't say. Maybe you have some stories you can't talk about.
 Maybe I can tell those to Sumana. Why did you do that to me?
@@ -254,6 +259,9 @@ He is so pure and so good and so full of integrity, his chariot floats above
 the ground. You can be pure on one axis, but my taxes pay for Dronestrikes.
 None of us.
 
+Harm reduction.
+
+[buzzer goes off]
 
 I'm really grateful. Is anyone frustrated that we didn't get all the way
 through? I could post these on my blog later. I know that some of you wanted
@@ -268,13 +276,16 @@ dimly aware, by looking more inward than outward about our communities.
 
 
 That FOMO, I didn't get to go to FOSDEM, the social comparison, or
-completionism, is often about the wrong things. I wish that young Sumana spent
-more time learning the languages that my parents speak.  I wish that I had
-kept my Russian. 
+completionism
+http://reagle.org/joseph/pelican/social/fomo-interview.html , is often
+about the wrong things. I wish that young Sumana spent more time
+learning the languages that my parents speak.  I wish that I had kept
+my Russian.
 
 Reading wisely, and learning to learn perspectives of People not like you, as
 a strategy of ....
 
+http://vajra.me/2015/11/04/excisions/ by Vajra Chandrasekera
 
 To read widely, is to learn, using sense of touch in the dark, where you scars
 are.
