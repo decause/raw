@@ -1507,135 +1507,136 @@ Silona
     series.
 
 Eriol
-    if you didn't already know, the funciton of a designer is to think about
-    the exlcuded and included users, and how to design for them.
+    if you didn't already know, the function of a designer is to think about
+    the excluded and included users, and how to design for them.
 
-    by virtue of including those kinds of poeple, 'who is using it, why they
-    use it, who are we not thining of?" that's a best ptactic/standard in
+    By virtue of including those kinds of people, 'who is using it, why they
+    use it, who are we not thinking of?" that's a best tactic/standard in
     design, that can only help with ways of measuring.
 
 Karthik
-    I lik eth eidea of more standards development in this space.
-    sgoogons brought up, ther's working gropus who spetn time defining what
-    things mean, before collectin gdata.
-    for other areas, there can be more community involvment.
-    jsut startin gto scratch surface.
+    I like the idea of more standards development in this space.
+    Sgoggins brought up, there's working groups who spent time defining what
+    things mean, _before_ collecting data.
+    For other areas, there can be more community involvement.
+    Just starting to scratch surface.
 
-    one area, in ethics, standrads around what is implletnet, and wha tth
-    ebounds are of sofwtaser. Thinking about how researchers develop
+    One area, in ethics, standards around what is implemented, and what the
+    bounds are of software. Thinking about how researchers develop
     statistical methods, but don't tell you the limits of that tool, and
-    hwere/how that can be applied. 
+    where/how that can be applied. 
 
     Josh has funded many in this room, and we've been getting input, thanks to
-    support, around statitstical tool, and suporting tooling, for when things
+    support, around statistical tool, and supporting tooling, for when things
     are used outside of the intended context.
 
-    usability in open source is good for us.
+    Usability in open source is good for us.
 
 Karthik
     when you create a standard, without a diverse working group, you're still
-    gonna hve that problem.
+    gonna have that problem.
 
-    the only people showing up are the same people, and they'll have the same
-    limiteation from before, if you don't have different people.
+    The only people showing up are the same people, and they'll have the same
+    limitation from before, if you don't have different people.
 
 Karthik
     ties into a point for Eriol
     we don't have enough time to observe impact.
-    making sure docs are translated into other languages, that's something
-    that doens't get enough work, because the impact is not immediately
+    Making sure docs are translated into other languages, that's something
+    that doesn't get enough work, because the impact is not immediately
     observable.
 
-Q - nolski:
+Q - Nolski:
     you talked about metrics, and DEI. In particular, in OSS, was mentioned
-    that OSS struggles with this. YOu have personal struggles you've
+    that OSS struggles with this. You have personal struggles you've
     witnessed. There's many initiatives to measure individual projects to make
     them more inclusive. Do you think that focusing on individual metrics, it
-    moves away from holistic issues? Open WOrk being structured in a voluntary
+    moves away from holistic issues? Open Work being structured in a voluntary
     way, not many support programs. Curious about dichotomy of individualized
     v.s. holistic efforts to make inclusive for all?
 
 
-SIlona
-    comes back to stustainability and money and resources.
-    you don't brin gthat it, you'll have more problem.s
+Silona
+    comes back to sustainability and money and resources.
+    You don't bring that it, you'll have more problems.
 
-    corporate world, different interestes.
-    but in npo and gov, the focus on those apsects. Adressind in different
+    Corporate world, different interests.
+    But in npo and gov, the focus on those aspects. Addressing in different
     ways. Digital Public Goods. DIAL is doing evals of software. Should have
-    Josh come up and answer (I"ll be up tomo morning to ansewr, lol)
+    Josh come up and answer (Josh, from Audience: I'll be up tomo morning to
+    answer, lol)
 
-    WHy iEEE is interested in tackling, is that int's not jshort term, but
+    Why iEEE is interested in tackling, is that it's not short term, but
     longterm. I've experience the clash between startup and npo timing.
 
-    keeping the inertia going, burnout is a real issue with others.
+    Keeping the inertia going, burnout is a real issue with others.
 
 Sgoggins
-    Sitting with Demiteris cheatum at OSSNA
-    talking about this problem, making a largescale impact.
-    they're a large scale platform.
+    Sitting with Demitrius Cheatum(sp) at OSSNA
+    Talking about this problem, making a largescale impact.
+    They're a large scale platform.
     DEI.md
 
-    just like a file in a repo can nuture in a large grop of projecs, we think
-    it can make a difference. We're making this part of github.
-    behidn the scnese, if oyu don't have a coc and contributing, you don't
-    show up very high in the search resoults. 
+    Just like a file in a repo can nurture in a large group of projects, we
+    think it can make a difference. We're making this part of GitHub.
+    Behind the scenes, if you don't have a CODEOFCONDUCT.md and
+    CONTRIBUTING.md, you don't show up very high in the search results.
 
-    by adding DEI.md to that, we can have simliar impact.
+    By adding DEI.md to that, we can have similar impact.
 
-    that was over a beer, but those small ideas can scale change.
+    That was over a beer, but those small ideas can scale change.
 
 Karthik
-    that's a great question, and we have to wlak all the time.
-    hard to come up with bespoke metrics on project-by-project.
-    quantitative metrics become easy to game.
-    this is a thing we chase constantly.
+    that's a great question, and we have to walk all the time.
+    Hard to come up with bespoke metrics on project-by-project.
+    Quantitative metrics become easy to game.
+    This is a thing we chase constantly.
 
-    I don't hav ea great answer, but ot say that people need to both.
-    Standarized metrics give easy comparison, but if you've have unusual
-    seuccss, imporetnat to caputre that, and put it into writing. even if it
-    dones't go well into a table.
+    I don't have a great answer, but to say that people need to both.
+    Standardized metrics give easy comparison, but if you've have unusual
+    success, important to capture that, and put it into writing. Even if it
+    doesn't go well into a table.
 
-    ctiations is somehting we care deppely about. Not just how many, but where
+    Citations is something we care deeply about. Not just how many, but where
     is it cited, and what domains it's being cited in.
 
 Eriol
     asking about broader cultural change in working openly?
     When you ask, first thing my brain wen tot, frustration, movement in
-    design industry "oepn Design' v.s. "open source design'
+    design industry "open Design' v.s. "open source design'
 
-    making desing files na dprocess available is what "open design' means, but
+    Making design files and process available is what "open design' means, but
     their doing open work on proprietary tools. The convos are rich for open
     space, but we're missing it from the slightly different wording than what
-    we're used ot.
+    we're used to.
 
-    frustration, it's changing, but that we don't teach designers to do more
+    Frustration, it's changing, but that we don't teach designers to do more
     open practices. Unless you find an interest in it, you'll never discover
     it. Cultural/economic changes, the stuff in open source design, is on the
-    'other side of the curtain' but making sure the people who shouldvalue the
-    stuff open source designers shold do.
+    'other side of the curtain' but making sure the people who should value the
+    stuff open source designers should do.
 
 Silona
     I'll end on a negative note :P
-    caution dependence on commercial entitty like github.
-    I remember sourceforge.
-    we need to look beyond that for our tooling.
-    it's ironic to talk OSS, but then depend on a commercial closed entity.
+    caution dependence on commercial entity like GitHub.
+    I remember Sourceforge.
+    We need to look beyond that for our tooling.
+    It's ironic to talk OSS, but then depend on a commercial closed entity.
 
 Sgoggins
     if anyone has a 250M to invest in an alternative
 
-    Ballmer did 'develpoers develoers developers' 20 years ago.
-    it'll be hard to beat.
+    Ballmer did 'developers developers developers' 20 years ago.
+    It'll be hard to beat.
 
-    I agree that relying on commercial enterprise is dnagerous, but I don't
+    I agree that relying on commercial enterprise is dangerous, but I don't
     know who I'd work with in our lifetime to make a change.
 
 Django
     we're going to break now.
 
 -------------
-What are the simliariaties and differences in community managment in FOSS,
+What are the similarities and differences in community management in FOSS,
 Open Science, and Games?
 -------------
 
