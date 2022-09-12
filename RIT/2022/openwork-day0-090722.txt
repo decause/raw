@@ -66,7 +66,7 @@ identify opportunities, address open work and challenges.
 Hope you'll build foundation to support a new and better ecosystem. Wish you
 the best for your next few days.
 
-Intro Karsten Wade, Prin. Community. Architect. at red hat.
+Intro Karsten Wade, Principle Community Architect at Red Hat.
 
 Helps more people learn about and participate in open work
 
@@ -137,9 +137,9 @@ Each panelist will give 5 mins of introductory remarks. Then I'll give a bit
 after them, then I'll put out a few questions we've mulled over in advance,
 and take questions/topics from the audience.
 
-First, dir of digital humanities, kathleen at MSU
+First, Director of digital humanities, kathleen at MSU
 
-I am as you heard, dir of DH at MSU. In that role, direct a small RnD group
+I am as you heard, Dir of DH at MSU. In that role, direct a small RnD group
 called Match(mesh?), doing open scholarly communications.
 https://Hcommons.org. Built by MLA, support Mellon Foundation and NEH. Designed
 t support member-to-member communication int he MLA. Then opened to anyone who
@@ -260,10 +260,10 @@ Chris
 
     Very recently launched SIG support for open data. As on any campus, and
     campus decentralized, there's diff people doing different parts of open,
-    and may be replicating work. Libraries is a centralizing force, interdisp
-    and accessible. Teamed up with colleague in Science, and offering Open Data
-    Prizes for the first time at MIT. Designed specially, for next
-    generation. Wanted to reward 'research trainees' for postdocs and
+    and may be replicating work. Libraries is a centralizing force,
+    interdisciplinary and accessible. Teamed up with colleague in Science, and
+    offering Open Data Prizes for the first time at MIT. Designed specially,
+    for next generation. Wanted to reward 'research trainees' for postdocs and
     students, not faculty. Creating data, sharing data, making use of open
     data, or theorizing and writing about open data. Having a huge event for
     open access week in October. Networking event for anyone working in the
@@ -417,10 +417,10 @@ Richard
 Tom
     Thanks everyone for the great perspectives.
     Quick thing about me, Dir of NASEM board in DC.
-    Academies are private npo, have a congressional charter to advise the
-    national foundation on Science tech medicine Eng related policy issues. 
-    The board on research data and information, been working with them for 5
-    years.
+    Academies are private non-profit orgs, have a congressional charter to
+    advise the national foundation on Science tech medicine Eng related policy
+    issues.  The board on research data and information, been working with
+    them for 5 years.
 
     Encompasses several diff projects. Working to introduce others. We do
     expert committee consensus studies. We do convening through roundtables,
@@ -711,145 +711,145 @@ Nithya
         though we've been doing this for 20-25 years. Esp at scale, like at
         Amazon, to build the right tooling/process, that are not too
         heavyweight, but we do the right level of diligence on compliance
-        matters, whther contirubitng or distributing, or using a new license.
-        it's ab ig area, where we focus. How do we do it correctly, how do we
-        make it easy to remeber the legal aspects?
+        matters, whether contributing or distributing, or using a new license.
+        It's a big area, where we focus. How do we do it correctly, how do we
+        make it easy to remember the legal aspects?
         2) Hiring good people into an OSPO. Stephen and Ruth are unique. Some
-        OSPO folks come with broad sets of interactionsl skills.SOme ocme form
-        comms/marketing, and at other times, work in leciensing to have convos
-        with IP/legal, then need to pivot and talk with develoers inside, then
-        talk with outside orgs. THere are few skilled wonderful competant
-        people with that range.
+        OSPO folks come with broad sets of intersectional skills. Some come
+        from comms/marketing, and at other times, work in licensing to have
+        convos with IP/legal, then need to pivot and talk with developers
+        inside, then talk with outside orgs. There are few skilled wonderful
+        competent people with that range.
 
     The easy/exciting:
-        how OSPOS are gettin recognized to strategic to innovation.
+        how OSPOS are getting recognized to strategic to innovation.
         ...
         Ecosystems...
         Frozen...
 
 Ruth
-    Literally everythign about starting Open Source Program at proprietary
-    company is exciting and challengeing.
+    Literally everything about starting Open Source Program at proprietary
+    company is exciting and challenging.
 
-    Findign everyone in the Org doing open source.
+    Finding everyone in the Org doing open source.
 
-    "jeff down the street has a repo we sholud have knwn about"
-    "so and os has joined another foundation for 250K..."
+    "Jeff down the street has a repo we should have known about"
+    "so and so has joined another foundation for 250K..."
 
-    finding those folks, and what we did at Red hat, was to consolidate
+    Finding those folks, and what we did at Red hat, was to consolidate
     joining those things.
 
     RHT is up to like 70 memberships.
     Someone would join, and we'd pay the thing, and no one was paying
-    attentoin.
+    attention.
 
-    develpoing a process nd a missionf or why you join.
+    Developing a process nd a mission for why you join.
 
     "Drop some money to slap a logo on it"
     the other is to participate.
 
-    one is good, the other is not.
+    One is good, the other is not.
 
     Driving participation, is the more effective. Dropping that 50K just
     because there's budget at the end of the year is not a great reason to do
     it.
 
 Steven
-    easy part, joinign cisco, was I wasn't joining unless OSS isuspported. I
+    easy part, joining Cisco, was I wasn't joining unless OSS is supported. I
     was 'tip of spear' and blessed from Exec leadership. Getting others to
-    undertand that's the message (open source is the streategy)
+    understand that's the message (open source is the strategy)
 
-    who's managing the CLAs?
-    WHo's still around that started th emembership?
-    WHo's publishing blogs? 
-    we're 3 people for a cmompany of 80K...
+    Who's managing the CLAs?
+    Who's still around that started the membership?
+    Who's publishing blogs? 
+    We're 3 people for a company of 80K...
 
     Understanding how to scale yourself. Stepping outside of tasks you're used
     to doing. Stepping away from the terminal, more video conferences...
-    establshing a web of trust across the company.
-    hired some of the best open source talen't I've seen on the plane.t I know
-    anything I hand them, tey will execute. Do the thing. Sign the paperwork.
-    Mov ethe ball. Tha tfrees me up to have convos with Directors and VPs, to
+    Establishing a web of trust across the company.
+    Hired some of the best open source talent I've seen on the planet. I know
+    anything I hand them, they will execute. Do the thing. Sign the paperwork.
+    Move the ball. That frees me up to have convos with Directors and VPs, to
     show them we're a center of excellence for the entire company.
 
-    we're the conduit ot help you be sucessful.
+    We're the conduit to help you be successful.
 
-    ALl the things are hard. hardest thing is figuring out what to do with
-    your day, becaues oepn source is fast and exmpaneisve, and you cannot get
+    All the things are hard. Hardest thing is figuring out what to do with
+    your day, because open source is fast and expansive, and you cannot get
     it all done, no matter the size of your team.
 
 Nithya
     scaling is hard.
-    enabling developers to do self-service, and educate them on isues of open
+    Enabling developers to do self-service, and educate them on issues of open
     source when they need to engage, is the only way.
 
-    you cannot be everywhere. HWen you have htousand and thouseands of peopel.
-    OSPOS tend to be small, between one person, to a couple dozen people in
+    You cannot be everywhere. When you have thousand and thousands of people.
+    OSPOs tend to be small, between one person, to a couple dozen people in
     very large companies.
 
-    enabling the teams to put in autmoation, self-service, education in place
+    Enabling the teams to put in automation, self-service, education in place
     is the only way to scale expertise of OSPO.
 
 Ruth
-    You may have a small ospo, but if you can get 2 hours a week, or 1 hour a
-    month from that person, you can build big impact! that's how this
+    You may have a small OSPO, but if you can get 2 hours a week, or 1 hour a
+    month from that person, you can build big impact! That's how this
     community thing works.
 
 Steven
-    it's not an open soruce offic,e but an open source PROGRAM office, because
+    it's not an open source office, but an open source PROGRAM office, because
     you cannot do it all yourself, scaling is hard.
 
 Q: SGoggins
-    When you look at corporate OSPOs, ther are some that exist to achieve
-    differnt directives. Some more focused on controling software, some more
-    focused on creagting community. How are they shaped differently in
+    When you look at corporate OSPOs, there are some that exist to achieve
+    different directives. Some more focused on controlling software, some more
+    focused on creating community. How are they shaped differently in
     different contexts?
 
 Ruth
     I was look at LF, they have an org called the TODOGrup, a group of people
-    in OSPOS who come to gether to talk about OSPO-y things. They've done this
-    survey for 4 years to look at their growth. THe report in fEb came out,
+    in OSPOS who come together to talk about OSPO-y things. They've done this
+    survey for 4 years to look at their growth. The report in Feb came out,
     and the steps of the maturity model.
 
-    Not sure I agree with that outline, but tey can came in.
+    Not sure I agree with that outline, but they can came in.
 
     Step 0 is adoption.
     Then compliance, education, legal
-    then community ed and participation (not sure that' sa process)
+    then community ed and participation (not sure that's a process)
     then finally, becoming leadership.
 
-    that's more like likely functions, not a sequentilal step.
+    That's more like likely functions, not a sequential step.
 
 Nithya
     some companies do follow that path.
-    eveyrone starts with consumption.
-    then lawyers get word, and they want to get control or compliance.
-    then there's a random developer that wants to congribute back, and some
-    companies don't allow it. Then you realize that you need to have commnity
-    engeagement in palce.
-    then the ultimate is releasing csoftware, engageed in lots of communities
+    Everyone starts with consumption.
+    Then lawyers get word, and they want to get control or compliance.
+    Then there's a random developer that wants to contribute back, and some
+    companies don't allow it. Then you realize that you need to have community
+    engagement in place.
+    Then the ultimate is releasing software, engaged in lots of communities
     and company projects. In our company, it was all of the above. Diff parts
-    engage unevenlyl.. There is no cprorate edict about 'how we engage in open
-    source' but based on needs of diff bjuisiness. Some parts are highly
-    comminty aengeaged because that 's important ot heeir biz.
+    engage unevenly. There is no corporate edict about 'how we engage in open
+    source' but based on needs of diff business. Some parts are highly
+    community engaged because that's important to their biz.
 
-    some parts are only concerned iwth compliance, nd don't contribute back.
+    Some parts are only concerned with compliance, and don't contribute back.
 
-    our job as an OSPO is about making an "EVENNESS" across the companies,
-    while being conginizent of differences.
+    Our job as an OSPO is about making an "EVENNESS" across the companies,
+    while being cognizant of differences.
 
 
 Steven
-    cost centers, one problem when you srart, you're on the back foot. Ther'es
+    cost centers, one problem when you start, you're on the back foot. There's
     already a biz built, and Open source is often an 'afterthought'
 
-    dependong on where you land, marketing, legal, compliance, etc... will
+    Depending on where you land, marketing, legal, compliance, etc... will
     color what goals you're formed under at what time. I like that our OSPO is
     housed in strategy, which means it is core to biz.
 
     Were I not at CISCO, I'd be at Red Hat. They have a great model, the best
-    for OSPOs. THe OSPO function being set close by. Trendspotting.
-    Structuring things near emerging innovations for biz, signals ou are
+    for OSPOs. The OSPO function being set close by. Trendspotting.
+    Structuring things near emerging innovations for biz, signals you are
     trying to get ahead of needs, as opposed to working them into existing
     structures.
 
@@ -857,59 +857,59 @@ Q - SJ: Discuss/Define Compliance?
 
 Nithya
     2 unique aspects:
-        1) it comes with a unique licnese, not a commerical license, created
-        by maintainer to propogate the software.
-        2) Community. How it'sdeveloped. Collaboratively. Globally.
+        1) it comes with a unique license, not a commercial license, created
+        by maintainer to propagate the software.
+        2) Community. How it's developed. Collaboratively. Globally.
 
         License aspect is what compliance cares about.
 
         To me, it's about respecting the license. What the developer of
-        sofware is telling us. "You can have htis, and when you distribute or
+        Software is telling us. "You can have this, and when you distribute or
         share it, respect the obligations of this license"
 
-        for exmaple, pubshining the copyright, mention the license name,
+        For example, publishing the copyright, mention the license name,
         ensure it is carried forward in derivative works.
 
-        Therea re new licenses coming out. OSI has a certain list, but there
-        are thousands in the wild. Undertanding whether one is ok to use as it
-        parterians to what they write.
+        There are new licenses coming out. OSI has a certain list, but there
+        are thousands in the wild. Understanding whether one is ok to use as it
+        pertains to what they write.
 
-        3) Helping developers release sofware will proper license and
+        3) Helping developers release software will proper license and
         attribution.
 
         4) distributing the software the right obligations that it can
         include. If you distribute GPL, must make source available, and an
         attribution notice that includes the copyright notice.
 
-        Eudcating developers on these aspects.
+        Educating developers on these aspects.
 
-        OCmpliaance is also about protecing company IP. Using certain
-        licenses incorrectly can compromise IP. Often companries acquire other
-        companies, so ensureing that in a mergere/acquisition, that that
-        doesnot bring new compliance risks, and undestranding their compliance
-        knowlege.
+        Compliance is also about protecting company IP. Using certain
+        licenses incorrectly can compromise IP. Often companies acquire other
+        companies, so ensuring that in a merger/acquisition, that that
+        does not bring new compliance risks, and understanding their compliance
+        knowledge.
 
-        respecting hte licenses is ocmpliance.
+        Respecting the licenses is compliance.
 
 Steven
     I was an SRE eng in past life.
-    one things this role has to consider i s"what happens when something goes
+    One things this role has to consider is "what happens when something goes
     wrong"
 
-    Postive light from Nithya, but I think about Fear/Risk.
-    What is the ocst of doing this incorrectly.
-    Laywers have said "we exist to make sure this lawsuit doe snot happen
-    again" W're not doing it ifor fun. There is a cost of doing biz. managing
-    groups that might use OSS, even if htey don't realize it, has huge risks.
-    Getting code form the internet for free, makes it more likely it iwill be
+    Positive light from Nithya, but I think about Fear/Risk.
+    What is the cost of doing this incorrectly.
+    Lawyers have said "we exist to make sure this lawsuit does not happen
+    again" We're not doing it for fun. There is a cost of doing biz. Managing
+    groups that might use OSS, even if they don't realize it, has huge risks.
+    Getting code form the internet for free, makes it more likely it will be
     used. If we don't manage the way we report the way we use software, and
-    manage developer education, and mangaement education. having a tight
-    relathiosnihp with legal, to manage the huge risk component.
+    manage developer education, and management education. Having a tight
+    relationship with legal, to manage the huge risk component.
 
 Ruth
-    yep, goodcop badcop
-    risk maangement and importance to cmmunity.
-    we can give a whole days' workshoip on licens eocmpliance, but hta twas a
+    yep, goodcop badcop.
+    Risk management and importance to community.
+    We can give a whole days' workshop on license compliance, but that was a
     great summary.
 
 Mel
@@ -918,60 +918,60 @@ Mel
 
 
 Steven
-    I don't think there is a time that Iv'e had had a plan that went exactly
+    I don't think there is a time that I've had had a plan that went exactly
     as planned... with OpenSSf and convos with Whitehouse around how Govs
-    handle OSS and dvelop policy. it's flipping a lot of the notional
-    constructrs of certain peices of software on it's head. Tring to
-    understand how to handle going back to risk, vuln mamagenet in commnites,
-    where if you've seen the XKCD Jenga-block comic panel.
+    handle OSS and develop policy. It's flipping a lot of the notional
+    constructs of certain pieces of software on it's head. Trying to
+    understand how to handle going back to risk, vulnerability management in
+    communities, where if you've seen the XKCD Jenga-block comic panel.
 
-    Thinking about kubernetes, brains is etcd, there's a maintainer problem,
-    and that causes reliablility problems at the cluster lvelv, which means
-    business level. Looking at amazong/googl/microsoft, it has real impact.
-    Do we help fund etcd? Etcd came out of coreOS. there's apersonal want, and
-    a business need. Havin gthose convos of 'hey, not as read up on
-    vuln/commniyt mangement, udnerstanding pattersn of why people leave
-    commuityes, or how small communities grow and shrink. The rampup periods.
-    the 3 different lenses of contrib/maintain/sponros. Maintainers are subset
+    Thinking about Kubernetes, the brains is etcd, there's a maintainer
+    problem, and that causes reliability problems at the cluster level, which
+    means business level. Looking at Amazon/Google/Microsoft, it has real
+    impact. Do we help fund etcd? Etcd came out of CoreOS. There's a personal
+    want, and a business need. Having those convos of 'hey, not as read up on
+    vuln/community management, understanding patterns of why people leave
+    communities, or how small communities grow and shrink. The ramp-up periods.
+    The 3 different lenses of contrib/maintain/sponsors. Maintainers are subset
     of contributor, but that's not a small feat to get to maintainer. It takes
-    sustained effort. YOu may not have that undertanding or skillset in your
+    sustained effort. You may not have that understanding or skillset in your
     org, the role of community education; "how do we build a community?" How
     do we make it easy to join, so that you can continue to support it.
 
     Plans don't survive impact in day-to-day.
 
     One of my team sin K8s. Anything that's written down, feel free to throw
-    it out. it may have been correct at one time, but you're hired to question
-    and improve. YOu have to be flexible na dchallnenge what is written to
-    imrpvoe over time.
+    it out. It may have been correct at one time, but you're hired to question
+    and improve. You have to be flexible and challenge what is written to
+    improve over time.
 
-    don't make rigid plans.
+    Don't make rigid plans.
 
 Nithya
-    you covered many apsects of pivot. 
+    you covered many aspects of pivot. 
 
-    agiliity, as steven alluded to, is an important aspect of being an ospo
+    Agility, as Steven alluded to, is an important aspect of being an OSPO
     person.
 
-    licenses change constantly.
-    if you consumed something under an assumption, then it changes, you need
+    Licenses change constantly.
+    If you consumed something under an assumption, then it changes, you need
     to advise on how to react to it.
 
-    Security is front an dcenter now.
-    got to broadhen horizons to how to partner, how do I contribute to the
-    dicussion? HO wdo I get eahed of problems through nknownlege of ecocsytems
-    and how OSS owrks? How do I work wtih legal/marketing/PR in developing
-    good relationships with leadrehsip, and not assjming that eveyrone
-    udnertsands as well as you do. Continuing to share, and be an advocate on
-    the outsid,e but inside as  a culture guide. All this requires to be agile
-    and change iwth needs of biz, and needs of community, and the scope of ht
-    erole.
+    Security is front and center now.
+    Got to broaden horizons to how to partner, how do I contribute to the
+    discussion? How do I get ahead of problems through knowledge of ecosystems
+    and how OSS works? How do I work with legal/marketing/PR in developing
+    good relationships with leadership, and not assuming that everyone
+    understands as well as you do. Continuing to share, and be an advocate on
+    the outside, but inside as  a culture guide. All this requires to be agile
+    and change with needs of biz, and needs of community, and the scope of the
+    role.
 
 Ruth
-    othe rway to define.
-    if you reach the point to lead/host.
-    You, as ospo, are responsible to make decisoins with thousands of people
-    who don't work for you. If pivoting is not for you, ospo-life may not be
+    Here's another way to define.
+    If you reach the point to lead/host.
+    You, as OSPO, are responsible to make decisions with thousands of people
+    who don't work for you. If pivoting is not for you, OSPO-life may not be
     for you ;P
 
 Mel - common misconceptions? How do you address and resolve confusion?
@@ -979,266 +979,280 @@ Mel - common misconceptions? How do you address and resolve confusion?
 
 Nithya
     one thing coming in, you need to know all the tech areas that OSS is in.
-    forget that form the start. YOu cannot be a tech expert in everything.
-    you are an expert in nvaigating the cultures of open soruc.e
-    you need to partner with tehcnologists in particular areas, to work
-    toether.
+    Forget that from the start. You cannot be a tech expert in everything.
+    You are an expert in navigating the cultures of open source.
+    You need to partner with technologists in particular areas, to work
+    together.
 
     2nd is that an OSPO needs to do everything in open source.
-    ifyou can partner with groups inside to do OSS more effectively, or to
-    scale automation an dtooling, you can get the job done.
+    If you can partner with groups inside to do OSS more effectively, or to
+    scale automation and tooling, you can get the job done.
 
-    "be everywhere, know everything, open source everything" you will fail.
+    If you try to "be everywhere, know everything, open source everything" you
+    will fail.
 
 Ruth
     Having people be aware that it even exists.
-    you have like a jilliion employees, right, at CISCO?
+    You have like a jilliion employees, right, at CISCO?
 
 Steven
-    yeah, first year, I was one-person ospo. things fall through cracks. YOu
+    yeah, first year, I was one-person OSPO. Things fall through cracks. You
     don't know here to get support."I didn't even know we did open source
     until you joined" That's a misconception that I have to help fix (we can't
     do it all)
 
-    ownership, whether esxternal/territorialism. "Hey, that's 'my' thing!"
+    Ownership, whether external/territorialism. "Hey, that's 'my' thing!"
     "I don't want to own your thing, I'm trying to help you share your thing."
 
     OSPOs coming into 'their' territory is a misconception.
 
     Innersource is 'what if you did open source, inside the org!"
 
-    "Why hsould my group share this code?"
+    "Why should my group share this code?"
 
     I know there's power an magic in sharing that code. If you look at it form
     biz perspective, without it being a weird 'corporate speak' 'with
-    paticipating in OSS commnities, we can monetize people who don't work for
-    us!" no, don't say that, tha'ts terrrible.
+    participating in OSS communities, we can monetize people who don't work for
+    us!" no, don't say that, that's terrible.
 
-    but working on innersource, there's a force multiplier to contribute back
+    But working on Innersource, there's a force multiplier to contribute back
     to internal communities. I hesitate to do a 'needs justification' there.
 
-    I spend my day, wondering why we even need to justify our existence. it's
+    I spend my day, wondering why we even need to justify our existence. It's
     easy.
 
 Ruth
-    Teaching adults tha tasharin gis ok, and collaboration is what we do, and
-    it's on perupsose.
+    Teaching adults that sharing is ok, and collaboration is what we do, and
+    it's on purpose.
 
-    OYu get told to keep  your eyes on your paper, and compete for jobs, when
+    You get told to keep  your eyes on your paper, and compete for jobs, when
     they get promoted, you don't.
 
-    breaking down that midsent, and collaboraing is one of the biggest
+    Breaking down that mindset, and collaborating is one of the biggest
     challenges.
 
 Mel
-    What questions do the panelist wish I asked, then anser it?
+    What questions do the panelist wish I asked, then answer it?
 
 Nithya
-    I think you asked all the right quetions.
+    I think you asked all the right questions.
     I'll use my time to say I'm super excited that EDUs like RIT and USC and
-    JHU are also starting OSPOs. OSPOs are not limited to businesses. they
+    JHU are also starting OSPOs. OSPOs are not limited to businesses. They
     belong in all orgs. WHO started at OSPO! It's a great way to have someone
-    be focused on Open Source. If you blelive that OSS is the most effective
+    be focused on Open Source. If you believe that OSS is the most effective
     way to innovate today, you need to have an org that is focused on whatever
-    industry or org you are in. Congratusltions to RIT for taking the step to
-    advance this knowldege.
+    industry or org you are in. Congratulations to RIT for taking the step to
+    advance this knowledge.
 
 
 Ruth
-    who is in your ospo, and where it sits.
-    ifyou start from scratch, looking at what problesm to address initially.
+    who is in your OSPO, and where it sits.
+    If you start from scratch, looking at what problems to address initially.
 
-    It' snot accounting, hiring accountants to do accounting.
+    It's not accounting, hiring accountants to do accounting.
 
     Some are focused on compliance and legal.
-    Some are largely people working in commjnities, and doing commuinty
-    leaderihsp things.
+    Some are largely people working in communities, and doing community
+    leadership things.
 
     One place is an entirely Engineering OSPO.
-    the ones that are in OSPO, only work on Open Source. There are people who
+    The ones that are in OSPO, only work on Open Source. There are people who
     only do that there!
 
-    In companies, Eng/RND or under CTO. There's a handufl that sit in legal,
+    In companies, Eng/RND or under CTO. There's a handful that sit in legal,
     depends on what they do, and what you hope to be doing.
 
 Steven
     what are you going to take away from this?
-    We have this huge opporutinty to collaborate and contribute.
-    and sitting in the previous panel, I wanna see how CISCO can help thme,
-    and connect our research department. I would encouarge you all to hlet
+    We have this huge opportunity to collaborate and contribute.
+    And sitting in the previous panel, I wanna see how CISCO can help them,
+    and connect our research department. I would encourage you all to let
     your walls down, and talk about fears and aspirations.
 
     Rock On.
 
 Mel
-    I want to hthank the panel and the audience.
+    I want to thank the panel and the audience.
     I'm looking for work in 2023, if you wanna talk about opportunities, and
     it's time for lunch!
 
-Sgoogins (he/him)
+
+=====
+Lunch
+=====
+
+
+----------------
+Post-Lunch Panel
+----------------
+
+Sgoggins (he/him)
+    Professor, 
+    CHAOSS.community
+
 Eriol Fox (they/them)
-    queer, nb, invisible disability if you want to konw (or not)
-    care for a teriminally ill parent
+    queer, non-binary, invisible disability if you want to know (or not)
+    care for a terminally ill parent
     identify as white racially
-    Human Rights centered Deisgner
+    Human Rights centered Designer
     been working in this space for 6-7 years.
-    work at Simply secure, doing work with OSS, looking at diff tools, not
+    Work at Simply secure, doing work with OSS, looking at diff tools, not
     just OSS. Doing deep user research. Previously Ushahidi and PhD
     researcher, looking at how UR is done in Humanitarian space.
     Podcast on design in OSS.
 
-SIlona
-    ED of IEEE SA Open
+Silona
+    Exec Dir of IEEE SA Open
     140 year old entity.
     Standards and Open, not just source, but data, research, and hardware.
     Open Work definition, we love this, we've been waiting for some time.
     I've been doing open work like this since 2004, started championing Open
     Data in gov, when that was not usual. Exciting to watch that progress.
     Niche famous for Citability, making gov work accessible.
-    I learned "citation needed" long before wikipedia, being the daugher of ga
+    I learned "citation needed" long before Wikipedia, being the daughter of a
     gov researcher.
 
 Karthik
-    I'm a senior SCientiest at Berkekely institute of data secientist.
-    lead in Opne source spac.e
-    just over decade ago, cofounded 'r open sid eproject' to develop software
-    tools to do reproducicble research. Lots of work is making tehc infra for
-    sicentiets, and buidling capacity for qulity softarw. Teach how to perr
-    refveriw software, and develop practices for buidling good Softwawr.
+    I'm a senior Scientist at Berkeley institute of data science.
+    Lead in Open source space.
+    Just over decade ago, co-founded 'R open side project' to develop software
+    tools to do reproducible research. Lots of work is making the infra for
+    scientists, and building capacity for quality software. Teach how to peer
+    review software, and develop practices for building good Software.
 
-    Us software sustainability insuttite (modelled after the one in the UK)
-    llooking at how software is developed, and devs recognizeed for the work
+    Founded US software sustainability institute (modelled after the one in the UK)
+    looking at how software is developed, and devs recognized for the work
     they do.
 
     Dabble in open data projects as well.
 
-    excited to talk open work.
+    Excited to talk open work.
 
 Django
-    we discusse d abit about diversiry and our relationships with it.
-    Comparisons o fdiversity in Open Source, and what that might mean?
+    we discussed a bit about diversity and our relationships with it.
+    Comparisons of diversity in Open Source, and what that might mean?
 
 Silona
     The one I go forward on a lot is role diversity.
-    not just developers. proram mangageners, rpdocut onwers, desnginers,
-    artiests, marketing evanglesits, the people who do social media an
-    devents. The biggest one, USers. OSS is great for developer to developer.
-    But outside that, often fails. Talk awith acaemica nd government abou
-    tusers needs tat ar enot being met. That's a piece of it.
+    Not just developers. Program managers, Product owners, designers,
+    artists, marketing evangelists, the people who do social media and
+    events. The biggest one, Users. OSS is great for developer to developer.
+    But outside that, often fails. Talk with academia and government about
+    users needs that are not being met. That's a piece of it.
 
 Sgoggins
-    CHAOSS is focuse don devleoping metrics and models to undrestand
+    CHAOSS is focused on developing metrics and models to understand
     sustainability and diversity.
 
-    to be called a contributor on Github, you have to commit code.
-    Soeone who contributes many thigns, not just code, is what our metircs are
+    To be called a contributor on GitHub, you have to commit code.
+    Someone who contributes many things, not just code, is what our metrics are
     about.
 
-    with supprot from ford and sloaon, thinking about ways to make DEI a tthe
-    scenter of projects or commnities of projects.
-    mNay struggle with attracting and retraining new contribs.
+    With support from Ford and Sloan foundations, thinking about ways to make
+    DEI at the center of projects or communities of projects.
+    May struggle with attracting and retraining new contribs.
 
-    same issues around 'less folk who look like me, more wo don't.'
+    Same issues around gathering 'less folk who look like me, more who don't.'
 
-    we've defined 6 metrics with github, to be included as a DEI.md file to
+    We've defined 6 metrics with GitHub, to be included as a DEI.md file to
     award badges.
 
-    that's part of what we're oding.
+    That's part of what we're doing.
 
 Silona
-    tooling brings in 'lazy' or 'convenient' metrics. THe git commit aspect.
-    we've been expanding our platform to measur echat, and events on a
-    calendar, and things you create. Proof of concepting intragiontions with
+    tooling brings in 'lazy' or 'convenient' metrics. The git commit aspect.
+    We've been expanding our platform to measure chat, and events on a
+    calendar, and things you create. Proof of concepting integrations with
     other metrics that are beyond self-reported.
 
-    when we talk about diversity, it's useless without inclusion.
+    When we talk about diversity, it's useless without inclusion.
 
-    Sitting down witha 60 yo academic on why they hsould commit to github, is
-    difficult.
+    Sitting down with a 60 year-old academic on why they should commit to
+    GitHub, is difficult.
 
-    collaborative document formats, I can get them excited about, and get them
-    the credi thtey deserve.
+    Collaborative document formats, I can get them excited about, and get them
+    the credit they deserve.
 
 
 Eriol
     I was taking notes.
-    ther'es a ton of ways to define and compare diversity.
-    one that I use, is an intersectional diversity.
-    what are the itnersctioning ways that people involved in proejcts can
-    identify. and how is that being upheld, supported, shown, if at all.
+    There's a ton of ways to define and compare diversity.
+    One that I use, is an intersectional diversity.
+    What are the intersectioning ways that people involved in projects can
+    identify. And how is that being upheld, supported, shown, if at all.
 
-    apologies for gettin ahead to fture quetions.
-    lots of owkr in designers, is findin ghte way to bridge the needs of users
+    Apologies for getting ahead to future questions.
+    Lots of work in designers, is finding the way to bridge the needs of users
     of an open project, and something that's closer to a contribution. "what
     do we value in open projects?" we could say that the things we
-    historically value are tihngs that look or function like code. If those
-    are the thigns we value, how are we ever going to change, unless we shift
-    what we value with th ehidden/invisible metrics.
+    historically value are things that look or function like code. If those
+    are the things we value, how are we ever going to change, unless we shift
+    what we value with the hidden/invisible metrics.
 
-    When I wanted to be a maintainer I get "huh? you don't know how to do X
+    When I wanted to be a maintainer I get "huh? You don't know how to do X
     kind of coding?!" Some are like "yeah, sure"
 
-    expanding to sustainable people approach, not just a functional personal
+    Expanding to sustainable people approach, not just a functional personal
     role.
 
     Karthik?
 
 
 Karthik
-    jump on a point abou trole diversity, esp in academic space.
-    not much metrics or recongintion for this ckind of work.
+    jump on a point about role diversity, esp in academic space.
+    Not much metrics or recognition for this kind of work.
     OSS Industry, you have product owner, product manager, doc writers. In
-    Academic OSS, these roles are hard to come by, and hard to reconginze.
+    Academic OSS, these roles are hard to come by, and hard to recognize.
 
-    many who code get recongiztion, but many of the marketing and wrangling
-    tasks, are not caputred in the project metadata. it becomes hard to get
-    picked up in the automated metrics, and get recogniztion. this is maybe
+    Many who code get recognition, but many of the marketing and wrangling
+    tasks, are not captured in the project metadata. It becomes hard to get
+    picked up in the automated metrics, and get recognition. This is maybe
     more unique to academic world.
 
 
 Silona
     I wanna toot SJ's horn.
-    One of hte htigns exciting about OpenRIT, is that 39 departments wanted to
-    collaborate. Communication,a nd business, and other dpets. Imagine the
-    imapct that can have on Open Source. There's somehting juicy that can
+    One of the things exciting about OpenRIT, is that 39 departments wanted to
+    collaborate. Communication, and business, and other departments. Imagine
+    the impact that can have on Open Source. There's something juicy that can
     happen there.
 
 Eriol
-    one of the thigns I find really interesting, is how we reconginzie work in
-    OSS, comes up in design. Frequrently, hard for designers, to have
-    recongition from design industry, outside of the 'walled garden' of
+    one of the things I find really interesting, is how we recognize work in
+    OSS, comes up in design. Frequently, hard for designers, to have
+    recognition from design industry, outside of the 'walled garden' of
     contributing to open source, when you go into design field,
-    indsustry/academia, there's confusion about design in open soruc.e
+    industry/academia, there's confusion about design in open source.
 
-    I don't know if I've come to sovle it, but hte bridges to recogninze more
+    I don't know if I've come to solve it, but the bridges to recognize more
     outside of the OSS space, making it make sense in industry spaces.
 
 Django
-    this is somehting I've encountered and discussed with SJ.
-    Metrics always lead to blinders. SOmeone is more concerned with ROI, as
+    this is something I've encountered and discussed with SJ.
+    Metrics always lead to blinders. Someone is more concerned with ROI, as
     opposed to how successful a design was. A design is new, being produced,
-    maybe you're not involved, but you contributed hevaily in the beginning.
-    It' shard to discuss it, without specific metrics for success. as soon as
-    you evaulate metrics, you get insipired to disregard things that are not
+    maybe you're not involved, but you contributed heavily in the beginning.
+    It' shard to discuss it, without specific metrics for success. As soon as
+    you evaluate metrics, you get inspired to disregard things that are not
     in the metrics.
 
-    we discused, 'what are barreirs to metrics based- anylsysis?"
+    We discussed, 'what are barriers to metrics based- analysis?"
 
 Silona
-    Steph Luggi (sp)
+    Steph Lieggi (sp)
     came down from a 'designer' point of view, rather than 'we have these
     things we can measure.'
 
-    that's not how we do sicence!
-    yyou gotta go first for the pieces missing.
+    That's not how we do science!
+    You gotta go first for the pieces missing.
 
-    we've been so develoepr focused, and we need to reframe from a
-    'designer/user sytle' perpsective.
+    We've been so developer focused, and we need to reframe from a
+    'designer/user style' perspective.
 
 Sgoggins
-    when we talk abou tscience, and how scientific software is evaluated.
+    when we talk about science, and how scientific software is evaluated.
 
-    how many of you have used 'downloads' as a metrics?
+    How many of you have used 'downloads' as a metrics?
 
     They're a simple metric.
 
@@ -1246,249 +1260,250 @@ Sgoggins
     the manufacture, and the service and engineering are beyond the buy
     metrics.
 
-    that's critical to uncovering the 'hidden/invisible' work that happens in
-    open source. Talkinga bout new metrics, helps to surface those htings.
+    That's critical to uncovering the 'hidden/invisible' work that happens in
+    open source. Talking about new metrics, helps to surface those things.
 
 Silona
     DPG (digial public good) alliance
     "How do we measure impact?"
-    htat' show you get funding and sustainabliity. THen we don't need to worry
-    as much abou tcorporate domininance issues.
+    that' show you get funding and sustainability. Then we don't need to worry
+    as much about corporate dominance issues.
 
 Karthik
     that's an interesting point about funders.
-    making the case of immapct for software.
-    I've used downlands in the past in fudning papplicaitons.
-    even when I evaulation grant prporseals, downloads and dependency data is
-    front and center of impact analysist. hard to move past that.
-    finding ways to meausre other ways,a nd to think beyond tohse metrics.
+    Making the case of impact for software.
+    I've used downlands in the past in funding applications.
+    Even when I evaluation grant proposals, downloads and dependency data is
+    front and center of impact analysis. Hard to move past that.
+    Finding ways to measure other ways, and to think beyond those metrics.
 
-    downloads are not the most useful.
+    Downloads are not the most useful.
 
-    the best selling car being a measure of popularity maybe for cars, but not
+    The best selling car being a measure of popularity maybe for cars, but not
     for software.
 
 Eriol
-    I was advising a commercial software app how to do login/signup.
-    they wanted to talk about gender, and I'm a gender-y person.
-    they wanted to capture gender, to better serve, and capture for  reason.
+    I was advising a commercial software app how to do login/sign-up.
+    They wanted to talk about gender, and I'm a gender-y person.
+    They wanted to capture gender, to better serve, and capture for  reason.
 
-    "Ok, but it changes thorugh life." you wont cpature when someone goes
-    through transition, or any fluid geneder. and they were like "WOW!"
+    "Ok, but it changes through life." you wont capture when someone goes
+    through transition, or any fluid gender. And they were like "WOW!"
 
-    it's not just with gender that it changes. diveristy analysis is a
-    set-in-stone, kind of metrics. We're not udnerstanding the hman proccess,
+    It's not just with gender that it changes. Diversity analysis is a
+    set-in-stone, kind of metrics. We're not understanding the human process,
     less intrinsic that we are, like part of our identity.
 
-    Putting into a 'zeros and ones' form, may not be something that eveyrone
+    Putting into a 'zeros and ones' form, may not be something that everyone
     is focused on.
 
     I've written a note about how the ways to investigate these barriers, test
-    them, and break them, is a human cetnered approach. Undertanding how
-    proejcts work, and who is involved. Diversity and inclusion is an HCD
+    them, and break them, is a human centered approach. Understanding how
+    projects work, and who is involved. Diversity and inclusion is an HCD
     based issue. 
 
     Impact is a very colonial space. I would encourage design justice
     practice, thinking less top-down approach, and more of a 'how do we do it
-    from the community up? to better describe wha tthey want to tell, and how
+    from the community up? To better describe what they want to tell, and how
     and when and why?" that might be a better process for everyone.
 
 Sgoggins
-    we say OSS, and htink of "how we collaboratively build software"
+    we say OSS, and think of "how we collaboratively build software"
     if i look at OSS, there are many diff operationalizations and purposes of
     that software. 
 
     Stop thinking of it as a single thing, but thousands if not hundreds of
-    thouseands of forms of organization.
+    thousands of forms of organization.
 
     What I need to measure to live my values is different. It's not just one
     thing. Breaking the 'one thing' mentality, would help.
 
 Django
-    It's not just open soruce, but the 'ecosystem'
-    broader impacts and intersctions in various ways.
+    It's not just open source, but the 'ecosystem'
+    broader impacts and intersections in various ways.
 
 Sgoggins
-    ecosystems are collections of projects and people, and they take idfferent
-    froms with different roles.  A dynamiclly oganized colleciotn of
-    resrources to solve a problem.
+    ecosystems are collections of projects and people, and they take different
+    forms with different roles.  A dynamically organized collection of
+    resources to solve a problem.
 
 
 Django
-    intrinsic metrics, we use subconsiously.
-    ways we consider experience, and ways we condsier who would elvate to
-    maintainer status. Ways we meausre successful projects and contirbutors?
+    intrinsic metrics, we use subconsciously.
+    Ways we consider experience, and ways we consider who would elevate to
+    maintainer status. Ways we measure successful projects and contributors?
 
-silona
-    Opne Source GOvernance Stndard
-    Sil
-    all the ways that you become a maintainer, some are not that open.
-    some are coprorate dominated, sometime sa signle corp.
-    bringing in role diversity.
-    the most common pathway, and 'best' patheway, is a contributor does a lot
+Silona
+    Open Source Governance Standard
+    All the ways that you become a maintainer, some are not that open.
+    Some are corporate dominated, sometimes a single corp.
+    Bringing in role diversity.
+    The most common pathway, and 'best' pathway, is a contributor does a lot
     of contributing, then they become a maintainer.
 
-    if the only way you can elevate is by commits, how do we change that to
+    If the only way you can elevate is by commits, how do we change that to
     include others? It's exclusive.
 
 Eriol
-    tooling, a contrversial bit.
+    tooling, a controversial bit.
 
-    This is tricky. I told this story eariler, how it felt impossible, who
-    does not wnat to be a dveloper, that wants to be valued.
+    This is tricky. I told this story earlier, how it felt impossible, who
+    does not want to be a developer, that wants to be valued.
 
-    That whole way that we have value system needs to shift. how do we begin
-    to value the thigns intrinsic. I have a process to understand how we value
-    docs. maybe you don't though?
+    That whole way that we have value system needs to shift. How do we begin
+    to value the things intrinsic. I have a process to understand how we value
+    docs. Maybe you don't though?
 
-    ther's a member of hte designer community, victory brown, who leads the
-    OSD Africa chapter. She's working on with my dnesosremnst and support, how
-    to support designers in those countries, get recongingion. When I say
-    "plfatorms" you may think of one or another. Designers are not in those
-    spaces as much, and noeed to be brought into those spaces. Shepherding
-    designers into specific spaces where people code, learn throughout the
-    process, formal or otherwise. Our tools don't have htose kind of
-    integrations and recognition. Industry doens't widely accept this kind of
-    accoloade, and won't get recognized for it.
+    There's a member of the designer community, Victory Brown, who leads the
+    Open Source Design Africa chapter. She's working on with my endorsement
+    and support, how to support designers in those countries, get
+    recognition. When I say "platforms" you may think of one or another.
+    Designers are not in those spaces as much, and need to be brought into
+    those spaces. Shepherding designers into specific spaces where people
+    code, learn throughout the process, formal or otherwise. Our tools don't
+    have those kind of integrations and recognition. Industry doesn't widely
+    accept this kind of accolade, and won't get recognized for it.
 
     I know there's some designing tooling that's getting better and very
-    exciting, but until there's a way to settle aruments between proprietary
-    and open soruc tools, there will still be invisible things still.
+    exciting, but until there's a way to settle arguments between proprietary
+    and open source tools, there will still be invisible things still.
 
 
 Sgoggins
-    in chaoss, we build metrics around contributions for all different tools.
+    in CHAOSS, we build metrics around contributions for all different tools.
 
-    open source occurs in async plaatforms, but design tends to be more of a
-    sychronhous process. There's a mismatch between how organic progress
+    Open source occurs in async platforms, but design tends to be more of a
+    synchronous process. There's a mismatch between how organic progress
     happens.
 
 Silona
     we formed 3 advisory groups.
-        commnity advisory group, watches ethos.
-        marketing adv gropu, osint, social media, designers
-        tech adv gropu, developers, proeucts, designers, architects security.
+        Community advisory group, watches ethos.
+        Marketing advisory group, includes osint, social media, designers
+        Technology advisory group, includes developers, products, designers,
+        architects security.
 
-    one things we find, opeinign pu our tooling process, they can submit tools
-    to submit to the platform, so more peopel can have these options, to
+    One things we find, opening up our tooling process, they can submit tools
+    to submit to the platform, so more people can have these options, to
     gather diverse metrics, and use those tools.
-    Bu twe do have the requirement that the tools be open soruce, an dthat's
+    But we do have the requirement that the tools be open source, and that's
     hard for designers.
 
     "you get what you pay for"
 
-    the htings that are created are not always great. How do we grow? 
+    The things that are created are not always great. How do we grow? 
 
-    we talk about occasionally, the Prpopreietary ones, the API side to
+    We talk about occasionally, the Proprietary ones, the API side to
     gather metrics, but that's different than our mission.
 
     Finding tools for all the roles can be brutal.
 
 Karthik
-    SImilar to what other panelists said.
+    Similar to what other panelists said.
 
-    I think the tooling comment is intersteing.
-    I struggle with it, bc thers' not much tooling available for measuring
-    what success looks like in Open Source. Beyond CHAOSS, ODn't know of many
-    tools tha twill give you measureable metrics to repreatably run over time
+    I think the tooling comment is interesting.
+    I struggle with it, bc there's not much tooling available for measuring
+    what success looks like in Open Source. Beyond CHAOSS, Don't know of many
+    tools that will give you measurable metrics to repeatably run over time
     to see changes.
 
-    How to see some measure of success? Much is just github metrics, or
-    describing roles of non-traditional roles make to project. that's big for
+    How to see some measure of success? Much is just GitHub metrics, or
+    describing roles of non-traditional roles make to project. That's big for
     what we consider success.
 
-    in corporate space, there's many commercial toosl to measure imapct.but in
-    non-profit/academic space, there's less. I don't see chaoss used very
-    often in cases where people ned to get recongition for funding and
+    In corporate space, there's many commercial tools to measure impact.but in
+    non-profit/academic space, there's less. I don't see CHAOSS used very
+    often in cases where people need to get recognition for funding and
     promotion.
 
 Silona
-    hihglight OSINT, where we get other metrics.
-    one way we can go otuside the tooling. seeing which ones we can go through
-    to get signal. SOmeimtes in OSINT you can get numbers out of tools if
-    htey're not secured properly.
+    highlight OSINT, where we get other metrics.
+    One way we can go outside the tooling. Seeing which ones we can go through
+    to get signal. Sometimes in OSINT you can get numbers out of tools if
+    they're not secured properly.
 
 Eriol
-    trouble trying to understand, the desire to udnerstand what success in a
-    quantititatve way. Designers, or a design, as a proxy fo rother stuff. I
+    trouble trying to understand, the desire to understand what success in a
+    quantitative way. Designers, or a design, as a proxy for other stuff. I
     think that's always going to be tricky. I was asked many years ago as a
-    design manager, to prove that htis design has made us more money.
+    design manager, to prove that this design has made us more money.
 
-    there ar many components to tdesign, and cutlural things, and things
-    outside in life as why it was successfull that contriute to why a design
-    does more or less numbers. I'ts hard to pinpoint ROI in tohse ways and
+    There are many components to design, and cultural things, and things
+    outside in life as why it was successful that contribute to why a design
+    does more or less numbers. It's hard to pinpoint ROI in those ways and
     terms.
 
-    it's aabout a series of iteration and hypotehesi. I read a series of
+    It's about a series of iteration and hypothesis. I read a series of
     papers about testing usability in design, where there were 3 different
-    interventions that UXers tried on a projec.
+    interventions that UXers tried on a project.
 
-    one project that implmented the design, after time, ended up rolling it
-    back, not enough time to test whether successfull or not.
+    One project that implemented the design, after time, ended up rolling it
+    back, not enough time to test whether successful or not.
 
     I dunno if we're at a place yet to give design enough time to collect
-    metrics. ther's a value question "We don't like this design, we don't know
+    metrics. There's a value question "We don't like this design, we don't know
     if it works, we want to roll back!" doesn't give us time to collect the
     metrics!
 
 Django
     we've got about 15 mins left.
-    where id like us to go, is into developing standards.
+    Where id like us to go, is into developing standards.
 
-    it can be difficult to determine metrics for success, and in the many ways
+    It can be difficult to determine metrics for success, and in the many ways
     'were developing outreach and inreach in diff projects. I know you work
     with standards.
 
-    would like to go into that, and how we can impact that in the future.
+    Would like to go into that, and how we can impact that in the future.
 
 Silona
-    a part of that is about 'what kind of standards' you ar edoing.
-    there's many ways they are done.
-    some are done by implementation.
-    apple creates de facto standards, for exmaple.
+    a part of that is about 'what kind of standards' you are doing.
+    There's many ways they are done.
+    Some are done by implementation.
+    Apple creates de facto standards, for example.
 
-    IEEE is about elimintating coporate dominance.
-    consensus based.
-    ethics in AI one we're doing now, but takes longer.
-    there's conflict with OSS community, sinc eit takes longer.
-    we come at it from academia standpoint.
-    hard to get a bunch of coders who just wnat to do something right now, to
+    IEEE is about eliminating corporate dominance.
+    Consensus based.
+    Ethics in AI one we're doing now, but takes longer.
+    There's conflict with OSS community, since it takes longer.
+    We come at it from academia standpoint.
+    Hard to get a bunch of coders who just want to do something right now, to
     play well with that.
 
 Sgoggins
-    defining standard ways of describing the wya we do things?
+    defining standard ways of describing the way we do things?
 
     What is a commit was a long discussion int he beginning.
-    we have a consistent answer, even if it' snot right.
-    it's not an IEEE standard, but it's context for a decisoin, and the data
+    We have a consistent answer, even if it' snot right.
+    It's not an IEEE standard, but it's context for a decision, and the data
     needed to measure. It's useless, unless you provide tools to measure that
     too.
 
-    to Silona's point, and Eriols, becomes crticial to usefl stnadards.
+    To Silona's point, and Eriol's, becomes criticial to useful standards.
 
-    they want things that they can point to, they help. tools that express
+    They want things that they can point to, they help. Tools that express
     standards can help.
-    faculty and employee evaulation systems, it's well designed right?
+    Faculty and employee evaluation systems, it's well designed right?
     (chuckles from audience)
 
 Karthik
     anything to add.
+
 Eriol
-    the term 'standards' is not excact for desing, but there are best
+    the term 'standards' is not exact for design, but there are best
     practices.
-    there are some things that are being done like the 'double diamond'
-    process. there's the UX heuristics. Disgners can bring these things when
-    they are involved. This soudns like "we need to begin to have standards
-    conversatoins about how things from other functions factor into how we
+    There are some things that are being done like the 'double diamond'
+    process. There's the UX heuristics. Designers can bring these things when
+    they are involved. This sounds like "we need to begin to have standards
+    conversations about how things from other functions factor into how we
     define metrics"
 
 Silona
-    the 7000 series, si about ethical design.
+    the 7000 series, is about ethical design.
     AI, automotive AI, things like that.
-    spreading it's wings into toher protions.
-    unusual, as pragrmatism comes frist. We didn't tihnk of all the ethical
-    contstructs when making things. Building 'evil' stuff, wanted to grather
-    information, didn't hink about privacy. wanted to calllout the 7000
+    Spreading it's wings into other portions.
+    Unusual, as pragmatism comes first. We didn't think of all the ethical
+    constructs when making things. Building 'evil' stuff, wanted to gather
+    information, didn't think about privacy. Wanted to call out the 7000
     series.
 
 Eriol
