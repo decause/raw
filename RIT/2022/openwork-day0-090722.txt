@@ -1641,257 +1641,257 @@ Open Science, and Games?
 -------------
 
 SJ
-    I'm old enough to remember when alphas/betas were closed, not proejcts you
+    I'm old enough to remember when alphas/betas were closed, not projects you
     shipped ;P
 
-    in AAA games commjinty, looking at MMOG, character designs released almost
+    In AAA games community, looking at MMOG, character designs released almost
     immediately in the process. 2 years before they're shipped, they cost 10-s
     to 100-s of Millions of dollars, with 10s of millions of players.
 
-    in terms of being open communties, they encourage commuitines and actively
-    create tihngs that cannot be done in a game. a Dragon to be killed, it'll
+    In terms of being open communities, they encourage communities and actively
+    create things that cannot be done in a game. A Dragon to be killed, it'll
     be designed so that only 60-70 players can defeat it.
 
-    YOu get players creating guilds, organizations for players to work
-    together to acheive goals. SOmetimes that maintain for decades. Online
+    You get players creating guilds, organizations for players to work
+    together to achieve goals. Sometimes that maintain for decades. Online
     gameplay at this scale, can become part of people's lives.
 
-    WoW, the reslease and player cycle, there was a guild of Academics that
+    WoW, the release and player cycle, there was a guild of Academics that
     referred to their weekly meeting as "bowling night."
 
-    these are huge goals. We've seen badges as one way to incent developers to
+    These are huge goals. We've seen badges as one way to incent developers to
     do things. Remy had a group of students one year as part of SURF, show
-    that on paper, incentvzing development, though we didn't find a funder.
+    that on paper, incentivizing development, though we didn't find a funder.
 
-    What can we learn, from these diff communities, to get best practicdes
+    What can we learn, from these diff communities, to get best practices
     from one to translate to the other?
-     the RIT group was resonsible for creation of Fedora Badges, and the
+     The RIT group was responsible for creation of Fedora Badges, and the
      community was skeptical, and then hundreds signed up.
 
     Marie can talk about traditional open source.
 Marie
     badges now has 17000 people that have signed in.
     My name is Marie Nordin, Fedora Community Action and impact Coordinator.
-    Work out of red hat's OSPO. The fedora project is a linux based operation
+    Work out of red hat's OSPO. The fedora project is a Linux based operation
     system, we release every 6 months, we have thousands of contributors
     worldwide. My job is to support in many ways:
-    day -to-day operations, budgets oversight, evnet planning, project
+    day -to-day operations, budgets oversight, event planning, project
     management for different teams. Code of conduct incident management. In
-    the past 3 years, isnce I started as FCAIC, there's been a few exciting
-    things I got tow ork on.
+    the past 3 years, since I started as FCAIC, there's been a few exciting
+    things I got to work on.
 
     Just as I started, the pandemic hit. I thought it was going to be a travel
-    the globe kinda job, and it didn't turn out ot th be that. We had to move
+    the globe kinda job, and it didn't turn out to be that. We had to move
     to virtual events, and it's been kind of bummer, and it's exciting to be
     here today, but it' was exciting for us.
 
-    Flock to Fedora usually pulled 200 peopel. First virtual was 350. Third
-    had over 1000. The growth there is amzing! My hypothesis, is that we're
-    bringin people who coundlt travle cl;oser to the devs,a nd gettin more
-    people involved. Herard about newcomers to the team was 'hey, went to
+    Flock to Fedora usually pulled 200 people. First virtual was 350. Third
+    had over 1000. The growth there is amazing! My hypothesis, is that we're
+    bringing people who couldn't travel closer to the devs, and getting more
+    people involved. Heard about newcomers to the team was 'hey, went to
     event, then wanted to contribute.'
 
     Went into revamping the outreach teams. Ambassadors, commops, advocates.
     That took listening to the community, with empathy, and making decisions
     based on that. Making art, surveys, meeting in many ways.
 
-    Last thing, Fedora Code of Conduct. was able to pick up from predecessor,
-    and revamp it. It was a lengthy process. Was with Fedora COuncil, members
-    of community, red hat legal, many rounds o ffeedback brought in. Once we
-    got the new one out, the incident reports started roling in. Had a bunch
+    Last thing, Fedora Code of Conduct. Was able to pick up from predecessor,
+    and revamp it. It was a lengthy process. Was with Fedora Council, members
+    of community, red hat legal, many rounds o feedback brought in. Once we
+    got the new one out, the incident reports started rolling in. Had a bunch
     of experience with that.
 
-    Now i'm moving into a community outreach role based around Code Of Conduct
-    SPecialist. Taking the work of Fedora Coc, and applying to other
+    Now I'm moving into a community outreach role based around Code Of Conduct
+    Specialist. Taking the work of Fedora CoC, and applying to other
     communities.
 
-Ana Jimiensz
+Ana Jimenez
     TODOGroup Program Manager
-    My involvement in communities started in Bitergia. Softare development
-    analystics firm. Highly involve din opernsource. Tooling was open source.
-    they were my mentors, I spent 4 years there, taught me everyting I now
+    My involvement in communities started in Bitergia. Software development
+    analytics firm. Highly involved in open source. Tooling was open source.
+    They were my mentors, I spent 4 years there, taught me everything I know
     about open source.
 
-    In the roles I had, involved commuinty management in some way.
-    started as developer marketing. Then got into data science, got my MS in
-    DS. Bilt a model to understand commits. Got into todogropu, which is a
-    group of orgs that practice OSPOs. They get together to build common
-    tooling, and resources and guides to help other orgs to build their OSPOs,
-    and advance in thier open source journey.
+    In the roles I had, involved community management in some way.
+    Started as developer marketing. Then got into data science, got my MS in
+    Data Science. Built a model to understand commits. Got into TODOgroup,
+    which is a group of orgs that practice OSPOs. They get together to build
+    common tooling, and resources and guides to help other orgs to build their
+    OSPOs, and advance in their open source journey.
 
-    inspiring these orgs to build more effective programs. I like what stephen
+    Inspiring these orgs to build more effective programs. I like what Stephen
     said, I manage an open source community of open source communities :P
 
-    Open SOurce leaders, trhing to talk about and share learnings about how to
-    do open source. all the thigns we've been doing.
+    Open Source leaders, thing to talk about and share learnings about how to
+    do open source. All the things we've been doing.
 
-    Started one of my daily tasks was to grow community. nurtuer. daily jobs
-    has onboarding ugides, docs, and procdeures on how to contribute to the
+    Started one of my daily tasks was to grow community. Nurture. Daily jobs
+    has onboarding guides, docs, and procedures on how to contribute to the
     community and the different repos and programs we launch.
 
-    build network in this space. So practicioners can start conversatoins, and
-    ntworks doing conversatoins is where magic happens. "Lets work together ot
+    Build network in this space. So practitioners can start conversations, and
+    networks doing conversations is where magic happens. "Lets work together to
     produce a new guide a new tool or a new process to help OSPOs"
 
     Hand it to cat!
 
 Cat
-    I'm cat allman with Google
+    I'm cat Allman with Google
     background in OSS goes back a ways
-    Mount Zinu (unix, trademark)
-    first commerical implementation of berkely unix, back in the 80's
-    comercialization of sendmail
-    working on gsoc, google-code-in, and giving money to opn source for 15
+    Mount Zinu (Unix, trademark)
+    first commercial implementation of Berkeley Unix, back in the 80's
+    commercialization of sendmail
+    working on GSoC, google-code-in, and giving money to open source for 15
     years.
-    moved onto a part of google called "deelpoer ecocystems"
-    focused on a 2007 20% project, sci foo camp. an invite only unconference,
-    for scientists up and down the stack. Started and ALumni community the
+    Moved onto a part of google called "developer ecosystems"
+    focused on a 2007 20% project, sci foo camp. An invite only unconference,
+    for scientists up and down the stack. Started and Alumni community the
     month before lockdown. Got about 1000 alums, and get together in a
-    googlegrup and talk about whatever. They're super smart, and the kind of
-    place where peple who biult the MRNA got to drop in and clarify a couple
-    of points! how relate dot OSS?
+    googlegroup and talk about whatever. They're super smart, and the kind of
+    place where people who built the MRNA got to drop in and clarify a couple
+    of points! How related to OSS?
 
-    part of OSS is science. Science happens through code. Evething is done on
-    computers these days, but the phyusical compononents are still brought
-    back to hte computers.
+    Part of OSS is science. Science happens through code. Everything is done on
+    computers these days, but the physical components are still brought
+    back to the computers.
 
-    OSS comes out of academia. The original arpanet. 6-8 EDUS originally?
+    OSS comes out of academia. The original ARPAnet. 6-8 EDUs originally?
     Science being intrinsically involved in Open Source not new. It's founded
     on scientific method in the first place.
 
-    arugably, commnities in OSS can be different based on commercial or
-    academic peserpsecitve. SOmething s I see in sicentific projects can be
+    Arguably, communities in OSS can be different based on commercial or
+    academic perspective. Somethings I see in scientific projects can be
     small and purpose driven. Some will be adapted by other research labs, and
-    as they grow, the community management beocmes similar to commerical
-    projets. I'ts not that much different that' free range' open source.
-    Github is full of 1-2 person communites, designed to sovle their issues.
-    Somtiems they maintain funcitonality beyond immediate contribute,
+    as they grow, the community management becomes similar to commercial
+    projects. It's not that much different than 'free range' open source.
+    GitHub is full of 1-2 person communities, designed to solve their issues.
+    Sometimes they maintain functionality beyond immediate contribute,
     sometimes they wither away and die.
 
-    scientific community has additional challegne, in academia (we can talk
-    differents between fundamental /applied reserach) tenure brings unusals
+    Scientific community has additional challenge, in academia (we can talk
+    difference between fundamental/applied research) tenure brings unusual
     pressures to Open Source. Is code a tenure artifact? From discussions
-    erearlier this morning, seems like it's becoming the case. in the academic
-    world, cod eprojects, and contriubtoins that support coee and projects,
-    are becoming recongizged as viabl eartifacts, but htat varies widley from
-    institions, and even more from coutnry to countrhy. Ecxicted to see people
+    earlier this morning, seems like it's becoming the case. In the academic
+    world, code projects, and contributions that support code and projects,
+    are becoming recognized as viable artifacts, but that varies widely from
+    institutions, and even more from country to country. Excited to see people
     from outside US.
 
-    My experienc ein OPen Source in science, is obvervatoiaoial, nless thatn
-    experiential. I'm hoping you'll contirbutre your lived experience ot the
-    session tomor.
+    My experience in Open Source in science, is observational, less than
+    experiential. I'm hoping you'll contribute your lived experience to the
+    session tomo.
 
 SJ
-    wanted to throw out experiential stuff form being a community mangeer in
+    wanted to throw out experiential stuff form being a community manager in
     academia.
 
     EDUs are metrics driven. Esp in terms of tenure. I'm lucky i was tenured
-    before I stated teacing students in open source. There were no grants, if
-    ou walked upped ot a freshly minted PhD student, and given first classes,
+    before I stated teaching students in open source. There were no grants, if
+    You walked up to a freshly minted PhD student, and given first classes,
     'what is your research plan' and you said "open source" they'd say'
-    there's not grants, go find somehting else!"
+    there's not grants, go find something else!"
 
-    that's changing.
+    That's changing.
 
-    studnet and faculty engagments, challenge for OSPOS, is almost impossible
+    Student and faculty engagements, challenge for OSPOs, is almost impossible
     to track.
 
     3 classes of people at EDU
-        - Students (IP rights vary greatly. at RIT Students own IP, unless being
-        paid) at some EDUs, the EDU owns your homework. Studnts can use tools
-        to biuld softare, and commercialize, and they odn't even owe me a post
-        card or thank you note. Either you have 100% or none IP rights at many
-        places.
+        - Students (IP rights vary greatly. At RIT Students own IP, unless
+          being paid) at some EDUs, the EDU owns your homework. Students can
+          use tools to build software, and commercialize, and they don't even
+          owe me a post card or thank you note. Either you have 100% or none
+          IP rights at many places.
         - Staff often don't have IP rights, as they are pay-for-hire.
         - Faculty, are hardest to wrangle.
 
-    when you start a program, people want metrics on students etc.. .the
-    program we estalbished,had
-        formal classes
-        experiential education
-        and internships
+    When you start a program, people want metrics on students etc.. The
+    program we established, had
+        - formal classes
+        - experiential education
+        - and internships
 
-    much is not easy to track
+    Much is not easy to track
     the minor that we started in open source is the only one we know of in US
     and world. We have double-digits full minors. But we've had hundreds who
     went through hackathons, or got co-ops, or took 'a class.'
 
-    i have students i'm still in touch with. I got sutdnets who came fo the
-    minor, som in this room.
+    I have students I'm still in touch with. I got students who came for the
+    minor, some in this room.
 
     Some only engaged with hackathons, and are in this room too.
 
-    it's hard to find numbers, and from the community, I get "where are your
+    It's hard to find numbers, and from the community, I get "where are your
     commits?" They're sitting in this room! They're not graphics, or
     interfaces, and it follows back to the 'whats the invisible stuff."
 
-In terms of managing commnities, what are the hard htings, what are easy
+In terms of managing communities, what are the hard things, what are easy
 things?
     In my experience, open science community manager is very rare. Sloan may
     have input, who wants to follow up first?
 
 Ana
     My experience in TODO.
-    one of challenges when building with new resources and tooling, OSPOS are
-    quite diverse, and there's no template for an OSPO. WHen they try to put
+    One of challenges when building with new resources and tooling, OSPOS are
+    quite diverse, and there's no template for an OSPO. When they try to put
     it into guides, it's just that, a guide. It cannot be 'one way' to build
-    ospos, there is no one single answer. We tried to create serveral paths,
-    and guides have real exapmles from other orgs, and what worked for them.
-    YOu can apply it the same, or not. 
+    OSPOs, there is no one single answer. We tried to create several paths,
+    and guides have real examples from other orgs, and what worked for them.
+    You can apply it the same, or not. 
 
-    we've seen ospos build on common tooling for compliance and community
-    building and biulding IT infra specific for their industry. Automotive,
+    We've seen OSPOs build on common tooling for compliance and community
+    building and building IT infra specific for their industry. Automotive,
     for example.
 
-    in the community, how can I gather all the different paths from all
-    different OSPOs, and put that in the proejcts in the community, and make
-    them avialble, and not say 'this is one path' but all the paths that can
-    be taken, and transprently document htat.
+    In the community, how can I gather all the different paths from all
+    different OSPOs, and put that in the projects in the community, and make
+    them available, and not say 'this is one path' but all the paths that can
+    be taken, and transparently document that.
 
 
 Marie
     challenges and successes
 
-    brings me back to first sessoin. Tring to figure out how to serve the
-    needs of the community working within red hat. Naviagating, talking to the
-    righ tpeople, finding the right person to get done the thing that needs to
+    Brings me back to first session. Trying to figure out how to serve the
+    needs of the community working within red hat. Navigating, talking to the
+    right people, finding the right person to get done the thing that needs to
     get done. Convincing them that it needs to happen. Fedora is an almost 20
-    year old project, and not always htough to fin the biz process. Work
-    within Red hat to advocate within REd hat.
+    year old project, and not always though to fin the biz process. Work
+    within Red hat to advocate within Red hat.
 
     Putting a lot of yourself into the work, boundaries is a topic that hasn't
     come up.
 
-    esp in pandemic, you could work all day without anyone to stop you.
+    Esp in pandemic, you could work all day without anyone to stop you.
 
-    making boundareias and sticking to them, is a challenge.
+    Making boundaries and sticking to them, is a challenge.
 
-    Relationships with people in community, and freinedships grown wpoeple
-    have changed my life an dhelped me grow as a human and a professional.
+    Relationships with people in community, and friendships grown people
+    have changed my life an helped me grow as a human and a professional.
 
 
 Cat
     I have two stories to tell that illustrate the tension between
-    acadmeic/scientify and the commercial aspects of OS community.
+    academic/scientific and the commercial aspects of OS community.
 
-    first is legal side.
-        when pandemic started, there was an incoming class of Summer interns.
-        What are we gonna do to give access to core systesms remotely?
+    First is legal side.
+        When pandemic started, there was an incoming class of Summer interns.
+        What are we gonna do to give access to core systems remotely?
 
-        Ideally, open source covid related work. tlaking with contact at Brode
-        institute. They told me everything there was OPen Source. Everything
+        Ideally, open source COVID related work. Talking with contact at Brode
+        institute. They told me everything there was Open Source. Everything
         was going swimmingly, until we got a contract that assigned all the IP
-        to them. They were very nice about it, and the covid research was
+        to them. They were very nice about it, and the COVID research was
         done, but it illustrates how there can be a separation between
-        reesarch and the money side, at even the most well funded instituions.
-        Open Soruce needs to navigate the translation barrier very often. As a
+        research and the money side, at even the most well funded institutions.
+        Open Source needs to navigate the translation barrier very often. As a
         scientific project enters realm of commercial.
 
 
     Summer of Code
-        i've been on the seleciotn commitee for mentoring since 07
-        every year, i have the same argument with individual that only
-        comercial proejcts count as open source, not scientific/acadmia.
+        I've been on the selection committee for mentoring since 07
+        Every year, i have the same argument with individual that only
+        commercial projects count as open source, not scientific/academia.
 
         I believe strongly that science and students are important, and I'm
         happy to say, I fight for biomed projecgs, but year over year, the
