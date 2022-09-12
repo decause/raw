@@ -1,0 +1,2634 @@
+Provost Welcome
+===============
+Exciting to see shared benefits and challenges of rapidly expanding field.s
+appreciate the sponsorships from AWS and Alfred P Sloan foundation.
+
+
+Idea of Open Source seems new for many people. The idea of openly sharing info
+among scientists and innovators is not new. Deeply connected to expansion of
+digital tech over 40 years. Invention of internet in 60's and web in 1989.
+CERN was where web was invented. Developed for automated info sharing.
+
+By 1993, internet placed in public domain.
+995, 10K servers across industry and academia an gov was born.
+
+Open hardware, and open software have accelerated past open science.
+
+This summit is an opportunity to reunite these.
+
+
+Nat'l academy of science eng and medicine, and NASA, have establish the case
+for open source.
+
+France's nat'l plan for open science. Happy to have Roberto DiCosmo here with
+us.
+
+Making this a truly international event.
+
+OS world has seen significant successes, as value becomes clearer: quicker
+findings, verified findings, increase consumer choice, increase trust in
+science.
+
+For OSS to reach fullest potential, need to grapple with how to get the
+incentives right. Methods to count and credit kinds of work that don't fit
+easily into financial models or productivity.
+
+
+
+Tenure and promotion metrics, that allow us to understand reach and impact of
+open work. 
+
+Glad to see agenda includes these kinds of questions. Important for expanding
+reach across industry and academia.
+
+At RIT, we're centered on Open@RIT, dedicated research center to expand across
+the campus.
+
+Open@RIT was founded in 2020, but work goes back to 2009. Honors course
+developed educational programs for OLPC. Since then it has expanded.
+
+
+Offer all students opportunity a minor or gen-ed sequence in open source and
+free culture. Teach students how to contribute to open communities of practice,
+in humanitarian.
+
+We have LibreCorps, opportunity to get experience.
+
+Since 2020, 25 faculty fellows projects, and expanding to institution and
+non-gov orgs. Thank you SJ, for you outstanding leadership and commitment to
+open work.
+
+You have the chance to discuss, ranging from models from work, trends,
+managing info overload, and other topics. The opportunity to network and
+explore new ideas. Goal of summit, to bring industry and academia together, to
+identify opportunities, address open work and challenges.
+
+Hope you'll build foundation to support a new and better ecosystem. Wish you
+the best for your next few days.
+
+Intro Karsten Wade, Prin. Community. Architect. at red hat.
+
+Helps more people learn about and participate in open work
+
+
+Karsten
+    Take a few minutes to talk about open work definition, and where it came
+    from.
+
+    The power of naming, when you can put a name on something of the first
+    time, and share for first time. You create more than power, but something
+    that didn't exist, til the end of time.
+
+    25-30 years ago, when Open Source was coined. It was about using Open in a
+    particular way. Definitive for the end of the 20th century. 
+
+    Open has certain qualities, and patterns/anti-patterns when we know where'
+    in that space.
+
+    When we met SJ, he was telling me about the Open Work concept, and what he
+    wrote up, suggested we make it an official definition.
+
+    As usual, inventing something that someone had already done.
+
+    Open Knowledge foundation has a 2.1 version. Encompasses concepts of open
+    that we mean. I came into this world as a writer. Getting things correct
+    as an editor. Consistency was correct. Was not using the "capital" O, but
+    we need to do that, and it means something.
+
+    That's when we get the magic connection we feel all the way along.
+
+
+    "We're going to 'open source' our science, our design process." You make
+    the brain take turns to understand. If you 'open' that makes sense. But
+    "Open" when you show someone, you are indicating something special. You
+    have the power, and the capability, to define new things as an object
+    that people will be creating. Nouns, like source, or science, or art, it
+    encompasses all that. If its Open Source, or Open Source. We don't have a
+    trademark in it, and maybe that's ok. You can fork the code, but you can't
+    take the trademark with it. WE probably don't want that necessarily. We
+    can have a cultural understanding Open in this special way.
+
+
+    In my mind, OpenRIT, and Open Work is a new node. It's been coming for
+    25-30 years, happening since the beginning of time. What the difference
+    between collaboration and Open Collaboration? It's the principals that we
+    bring to it.
+
+
+    0.1 is available for your use. Please suggest improvements for 0.2,
+    everything is interactive in this world.
+
+    Thank you much.
+
+
+-----
+
+What are the different models for open work, policies, practices, and support
+in universities.
+
+Tom Arrison - moderator, NASEM
+Kathleen Fitzpatrick, MSU
+Chris Bourg, MIT
+Randolph Hall, USC
+Richard Holliman, Open University UK
+
+
+Each panelist will give 5 mins of introductory remarks. Then I'll give a bit
+after them, then I'll put out a few questions we've mulled over in advance,
+and take questions/topics from the audience.
+
+First, dir of digital humanities, kathleen at MSU
+
+I am as you heard, dir of DH at MSU. In that role, direct a small RnD group
+called Match(mesh?), doing open scholarly communications.
+https://Hcommons.org. Built by MLA, support Mellon Foundation and NEH. Designed
+t support member-to-member communication int he MLA. Then opened to anyone who
+wanted an count.
+
+
+30K scholars sharing, building  web projects, doing discussion.
+Got a significant NSF grant to help us open a first node on the network in
+STEM fields, discipline based research, to bring people into research
+coordination of FAIR and CARE principles.
+
+Prolly renaming network as a result.
+
+As commercial said, "I"m not just the President, I'm a customer too!"
+(audience laughter)
+Conducting my own book review on the platform, "Leading Generously," check it
+out.
+
+Can talk about infra, and goals, for a long time, but wanted to say something
+personal.
+
+"Why did I turn to open review? Why did my institution support me?"
+
+I started blogging in 2002 as and Asst Prof. My work was getting into more
+rapid communication than scholarly channels. Built not just a readership,
+but a community.
+
+Asked editor if he objected to an open review process with community. I wanted
+that feedback. It was helped by my tenure status. My work was not likely to
+fire me, and I was coming up to full professor. Wanted institution to grapple
+with what that meant in promotional context. I got promoted, but not without
+an ugly fight. IN a related/unrelated way, left the institute to go to MLA to
+work on these kinds of issues. How to open communicate with scholars in
+commons.
+
+Built, but then wanted move back into academy. Wanted to go work for the
+Dean who I report to, Chris long, dean of college of arts and letters, working
+for 8 years, to transform tenure/promotion to recognize and support open work.
+Happy to dig in during QnA.
+
+Want to end by pointing at a key moment in the transformation between
+institution and open work. In 2007, Bernard, at Liege. Key component of open
+mandate isn't 'deposit into repo' but 'your review will only be based on
+things in the repo.' That process of making the repo the source of truth for
+annual review, produced a 95% compliance across the EDU...
+
+Thinking about how we use policies not to just support, but foster a culture,
+is what I'm hoping we can think about today.
+
+Chris
+    Dir of libraries at MIT
+    center for research on equitable and open scholarship.
+
+    Thanks SJ for the invite.
+
+    Going to give a few remarks about context at MIT,framed around what the
+    MIT libraries are doing to support and advance open scholarship.
+
+    Done in a way, I hope, for how EDU libs can be major players in open work
+    advancement in diff ways.
+
+    One of few reps from a lib?
+    Ok, I'm often the only one of my kind ;)
+
+    MIT has a long history of supporting Open everything. 
+    Open courseware to share our syllabus and content with the world so that
+    everyone could access parts of an MIT education on the web.
+
+    MIT and Luminaries roles in advancing early open source work is known.
+    Faculty open access policies.
+
+    2009, first all-campus open access policies. By virtue of being on
+    faculty, you grant to us worldwide non-exclusive perpetual license to
+    share you journal articles to the world, freely, and you have an
+    obligation to do so. The obligation is sometimes 'honored in the breach'
+    but I'll get to hat...
+
+    I came to MIT in 2015. Not long after, we launched an open access task
+    force. 10 years after policy. Reviewed every 5 years. We were a lil later,
+    but looked at, what else can we do to advance Open@MIT.
+
+    Task force looked at lots, won't bore you, but one recco, was, key one,
+    each dept should figure out it's own path to open. There was a recognition,
+    that there's vast difference between lit dept and Mech Eng dept. Whether
+    opening data or monongraphs, or code, or protocols, big differences.
+
+    Diff disciplines are at different points in their journey.
+
+    Dept by dept, keep people on a trajectory to open.
+
+
+    And, to develop a set of principles, how libraries would negotiate
+    with publishers to get read access to things behind paywalls, but the
+    rights of MIT to publish with them.
+
+    The framework says "we're not interested anymore in paying rent for content
+    our own faculty produce. Instead, we want authors to retain rights, and
+    we'll pay for value-added services they put onto content
+
+    We're up to 10 contracts with publishers who honor this, and out of
+    contract with one who will not honor our framework.
+
+    The libraries, that point of negotiations, with publishers, is one of the
+    only places where an EDU has a moment of Leverage around journal articles,
+    and specifically with the data.
+
+    The library has a major role to play on advancing open on campus.
+
+    Founding Dir of research on equitable and open scholarship.
+    As I talk about open scholarship, I got frustrated with otherwise brilliant
+    scholars who would resort to anecdotes on how to advance open. "Incentivize
+    open X with Y!" I got funding from Mellon Foundation, to run research
+    projects on 'what does work as an incentive to engage in open sharing of
+    research projects.' interested in how open connects or not with diversity.
+
+    ON open journals, there is less diversity that traditional editorial
+    boards. We need to pay attention to that, can talk more.
+
+    Very recently launched SIG support for open data. As on any campus, and
+    campus decentralized, there's diff people doing different parts of open,
+    and may be replicating work. Libraries is a centralizing force, interdisp
+    and accessible. Teamed up with colleague in Science, and offering Open Data
+    Prizes for the first time at MIT. Designed specially, for next
+    generation. Wanted to reward 'research trainees' for postdocs and
+    students, not faculty. Creating data, sharing data, making use of open
+    data, or theorizing and writing about open data. Having a huge event for
+    open access week in October. Networking event for anyone working in the
+    area of open data.
+
+    Incentives question is an important one.
+
+    WHOSTP just dropped the embargo for journal articles they've funded.
+
+    We're looking to use that as a way to say 'this is now required.' you have
+    to share without and embargo. It's required, lets reward it.
+
+    Write into tenure and promotion policy, that you will be rewarded and
+    recognized for that.
+
+    Tenure is thought of as a third rail, but we're finding a nice in.
+
+    90% compliance with a policy is amazing. 60% is what we have, I think it's
+    the highest in US, and no one challenged, so I say highest in country (lol
+    audience) not relying on submissions from authors, solicit work from
+    authors, not asking them to submit it.
+
+Randy Hall, USC
+    How I got into topic of Open. Sidestep.
+    VP of Research for 15 years. I'm now faculty. Study innovation at EDUs.
+    About a decade ago, observed with others at EDU, digitization, was
+    changing the products and practices of research.
+
+    Creativity and collaboration in academy, how do we adapt to what tech has
+    to offer?
+
+    A decade prior, research was maybe a paper journal or book, and the paper
+    work was not fast for distribution, not accessible, does not lend itself
+    to sharing. Digitized, it can be shared instantly, and can occur in many
+    forms. In this initiatives, we examined; 1) changing nature of product
+    itself. Article with tables and texts is restrictive. 2) changing nature of
+    collaboration. Others will be able to read, and iterate. That's slower. But
+    digitize make it more instant.
+
+    From fundamental principle, what about Openness. Changes from a slow
+    process, to something that enables sharing immediately.
+
+    Many things spun off. Some were meaningful policy, we changed our tenure
+    and promotion a decade ago policy, to recognize these new outputs.
+
+    Changed to recognize collaboration in our policies.
+    Created other policies, like on attribution. How do you know who does what
+    and contributes? Like mashups in music, how do you recognize derivative
+    contributions.
+
+    Bio repos, sharing specimens from a medical standpoint was another.
+
+
+    Served as char of board of UIDP.
+    Purpose to enable collab between EDU and Research.
+
+    A group of companies, wanted to sponsor research where public dedication of
+    IP was mandated in agreement. Neither the company, nor EDU to patent
+    protect or copyright protect products in conventional sense. Who do we
+    make that work? There were many complexities. Ofcourse EDU and faculty
+    want to do it. There are some public dedicated research, obligations to
+    inventors to share income, creates conflicting rights, so we made polices
+    on that too.
+
+    How EDUs innovate in their practices.
+
+    EDUs struggle with alignments.
+    With eachother, and with their purpose.
+    All research EDUs emphasize 3 missions, production, dissemination, and
+    public service. Doesn't say anything in there about protecting IP... does
+    say things about promoting openness and sharing. Every EDU has an IP
+    policy,a nd that does talk about protection and patenting an
+    commercialization. Many have polices around InfoSec, and those in charge
+    of it, may be motivated to limit access to data that EDU owns. Those
+    intentions to protect 'critical access' can get in the way of openness.
+
+    Tenure and promotion policies do align with openness as many ways.
+    Recognizing sharing. They rarely use "open" in scholarship. Explicit
+    recognition is more common int he UK. More common to recognize
+    commercialization and entrepreneurship, than openness, in the USA.
+
+    People writing the missions statement, and the tenure/promotion policy,
+    they're working on different elements, and diff provenance.
+
+    WE don't dare touch the IP policy that's been written 20 years ago...
+    Tenure and Promotion is updated. Strategic plans are rewritten when a new
+    pres arrives, but then sit there (applause)
+
+    Mission are sometimes decades old.
+
+    There's a tension between privacy inclinations and transparency
+    inclinations.
+
+    There is  private data. Health records. Student data. Pure privacy
+    interests. Sponsors can insist on us protecting a dataset. Fed Gov has
+    InfoSec requirements. There are things we're obligated to keep private,
+    but EDU has mission to open and transparency.
+
+    Where EDUS ought to make progress, is merging the notions of privacy and
+    transparency together. Privacy policy are driven by regulations. There
+    are transparency policy around sharing, but I don't see them together.
+    That's an opportunity.
+
+Richard
+    based in UK.
+    Work for OpenEDU, a national edu in UK, Scotland, and England.
+    I did a few slides, I've tweeted them, you can look at reports.
+
+    @magicrit handle has them.
+    @science_engage.
+
+    Everything is open access.
+
+    Specific element of org change. We're all talking org and cultural
+    change.
+    You won't be surprised that UK EDUs are conservatives about changing. I
+    lead a program 10 years ago, Open Research University. We're open in the
+    way way teach, less so in research.
+
+    Used "edge" tool. Embryonic, developing, gripping.
+
+    Moving target across EDUs and disciplines.
+    Openness in diff ways understood.
+    Looked at evidence, big driver of change, to self-assess where they
+    thought they were in the process.
+
+    Named  things
+    1) Define the area. Definition of open work. Came up with 'engaged
+    research' less focused on product, but on the process by which it can be
+    used. Helped with recognition of reward. The 'tenure' thing, we don't have
+    that, but we have promotion. How to reward excellence.
+
+
+    Talked about leadership need in this area. We had Provost chancellor who
+    allowed us to go through promo criteria. Profiles for teaching, research,
+    and teaching research. We created "knowledge exchange' and what does that
+    look like? In 2015, promoted 9 profs in that profile. Gives you a wide
+    range of excellence across EDU. Work in EdTech, bizmangagement,
+    socialcare, env science, and others. Almost all type in org.
+
+    Tiny thought: Moving target, addressing form different levels of
+    embeddedness. EDU wen through revision/refresh. Didn't change the knowledge
+    exchange profile, but worked on barriers. The backchannels, senior
+    academics telling juniors to remove myths. Lots of my work, supporting
+    academics and applicants and assessors, in how do we support in this
+    broader range of work in open and engaged research.
+
+    That's my lot :)
+
+
+Tom
+    Thanks everyone for the great perspectives.
+    Quick thing about me, Dir of NASEM board in DC.
+    Academies are private npo, have a congressional charter to advise the
+    national foundation on Science tech medicine Eng related policy issues. 
+    The board on research data and information, been working with them for 5
+    years.
+
+    Encompasses several diff projects. Working to introduce others. We do
+    expert committee consensus studies. We do convening through roundtables,
+    forums and workshops, and we do some operational programs. Do some grant
+    management of programs in international collaboration. Fellowship programs
+    for diff fed and private sponsors.
+
+    BIRDI is a standing board/committee overseeing a portfolio of activities.
+    More have been focused on promoting and fostering open.
+
+    This report in 2018, open science by design. Committee was chaired by Alexa
+    McRay(sp) at Harvard and Arnold ventures. Lays out reqs and findings on
+    how to better foster open in US research enterprise. How society might
+    take actions to foster open.
+
+    For last 3 years, sponsored roundtable for aligning incentives on open
+    scholarship. Facilitated stakeholder conversations, supported by
+    participants. Randy/Chris have been involved heavily.
+
+    That is, we're starting our seconded 3 year cycle of activity. First cycle
+    produced a workshop report with authored papers,a nd toolkit for open
+    science practices under a cc-by license. All available for no charge, all
+    academic reports are.
+
+    Roundtable has also resulted in spinoff activities, furthest along the
+    Higher Ed Leadership Initiative (HELIOS) That's not an part of the academy
+    actively, but they'll be reporting back to us.
+
+    A third study, automated research workflows for accelerated discovery.
+    Chaired by Adkins and supported by Schmidt Futures. Shows that access to
+    computation, data, automated equipment, AI tools and techniques, have the
+    potential to rapidly expand scope/speed of research processes across a
+    number of fields.
+
+    Report does a good job making case that next phase of IT supported research
+    and innovation will be greatly enhanced by openness.
+
+    We're trying to raise money for a couple new studies, on future of
+    scholarly comms, one on how the US should play in the open research
+    commons. EU launched one, a few others. Computation and Data resources
+    being mad open.
+
+
+    Pass the mic with questions.
+
+
+First, been addressed to some extent.
+What are pre-reqs to get started at your EDUs and keep going? Top leadership
+support? External Funder? What other things? For EDUs look to start open work,
+what do they need?
+
+Kathleen
+    part of what I needed was a sort of naivete, about what it would mean for
+    me to write in public, and work in the open.
+
+    Beyond that, I needed confidence that my EDU was not going to punish that
+    openness. Took a few changes of institutional for that to happen.
+
+    Current dean, working on revised polices, but also annual review policies.
+    Getting faculty every year to articulate what the long term goals are. And
+    how they won't be the same, even in same dept, and how that work is moving
+    them towards the long term goals. That articulation, allows faculty to
+    think very differently. Review becomes a conversation, instead of
+    gatekeeping.
+
+    Process of eval on 'what do you need to do?" v.s. "are you doing what I
+    think you need to conduct" is huge.
+
+Chris
+    I agree with all that.
+    In my exp, it's gone through phases. I've gotten a fair amount
+    accomplished at first by flying under the radar. Didn't try to, but then
+    you hit a wall, and if you wanna go further, you gotta build a coalition at
+    the institutional level. I'm realizing now, my current active ally, is an
+    Asoc. Dean in brain science. Advocate bc of reproducibility and rigor. WE
+    have diff modes of accessing the power structures at MIT. I report direct
+    to provost and sit on councils. I have access to formal power structures,
+    but I'm not faculty. She has credibility of being a practicing faculty,
+    and it's a different kind of power.
+
+
+    Getting things done with different people with different modes of accessing
+    power structures.
+
+Randolph
+    Fundamental grassroots interest.
+    There are different people in diff disciplines, many humanities, interested
+    in new ways of doing research. Digital in native form. Humanities in
+    particular, moving form 'paper book' from final product. Evaluating not
+    just paper. In Eng/Science, more than a decade ago, there was tension on
+    whether a non-paper article counted as much as something in a paper form.
+    We've gotten past that. Journal Articles are rarely looked at in digital
+    form.
+
+    Roundtable, one thing we did was making a guide. A 2 page guide, about
+    'who should be involved?' 'what are elements of initiatives (infra,
+    policy, rewards)
+
+    Why we wrote for Provosts and Presidents. To align the pieces, it comes
+    together at the presidential level. Research office, library, etc.. None
+    have control at all levels, but converges at president's level.
+
+    Many tho, don't pay attention to this issues. They deal with day-to-day,
+    board, legislatures. Our purpose in creating Helios, was to get
+    endorsement of president. President may delegate much of the work, but it
+    has to come at leadership level, combined with grassroots, to make it
+    work.
+
+Richards
+    don't disagree with any of that.
+    It's very easy to make the argument for open work. Everyone here believes,
+    we win the idea battle.
+
+    It's harder to get senior leaders to changes. We need connections and
+    allies and evidence. In the UK< we had to. We have an order every 7 years.
+    They intro'd elements about 'working beyond the EDU 'to generate' social
+    and economic impact'
+
+    VPs leave. But policy level changes stay. Valuing over the longterm.
+    Building postgrad to professor.
+
+Moderator
+    combine barriers/challenges with opportunities question.
+    Identify 1-2 things, inside or outside, if removed or lowered, would
+    facilitate the advance of open work?
+
+    Opportunities, if advance the work, maybe you can see some of it coming
+    already, what is the vision for what open work can accomplish in your EDU
+    or more broadly, and how do you get more people to see that?
+
+Kathleen
+    start with barrier
+    in EDU, primary barrier to change is a very stubborn intractable
+    definition of 'prestige'
+
+    For open work, opportunity to create new and more appealing and equitable
+    forms of prestige. What it means to have your work make an impact in the
+    world. That is a primary driver in a lot of academy, like the nelson memo,
+    to lift up the work that was previously overlooked. Prestige has come with
+    exclusivity. If we can redefine as an embrace of open an equitable, can
+    make change across academia.
+
+Chris
+    absolutely key.
+    Important barrier, we haven't figured out, related to prestige. There are
+    pressures on faculty to publish their work. There is work involved in
+    publishing. I am responsible for MIT press, there's work and labor an
+    cost. We haven't figured out a sustainable model for publishing, if we
+    haven't got rent extraction for content. 
+
+    We have not figured out a new model, that is maybe 'journals as a service'
+    but that's a real challenge. How do you pay for the labor and work
+    involved in openly sharing research outputs, without paying rent for the
+    output itself?
+
+Randolph
+    there is a lot of proprietary instinct. People become faculty often bc of
+    independence. Even at big companies, your work is directed.
+
+    "I don't have to bother with anyone" is a feeling many faculty have. That
+    instinct is hard to overcome.
+
+    Direct monetary incentives. Forming companies, monetizing research,
+    creates individual pressure.
+
+    Promotion from assistant to associate, more than promo to full.
+    We can look at things like citations, but that's more meaningful when
+    people are around for a long time
+
+    Fallback is getting published into hard to get published journals. That's
+    imperfect for understanding impact. Going from asst to assoc is hard to
+    overcome.
+
+    Last is how to pay for publication.
+    EDus struggle with financial models. How to get EDUs to balance budget.
+    Course subsidizes eachother, one things makes money, another loses money.
+    You gotta move things around. Academic health centers pay for research by
+    making profit off of healthcare. In some degree, private tuition profits
+    pay for research.
+
+    How do we pay for publication is very complicated?
+
+    What will drive change? EDUs consider the competition that comes form
+    private sector for innovation and prestige. It's not just just us looking,
+    but getting prestige compared to google or amazon. They're building
+    educational programs, an clinical programs, and they're getting into the
+    space of EDUs. They're not losing prestige relative to eachother, but to
+    the sector.
+
+
+Randolph
+    it's easy to make barriers at EDUs, harder to overcome.
+
+    The two I struggle with most, are head of school, and PhD supervisors,
+    who think they know what academic looks like.
+
+    So I became head of school! Most obv impact was the way we wrote our PhD
+    projects. They are different, more open, and more engaged. The work the
+    students do now, set them up for their careers.
+
+    "what kind of academic do you want to be?" that's a longterm change.
+
+Mod
+    thank you panelists.
+
+------------------------
+Panel #2
+========================
+
+Stephen Augustus
+    went from  customer/solutions Eng to OSPO at CISCO
+    Before Cisco, was at VMWare doing field Eng doing open source.
+    Picked up a few committees, todogroup, k8s steering committee, OpenSSF gov
+    board. Understanding the motivations of why and how to do OSS in industry
+    will be exciting to get into into.
+
+Mel, mod
+    say you come across someone who wants to understand the benefits in biz
+    value. How can that be applied in academia?
+
+Nithya
+    Happy to go first.
+    There are tremendous company/industry benefits.
+    Many of us are software businesses, and all our biz's use open source.
+    It comes with characteristics that companies are not used to managing, but
+    need to managed. It helps you manage more intentionally, and more
+    Strategically. It's much needed. A bridge between the outside ecosystem
+    and inside development community inside the company. You need that guide
+    for innovation inside to navigate with the outside world. And for the
+    outside world to know who to talk to inside the company for projects,
+    sponsorships, or participation. You need that visible and consistent
+    bridge.
+
+    Lots of companies see this as critical to risk management, and innovation
+    strategy, and to developer happiness. Developers want to work with
+    companies that are open source supporters and good citizens. They don't
+    want to work with companies that do not have ties to OSS.
+
+    For EDUs, it's even more important. Not just from educational perspective,
+    but how invention and innovation happens. How you use OSPOS as the
+    language to connect with other companies and EDUs to get work done. It's
+    a great place to place devs inside companies as well.
+
+    My fellow panelists have much to say here.
+
+Stephen
+    She nailed it, I have nothing to add ;)
+
+    When i think of structure:
+        2 lenses
+        contributor
+        maintainer
+        sponsors
+
+        Doesn't matter if inside/outside academia.
+        Visibility to potential contributors.
+        Visibility of maintainers to support.
+        Visibility of acts of sponsorship and altruism. There's a biz need
+        behind it. Gaining viz for hiring, or selling.
+
+        In my background, having done field/sales eng, and going further back
+        as IT eng, worked in cost centers. In OSS, you're sort of in a cost
+        center, when other groups are making money. 
+
+        Every interactions is 'whats the sell?" What am I selling as contrib?
+        Maintainer? Understanding what you are coming to the table with/for,
+        and getting starting in an OSPO. This is my first OSPO, running or
+        being in one. Sponsor added is a new lens, understanding how to manage
+        relationships, being that conduit, and connecting disparate groups.
+        That concern is different from industry and academia, important to
+        all of us.
+
+Ruth
+    if you need to give a paper, and justify, you can go read them.
+
+    "If you care about something, and you believe it's important, you hire
+    someone to think about it all day." Maybe EDU cares about environment, you
+    hire someone, or a team of someones, to think about that all day, and
+    that's their entire job.
+
+Mod Mel
+    most difficult challenge? Most exciting?
+
+Nithya
+    thanks for the remote participation Open@RIT.
+    2 hard tings:
+        Compliance is hard. Tooling, processes, are still evolving. Even
+        though we've been doing this for 20-25 years. Esp at scale, like at
+        Amazon, to build the right tooling/process, that are not too
+        heavyweight, but we do the right level of diligence on compliance
+        matters, whther contirubitng or distributing, or using a new license.
+        it's ab ig area, where we focus. How do we do it correctly, how do we
+        make it easy to remeber the legal aspects?
+        2) Hiring good people into an OSPO. Stephen and Ruth are unique. Some
+        OSPO folks come with broad sets of interactionsl skills.SOme ocme form
+        comms/marketing, and at other times, work in leciensing to have convos
+        with IP/legal, then need to pivot and talk with develoers inside, then
+        talk with outside orgs. THere are few skilled wonderful competant
+        people with that range.
+
+    The easy/exciting:
+        how OSPOS are gettin recognized to strategic to innovation.
+        ...
+        Ecosystems...
+        Frozen...
+
+Ruth
+    Literally everythign about starting Open Source Program at proprietary
+    company is exciting and challengeing.
+
+    Findign everyone in the Org doing open source.
+
+    "jeff down the street has a repo we sholud have knwn about"
+    "so and os has joined another foundation for 250K..."
+
+    finding those folks, and what we did at Red hat, was to consolidate
+    joining those things.
+
+    RHT is up to like 70 memberships.
+    Someone would join, and we'd pay the thing, and no one was paying
+    attentoin.
+
+    develpoing a process nd a missionf or why you join.
+
+    "Drop some money to slap a logo on it"
+    the other is to participate.
+
+    one is good, the other is not.
+
+    Driving participation, is the more effective. Dropping that 50K just
+    because there's budget at the end of the year is not a great reason to do
+    it.
+
+Steven
+    easy part, joinign cisco, was I wasn't joining unless OSS isuspported. I
+    was 'tip of spear' and blessed from Exec leadership. Getting others to
+    undertand that's the message (open source is the streategy)
+
+    who's managing the CLAs?
+    WHo's still around that started th emembership?
+    WHo's publishing blogs? 
+    we're 3 people for a cmompany of 80K...
+
+    Understanding how to scale yourself. Stepping outside of tasks you're used
+    to doing. Stepping away from the terminal, more video conferences...
+    establshing a web of trust across the company.
+    hired some of the best open source talen't I've seen on the plane.t I know
+    anything I hand them, tey will execute. Do the thing. Sign the paperwork.
+    Mov ethe ball. Tha tfrees me up to have convos with Directors and VPs, to
+    show them we're a center of excellence for the entire company.
+
+    we're the conduit ot help you be sucessful.
+
+    ALl the things are hard. hardest thing is figuring out what to do with
+    your day, becaues oepn source is fast and exmpaneisve, and you cannot get
+    it all done, no matter the size of your team.
+
+Nithya
+    scaling is hard.
+    enabling developers to do self-service, and educate them on isues of open
+    source when they need to engage, is the only way.
+
+    you cannot be everywhere. HWen you have htousand and thouseands of peopel.
+    OSPOS tend to be small, between one person, to a couple dozen people in
+    very large companies.
+
+    enabling the teams to put in autmoation, self-service, education in place
+    is the only way to scale expertise of OSPO.
+
+Ruth
+    You may have a small ospo, but if you can get 2 hours a week, or 1 hour a
+    month from that person, you can build big impact! that's how this
+    community thing works.
+
+Steven
+    it's not an open soruce offic,e but an open source PROGRAM office, because
+    you cannot do it all yourself, scaling is hard.
+
+Q: SGoggins
+    When you look at corporate OSPOs, ther are some that exist to achieve
+    differnt directives. Some more focused on controling software, some more
+    focused on creagting community. How are they shaped differently in
+    different contexts?
+
+Ruth
+    I was look at LF, they have an org called the TODOGrup, a group of people
+    in OSPOS who come to gether to talk about OSPO-y things. They've done this
+    survey for 4 years to look at their growth. THe report in fEb came out,
+    and the steps of the maturity model.
+
+    Not sure I agree with that outline, but tey can came in.
+
+    Step 0 is adoption.
+    Then compliance, education, legal
+    then community ed and participation (not sure that' sa process)
+    then finally, becoming leadership.
+
+    that's more like likely functions, not a sequentilal step.
+
+Nithya
+    some companies do follow that path.
+    eveyrone starts with consumption.
+    then lawyers get word, and they want to get control or compliance.
+    then there's a random developer that wants to congribute back, and some
+    companies don't allow it. Then you realize that you need to have commnity
+    engeagement in palce.
+    then the ultimate is releasing csoftware, engageed in lots of communities
+    and company projects. In our company, it was all of the above. Diff parts
+    engage unevenlyl.. There is no cprorate edict about 'how we engage in open
+    source' but based on needs of diff bjuisiness. Some parts are highly
+    comminty aengeaged because that 's important ot heeir biz.
+
+    some parts are only concerned iwth compliance, nd don't contribute back.
+
+    our job as an OSPO is about making an "EVENNESS" across the companies,
+    while being conginizent of differences.
+
+
+Steven
+    cost centers, one problem when you srart, you're on the back foot. Ther'es
+    already a biz built, and Open source is often an 'afterthought'
+
+    dependong on where you land, marketing, legal, compliance, etc... will
+    color what goals you're formed under at what time. I like that our OSPO is
+    housed in strategy, which means it is core to biz.
+
+    Were I not at CISCO, I'd be at Red Hat. They have a great model, the best
+    for OSPOs. THe OSPO function being set close by. Trendspotting.
+    Structuring things near emerging innovations for biz, signals ou are
+    trying to get ahead of needs, as opposed to working them into existing
+    structures.
+
+Q - SJ: Discuss/Define Compliance?
+
+Nithya
+    2 unique aspects:
+        1) it comes with a unique licnese, not a commerical license, created
+        by maintainer to propogate the software.
+        2) Community. How it'sdeveloped. Collaboratively. Globally.
+
+        License aspect is what compliance cares about.
+
+        To me, it's about respecting the license. What the developer of
+        sofware is telling us. "You can have htis, and when you distribute or
+        share it, respect the obligations of this license"
+
+        for exmaple, pubshining the copyright, mention the license name,
+        ensure it is carried forward in derivative works.
+
+        Therea re new licenses coming out. OSI has a certain list, but there
+        are thousands in the wild. Undertanding whether one is ok to use as it
+        parterians to what they write.
+
+        3) Helping developers release sofware will proper license and
+        attribution.
+
+        4) distributing the software the right obligations that it can
+        include. If you distribute GPL, must make source available, and an
+        attribution notice that includes the copyright notice.
+
+        Eudcating developers on these aspects.
+
+        OCmpliaance is also about protecing company IP. Using certain
+        licenses incorrectly can compromise IP. Often companries acquire other
+        companies, so ensureing that in a mergere/acquisition, that that
+        doesnot bring new compliance risks, and undestranding their compliance
+        knowlege.
+
+        respecting hte licenses is ocmpliance.
+
+Steven
+    I was an SRE eng in past life.
+    one things this role has to consider i s"what happens when something goes
+    wrong"
+
+    Postive light from Nithya, but I think about Fear/Risk.
+    What is the ocst of doing this incorrectly.
+    Laywers have said "we exist to make sure this lawsuit doe snot happen
+    again" W're not doing it ifor fun. There is a cost of doing biz. managing
+    groups that might use OSS, even if htey don't realize it, has huge risks.
+    Getting code form the internet for free, makes it more likely it iwill be
+    used. If we don't manage the way we report the way we use software, and
+    manage developer education, and mangaement education. having a tight
+    relathiosnihp with legal, to manage the huge risk component.
+
+Ruth
+    yep, goodcop badcop
+    risk maangement and importance to cmmunity.
+    we can give a whole days' workshoip on licens eocmpliance, but hta twas a
+    great summary.
+
+Mel
+    OSS doesn't get boring, always flexible. Talk about a time when you had a
+    plan, and then something arose to make you pivot.
+
+
+Steven
+    I don't think there is a time that Iv'e had had a plan that went exactly
+    as planned... with OpenSSf and convos with Whitehouse around how Govs
+    handle OSS and dvelop policy. it's flipping a lot of the notional
+    constructrs of certain peices of software on it's head. Tring to
+    understand how to handle going back to risk, vuln mamagenet in commnites,
+    where if you've seen the XKCD Jenga-block comic panel.
+
+    Thinking about kubernetes, brains is etcd, there's a maintainer problem,
+    and that causes reliablility problems at the cluster lvelv, which means
+    business level. Looking at amazong/googl/microsoft, it has real impact.
+    Do we help fund etcd? Etcd came out of coreOS. there's apersonal want, and
+    a business need. Havin gthose convos of 'hey, not as read up on
+    vuln/commniyt mangement, udnerstanding pattersn of why people leave
+    commuityes, or how small communities grow and shrink. The rampup periods.
+    the 3 different lenses of contrib/maintain/sponros. Maintainers are subset
+    of contributor, but that's not a small feat to get to maintainer. It takes
+    sustained effort. YOu may not have that undertanding or skillset in your
+    org, the role of community education; "how do we build a community?" How
+    do we make it easy to join, so that you can continue to support it.
+
+    Plans don't survive impact in day-to-day.
+
+    One of my team sin K8s. Anything that's written down, feel free to throw
+    it out. it may have been correct at one time, but you're hired to question
+    and improve. YOu have to be flexible na dchallnenge what is written to
+    imrpvoe over time.
+
+    don't make rigid plans.
+
+Nithya
+    you covered many apsects of pivot. 
+
+    agiliity, as steven alluded to, is an important aspect of being an ospo
+    person.
+
+    licenses change constantly.
+    if you consumed something under an assumption, then it changes, you need
+    to advise on how to react to it.
+
+    Security is front an dcenter now.
+    got to broadhen horizons to how to partner, how do I contribute to the
+    dicussion? HO wdo I get eahed of problems through nknownlege of ecocsytems
+    and how OSS owrks? How do I work wtih legal/marketing/PR in developing
+    good relationships with leadrehsip, and not assjming that eveyrone
+    udnertsands as well as you do. Continuing to share, and be an advocate on
+    the outsid,e but inside as  a culture guide. All this requires to be agile
+    and change iwth needs of biz, and needs of community, and the scope of ht
+    erole.
+
+Ruth
+    othe rway to define.
+    if you reach the point to lead/host.
+    You, as ospo, are responsible to make decisoins with thousands of people
+    who don't work for you. If pivoting is not for you, ospo-life may not be
+    for you ;P
+
+Mel - common misconceptions? How do you address and resolve confusion?
+
+
+Nithya
+    one thing coming in, you need to know all the tech areas that OSS is in.
+    forget that form the start. YOu cannot be a tech expert in everything.
+    you are an expert in nvaigating the cultures of open soruc.e
+    you need to partner with tehcnologists in particular areas, to work
+    toether.
+
+    2nd is that an OSPO needs to do everything in open source.
+    ifyou can partner with groups inside to do OSS more effectively, or to
+    scale automation an dtooling, you can get the job done.
+
+    "be everywhere, know everything, open source everything" you will fail.
+
+Ruth
+    Having people be aware that it even exists.
+    you have like a jilliion employees, right, at CISCO?
+
+Steven
+    yeah, first year, I was one-person ospo. things fall through cracks. YOu
+    don't know here to get support."I didn't even know we did open source
+    until you joined" That's a misconception that I have to help fix (we can't
+    do it all)
+
+    ownership, whether esxternal/territorialism. "Hey, that's 'my' thing!"
+    "I don't want to own your thing, I'm trying to help you share your thing."
+
+    OSPOs coming into 'their' territory is a misconception.
+
+    Innersource is 'what if you did open source, inside the org!"
+
+    "Why hsould my group share this code?"
+
+    I know there's power an magic in sharing that code. If you look at it form
+    biz perspective, without it being a weird 'corporate speak' 'with
+    paticipating in OSS commnities, we can monetize people who don't work for
+    us!" no, don't say that, tha'ts terrrible.
+
+    but working on innersource, there's a force multiplier to contribute back
+    to internal communities. I hesitate to do a 'needs justification' there.
+
+    I spend my day, wondering why we even need to justify our existence. it's
+    easy.
+
+Ruth
+    Teaching adults tha tasharin gis ok, and collaboration is what we do, and
+    it's on perupsose.
+
+    OYu get told to keep  your eyes on your paper, and compete for jobs, when
+    they get promoted, you don't.
+
+    breaking down that midsent, and collaboraing is one of the biggest
+    challenges.
+
+Mel
+    What questions do the panelist wish I asked, then anser it?
+
+Nithya
+    I think you asked all the right quetions.
+    I'll use my time to say I'm super excited that EDUs like RIT and USC and
+    JHU are also starting OSPOs. OSPOs are not limited to businesses. they
+    belong in all orgs. WHO started at OSPO! It's a great way to have someone
+    be focused on Open Source. If you blelive that OSS is the most effective
+    way to innovate today, you need to have an org that is focused on whatever
+    industry or org you are in. Congratusltions to RIT for taking the step to
+    advance this knowldege.
+
+
+Ruth
+    who is in your ospo, and where it sits.
+    ifyou start from scratch, looking at what problesm to address initially.
+
+    It' snot accounting, hiring accountants to do accounting.
+
+    Some are focused on compliance and legal.
+    Some are largely people working in commjnities, and doing commuinty
+    leaderihsp things.
+
+    One place is an entirely Engineering OSPO.
+    the ones that are in OSPO, only work on Open Source. There are people who
+    only do that there!
+
+    In companies, Eng/RND or under CTO. There's a handufl that sit in legal,
+    depends on what they do, and what you hope to be doing.
+
+Steven
+    what are you going to take away from this?
+    We have this huge opporutinty to collaborate and contribute.
+    and sitting in the previous panel, I wanna see how CISCO can help thme,
+    and connect our research department. I would encouarge you all to hlet
+    your walls down, and talk about fears and aspirations.
+
+    Rock On.
+
+Mel
+    I want to hthank the panel and the audience.
+    I'm looking for work in 2023, if you wanna talk about opportunities, and
+    it's time for lunch!
+
+Sgoogins (he/him)
+Eriol Fox (they/them)
+    queer, nb, invisible disability if you want to konw (or not)
+    care for a teriminally ill parent
+    identify as white racially
+    Human Rights centered Deisgner
+    been working in this space for 6-7 years.
+    work at Simply secure, doing work with OSS, looking at diff tools, not
+    just OSS. Doing deep user research. Previously Ushahidi and PhD
+    researcher, looking at how UR is done in Humanitarian space.
+    Podcast on design in OSS.
+
+SIlona
+    ED of IEEE SA Open
+    140 year old entity.
+    Standards and Open, not just source, but data, research, and hardware.
+    Open Work definition, we love this, we've been waiting for some time.
+    I've been doing open work like this since 2004, started championing Open
+    Data in gov, when that was not usual. Exciting to watch that progress.
+    Niche famous for Citability, making gov work accessible.
+    I learned "citation needed" long before wikipedia, being the daugher of ga
+    gov researcher.
+
+Karthik
+    I'm a senior SCientiest at Berkekely institute of data secientist.
+    lead in Opne source spac.e
+    just over decade ago, cofounded 'r open sid eproject' to develop software
+    tools to do reproducicble research. Lots of work is making tehc infra for
+    sicentiets, and buidling capacity for qulity softarw. Teach how to perr
+    refveriw software, and develop practices for buidling good Softwawr.
+
+    Us software sustainability insuttite (modelled after the one in the UK)
+    llooking at how software is developed, and devs recognizeed for the work
+    they do.
+
+    Dabble in open data projects as well.
+
+    excited to talk open work.
+
+Django
+    we discusse d abit about diversiry and our relationships with it.
+    Comparisons o fdiversity in Open Source, and what that might mean?
+
+Silona
+    The one I go forward on a lot is role diversity.
+    not just developers. proram mangageners, rpdocut onwers, desnginers,
+    artiests, marketing evanglesits, the people who do social media an
+    devents. The biggest one, USers. OSS is great for developer to developer.
+    But outside that, often fails. Talk awith acaemica nd government abou
+    tusers needs tat ar enot being met. That's a piece of it.
+
+Sgoggins
+    CHAOSS is focuse don devleoping metrics and models to undrestand
+    sustainability and diversity.
+
+    to be called a contributor on Github, you have to commit code.
+    Soeone who contributes many thigns, not just code, is what our metircs are
+    about.
+
+    with supprot from ford and sloaon, thinking about ways to make DEI a tthe
+    scenter of projects or commnities of projects.
+    mNay struggle with attracting and retraining new contribs.
+
+    same issues around 'less folk who look like me, more wo don't.'
+
+    we've defined 6 metrics with github, to be included as a DEI.md file to
+    award badges.
+
+    that's part of what we're oding.
+
+Silona
+    tooling brings in 'lazy' or 'convenient' metrics. THe git commit aspect.
+    we've been expanding our platform to measur echat, and events on a
+    calendar, and things you create. Proof of concepting intragiontions with
+    other metrics that are beyond self-reported.
+
+    when we talk about diversity, it's useless without inclusion.
+
+    Sitting down witha 60 yo academic on why they hsould commit to github, is
+    difficult.
+
+    collaborative document formats, I can get them excited about, and get them
+    the credi thtey deserve.
+
+
+Eriol
+    I was taking notes.
+    ther'es a ton of ways to define and compare diversity.
+    one that I use, is an intersectional diversity.
+    what are the itnersctioning ways that people involved in proejcts can
+    identify. and how is that being upheld, supported, shown, if at all.
+
+    apologies for gettin ahead to fture quetions.
+    lots of owkr in designers, is findin ghte way to bridge the needs of users
+    of an open project, and something that's closer to a contribution. "what
+    do we value in open projects?" we could say that the things we
+    historically value are tihngs that look or function like code. If those
+    are the thigns we value, how are we ever going to change, unless we shift
+    what we value with th ehidden/invisible metrics.
+
+    When I wanted to be a maintainer I get "huh? you don't know how to do X
+    kind of coding?!" Some are like "yeah, sure"
+
+    expanding to sustainable people approach, not just a functional personal
+    role.
+
+    Karthik?
+
+
+Karthik
+    jump on a point abou trole diversity, esp in academic space.
+    not much metrics or recongintion for this ckind of work.
+    OSS Industry, you have product owner, product manager, doc writers. In
+    Academic OSS, these roles are hard to come by, and hard to reconginze.
+
+    many who code get recongiztion, but many of the marketing and wrangling
+    tasks, are not caputred in the project metadata. it becomes hard to get
+    picked up in the automated metrics, and get recogniztion. this is maybe
+    more unique to academic world.
+
+
+Silona
+    I wanna toot SJ's horn.
+    One of hte htigns exciting about OpenRIT, is that 39 departments wanted to
+    collaborate. Communication,a nd business, and other dpets. Imagine the
+    imapct that can have on Open Source. There's somehting juicy that can
+    happen there.
+
+Eriol
+    one of the thigns I find really interesting, is how we reconginzie work in
+    OSS, comes up in design. Frequrently, hard for designers, to have
+    recongition from design industry, outside of the 'walled garden' of
+    contributing to open source, when you go into design field,
+    indsustry/academia, there's confusion about design in open soruc.e
+
+    I don't know if I've come to sovle it, but hte bridges to recogninze more
+    outside of the OSS space, making it make sense in industry spaces.
+
+Django
+    this is somehting I've encountered and discussed with SJ.
+    Metrics always lead to blinders. SOmeone is more concerned with ROI, as
+    opposed to how successful a design was. A design is new, being produced,
+    maybe you're not involved, but you contributed hevaily in the beginning.
+    It' shard to discuss it, without specific metrics for success. as soon as
+    you evaulate metrics, you get insipired to disregard things that are not
+    in the metrics.
+
+    we discused, 'what are barreirs to metrics based- anylsysis?"
+
+Silona
+    Steph Luggi (sp)
+    came down from a 'designer' point of view, rather than 'we have these
+    things we can measure.'
+
+    that's not how we do sicence!
+    yyou gotta go first for the pieces missing.
+
+    we've been so develoepr focused, and we need to reframe from a
+    'designer/user sytle' perpsective.
+
+Sgoggins
+    when we talk abou tscience, and how scientific software is evaluated.
+
+    how many of you have used 'downloads' as a metrics?
+
+    They're a simple metric.
+
+    That's like a metric about 'buying a car'
+    the manufacture, and the service and engineering are beyond the buy
+    metrics.
+
+    that's critical to uncovering the 'hidden/invisible' work that happens in
+    open source. Talkinga bout new metrics, helps to surface those htings.
+
+Silona
+    DPG (digial public good) alliance
+    "How do we measure impact?"
+    htat' show you get funding and sustainabliity. THen we don't need to worry
+    as much abou tcorporate domininance issues.
+
+Karthik
+    that's an interesting point about funders.
+    making the case of immapct for software.
+    I've used downlands in the past in fudning papplicaitons.
+    even when I evaulation grant prporseals, downloads and dependency data is
+    front and center of impact analysist. hard to move past that.
+    finding ways to meausre other ways,a nd to think beyond tohse metrics.
+
+    downloads are not the most useful.
+
+    the best selling car being a measure of popularity maybe for cars, but not
+    for software.
+
+Eriol
+    I was advising a commercial software app how to do login/signup.
+    they wanted to talk about gender, and I'm a gender-y person.
+    they wanted to capture gender, to better serve, and capture for  reason.
+
+    "Ok, but it changes thorugh life." you wont cpature when someone goes
+    through transition, or any fluid geneder. and they were like "WOW!"
+
+    it's not just with gender that it changes. diveristy analysis is a
+    set-in-stone, kind of metrics. We're not udnerstanding the hman proccess,
+    less intrinsic that we are, like part of our identity.
+
+    Putting into a 'zeros and ones' form, may not be something that eveyrone
+    is focused on.
+
+    I've written a note about how the ways to investigate these barriers, test
+    them, and break them, is a human cetnered approach. Undertanding how
+    proejcts work, and who is involved. Diversity and inclusion is an HCD
+    based issue. 
+
+    Impact is a very colonial space. I would encourage design justice
+    practice, thinking less top-down approach, and more of a 'how do we do it
+    from the community up? to better describe wha tthey want to tell, and how
+    and when and why?" that might be a better process for everyone.
+
+Sgoggins
+    we say OSS, and htink of "how we collaboratively build software"
+    if i look at OSS, there are many diff operationalizations and purposes of
+    that software. 
+
+    Stop thinking of it as a single thing, but thousands if not hundreds of
+    thouseands of forms of organization.
+
+    What I need to measure to live my values is different. It's not just one
+    thing. Breaking the 'one thing' mentality, would help.
+
+Django
+    It's not just open soruce, but the 'ecosystem'
+    broader impacts and intersctions in various ways.
+
+Sgoggins
+    ecosystems are collections of projects and people, and they take idfferent
+    froms with different roles.  A dynamiclly oganized colleciotn of
+    resrources to solve a problem.
+
+
+Django
+    intrinsic metrics, we use subconsiously.
+    ways we consider experience, and ways we condsier who would elvate to
+    maintainer status. Ways we meausre successful projects and contirbutors?
+
+silona
+    Opne Source GOvernance Stndard
+    Sil
+    all the ways that you become a maintainer, some are not that open.
+    some are coprorate dominated, sometime sa signle corp.
+    bringing in role diversity.
+    the most common pathway, and 'best' patheway, is a contributor does a lot
+    of contributing, then they become a maintainer.
+
+    if the only way you can elevate is by commits, how do we change that to
+    include others? It's exclusive.
+
+Eriol
+    tooling, a contrversial bit.
+
+    This is tricky. I told this story eariler, how it felt impossible, who
+    does not wnat to be a dveloper, that wants to be valued.
+
+    That whole way that we have value system needs to shift. how do we begin
+    to value the thigns intrinsic. I have a process to understand how we value
+    docs. maybe you don't though?
+
+    ther's a member of hte designer community, victory brown, who leads the
+    OSD Africa chapter. She's working on with my dnesosremnst and support, how
+    to support designers in those countries, get recongingion. When I say
+    "plfatorms" you may think of one or another. Designers are not in those
+    spaces as much, and noeed to be brought into those spaces. Shepherding
+    designers into specific spaces where people code, learn throughout the
+    process, formal or otherwise. Our tools don't have htose kind of
+    integrations and recognition. Industry doens't widely accept this kind of
+    accoloade, and won't get recognized for it.
+
+    I know there's some designing tooling that's getting better and very
+    exciting, but until there's a way to settle aruments between proprietary
+    and open soruc tools, there will still be invisible things still.
+
+
+Sgoggins
+    in chaoss, we build metrics around contributions for all different tools.
+
+    open source occurs in async plaatforms, but design tends to be more of a
+    sychronhous process. There's a mismatch between how organic progress
+    happens.
+
+Silona
+    we formed 3 advisory groups.
+        commnity advisory group, watches ethos.
+        marketing adv gropu, osint, social media, designers
+        tech adv gropu, developers, proeucts, designers, architects security.
+
+    one things we find, opeinign pu our tooling process, they can submit tools
+    to submit to the platform, so more peopel can have these options, to
+    gather diverse metrics, and use those tools.
+    Bu twe do have the requirement that the tools be open soruce, an dthat's
+    hard for designers.
+
+    "you get what you pay for"
+
+    the htings that are created are not always great. How do we grow? 
+
+    we talk about occasionally, the Prpopreietary ones, the API side to
+    gather metrics, but that's different than our mission.
+
+    Finding tools for all the roles can be brutal.
+
+Karthik
+    SImilar to what other panelists said.
+
+    I think the tooling comment is intersteing.
+    I struggle with it, bc thers' not much tooling available for measuring
+    what success looks like in Open Source. Beyond CHAOSS, ODn't know of many
+    tools tha twill give you measureable metrics to repreatably run over time
+    to see changes.
+
+    How to see some measure of success? Much is just github metrics, or
+    describing roles of non-traditional roles make to project. that's big for
+    what we consider success.
+
+    in corporate space, there's many commercial toosl to measure imapct.but in
+    non-profit/academic space, there's less. I don't see chaoss used very
+    often in cases where people ned to get recongition for funding and
+    promotion.
+
+Silona
+    hihglight OSINT, where we get other metrics.
+    one way we can go otuside the tooling. seeing which ones we can go through
+    to get signal. SOmeimtes in OSINT you can get numbers out of tools if
+    htey're not secured properly.
+
+Eriol
+    trouble trying to understand, the desire to udnerstand what success in a
+    quantititatve way. Designers, or a design, as a proxy fo rother stuff. I
+    think that's always going to be tricky. I was asked many years ago as a
+    design manager, to prove that htis design has made us more money.
+
+    there ar many components to tdesign, and cutlural things, and things
+    outside in life as why it was successfull that contriute to why a design
+    does more or less numbers. I'ts hard to pinpoint ROI in tohse ways and
+    terms.
+
+    it's aabout a series of iteration and hypotehesi. I read a series of
+    papers about testing usability in design, where there were 3 different
+    interventions that UXers tried on a projec.
+
+    one project that implmented the design, after time, ended up rolling it
+    back, not enough time to test whether successfull or not.
+
+    I dunno if we're at a place yet to give design enough time to collect
+    metrics. ther's a value question "We don't like this design, we don't know
+    if it works, we want to roll back!" doesn't give us time to collect the
+    metrics!
+
+Django
+    we've got about 15 mins left.
+    where id like us to go, is into developing standards.
+
+    it can be difficult to determine metrics for success, and in the many ways
+    'were developing outreach and inreach in diff projects. I know you work
+    with standards.
+
+    would like to go into that, and how we can impact that in the future.
+
+Silona
+    a part of that is about 'what kind of standards' you ar edoing.
+    there's many ways they are done.
+    some are done by implementation.
+    apple creates de facto standards, for exmaple.
+
+    IEEE is about elimintating coporate dominance.
+    consensus based.
+    ethics in AI one we're doing now, but takes longer.
+    there's conflict with OSS community, sinc eit takes longer.
+    we come at it from academia standpoint.
+    hard to get a bunch of coders who just wnat to do something right now, to
+    play well with that.
+
+Sgoggins
+    defining standard ways of describing the wya we do things?
+
+    What is a commit was a long discussion int he beginning.
+    we have a consistent answer, even if it' snot right.
+    it's not an IEEE standard, but it's context for a decisoin, and the data
+    needed to measure. It's useless, unless you provide tools to measure that
+    too.
+
+    to Silona's point, and Eriols, becomes crticial to usefl stnadards.
+
+    they want things that they can point to, they help. tools that express
+    standards can help.
+    faculty and employee evaulation systems, it's well designed right?
+    (chuckles from audience)
+
+Karthik
+    anything to add.
+Eriol
+    the term 'standards' is not excact for desing, but there are best
+    practices.
+    there are some things that are being done like the 'double diamond'
+    process. there's the UX heuristics. Disgners can bring these things when
+    they are involved. This soudns like "we need to begin to have standards
+    conversatoins about how things from other functions factor into how we
+    define metrics"
+
+Silona
+    the 7000 series, si about ethical design.
+    AI, automotive AI, things like that.
+    spreading it's wings into toher protions.
+    unusual, as pragrmatism comes frist. We didn't tihnk of all the ethical
+    contstructs when making things. Building 'evil' stuff, wanted to grather
+    information, didn't hink about privacy. wanted to calllout the 7000
+    series.
+
+Eriol
+    if you didn't already know, the funciton of a designer is to think about
+    the exlcuded and included users, and how to design for them.
+
+    by virtue of including those kinds of poeple, 'who is using it, why they
+    use it, who are we not thining of?" that's a best ptactic/standard in
+    design, that can only help with ways of measuring.
+
+Karthik
+    I lik eth eidea of more standards development in this space.
+    sgoogons brought up, ther's working gropus who spetn time defining what
+    things mean, before collectin gdata.
+    for other areas, there can be more community involvment.
+    jsut startin gto scratch surface.
+
+    one area, in ethics, standrads around what is implletnet, and wha tth
+    ebounds are of sofwtaser. Thinking about how researchers develop
+    statistical methods, but don't tell you the limits of that tool, and
+    hwere/how that can be applied. 
+
+    Josh has funded many in this room, and we've been getting input, thanks to
+    support, around statitstical tool, and suporting tooling, for when things
+    are used outside of the intended context.
+
+    usability in open source is good for us.
+
+Karthik
+    when you create a standard, without a diverse working group, you're still
+    gonna hve that problem.
+
+    the only people showing up are the same people, and they'll have the same
+    limiteation from before, if you don't have different people.
+
+Karthik
+    ties into a point for Eriol
+    we don't have enough time to observe impact.
+    making sure docs are translated into other languages, that's something
+    that doens't get enough work, because the impact is not immediately
+    observable.
+
+Q - nolski:
+    you talked about metrics, and DEI. In particular, in OSS, was mentioned
+    that OSS struggles with this. YOu have personal struggles you've
+    witnessed. There's many initiatives to measure individual projects to make
+    them more inclusive. Do you think that focusing on individual metrics, it
+    moves away from holistic issues? Open WOrk being structured in a voluntary
+    way, not many support programs. Curious about dichotomy of individualized
+    v.s. holistic efforts to make inclusive for all?
+
+
+SIlona
+    comes back to stustainability and money and resources.
+    you don't brin gthat it, you'll have more problem.s
+
+    corporate world, different interestes.
+    but in npo and gov, the focus on those apsects. Adressind in different
+    ways. Digital Public Goods. DIAL is doing evals of software. Should have
+    Josh come up and answer (I"ll be up tomo morning to ansewr, lol)
+
+    WHy iEEE is interested in tackling, is that int's not jshort term, but
+    longterm. I've experience the clash between startup and npo timing.
+
+    keeping the inertia going, burnout is a real issue with others.
+
+Sgoggins
+    Sitting with Demiteris cheatum at OSSNA
+    talking about this problem, making a largescale impact.
+    they're a large scale platform.
+    DEI.md
+
+    just like a file in a repo can nuture in a large grop of projecs, we think
+    it can make a difference. We're making this part of github.
+    behidn the scnese, if oyu don't have a coc and contributing, you don't
+    show up very high in the search resoults. 
+
+    by adding DEI.md to that, we can have simliar impact.
+
+    that was over a beer, but those small ideas can scale change.
+
+Karthik
+    that's a great question, and we have to wlak all the time.
+    hard to come up with bespoke metrics on project-by-project.
+    quantitative metrics become easy to game.
+    this is a thing we chase constantly.
+
+    I don't hav ea great answer, but ot say that people need to both.
+    Standarized metrics give easy comparison, but if you've have unusual
+    seuccss, imporetnat to caputre that, and put it into writing. even if it
+    dones't go well into a table.
+
+    ctiations is somehting we care deppely about. Not just how many, but where
+    is it cited, and what domains it's being cited in.
+
+Eriol
+    asking about broader cultural change in working openly?
+    When you ask, first thing my brain wen tot, frustration, movement in
+    design industry "oepn Design' v.s. "open source design'
+
+    making desing files na dprocess available is what "open design' means, but
+    their doing open work on proprietary tools. The convos are rich for open
+    space, but we're missing it from the slightly different wording than what
+    we're used ot.
+
+    frustration, it's changing, but that we don't teach designers to do more
+    open practices. Unless you find an interest in it, you'll never discover
+    it. Cultural/economic changes, the stuff in open source design, is on the
+    'other side of the curtain' but making sure the people who shouldvalue the
+    stuff open source designers shold do.
+
+Silona
+    I'll end on a negative note :P
+    caution dependence on commercial entitty like github.
+    I remember sourceforge.
+    we need to look beyond that for our tooling.
+    it's ironic to talk OSS, but then depend on a commercial closed entity.
+
+Sgoggins
+    if anyone has a 250M to invest in an alternative
+
+    Ballmer did 'develpoers develoers developers' 20 years ago.
+    it'll be hard to beat.
+
+    I agree that relying on commercial enterprise is dnagerous, but I don't
+    know who I'd work with in our lifetime to make a change.
+
+Django
+    we're going to break now.
+
+-------------
+What are the simliariaties and differences in community managment in FOSS,
+Open Science, and Games?
+-------------
+
+SJ
+    I'm old enough to remember when alphas/betas were closed, not proejcts you
+    shipped ;P
+
+    in AAA games commjinty, looking at MMOG, character designs released almost
+    immediately in the process. 2 years before they're shipped, they cost 10-s
+    to 100-s of Millions of dollars, with 10s of millions of players.
+
+    in terms of being open communties, they encourage commuitines and actively
+    create tihngs that cannot be done in a game. a Dragon to be killed, it'll
+    be designed so that only 60-70 players can defeat it.
+
+    YOu get players creating guilds, organizations for players to work
+    together to acheive goals. SOmetimes that maintain for decades. Online
+    gameplay at this scale, can become part of people's lives.
+
+    WoW, the reslease and player cycle, there was a guild of Academics that
+    referred to their weekly meeting as "bowling night."
+
+    these are huge goals. We've seen badges as one way to incent developers to
+    do things. Remy had a group of students one year as part of SURF, show
+    that on paper, incentvzing development, though we didn't find a funder.
+
+    What can we learn, from these diff communities, to get best practicdes
+    from one to translate to the other?
+     the RIT group was resonsible for creation of Fedora Badges, and the
+     community was skeptical, and then hundreds signed up.
+
+    Marie can talk about traditional open source.
+Marie
+    badges now has 17000 people that have signed in.
+    My name is Marie Nordin, Fedora Community Action and impact Coordinator.
+    Work out of red hat's OSPO. The fedora project is a linux based operation
+    system, we release every 6 months, we have thousands of contributors
+    worldwide. My job is to support in many ways:
+    day -to-day operations, budgets oversight, evnet planning, project
+    management for different teams. Code of conduct incident management. In
+    the past 3 years, isnce I started as FCAIC, there's been a few exciting
+    things I got tow ork on.
+
+    Just as I started, the pandemic hit. I thought it was going to be a travel
+    the globe kinda job, and it didn't turn out ot th be that. We had to move
+    to virtual events, and it's been kind of bummer, and it's exciting to be
+    here today, but it' was exciting for us.
+
+    Flock to Fedora usually pulled 200 peopel. First virtual was 350. Third
+    had over 1000. The growth there is amzing! My hypothesis, is that we're
+    bringin people who coundlt travle cl;oser to the devs,a nd gettin more
+    people involved. Herard about newcomers to the team was 'hey, went to
+    event, then wanted to contribute.'
+
+    Went into revamping the outreach teams. Ambassadors, commops, advocates.
+    That took listening to the community, with empathy, and making decisions
+    based on that. Making art, surveys, meeting in many ways.
+
+    Last thing, Fedora Code of Conduct. was able to pick up from predecessor,
+    and revamp it. It was a lengthy process. Was with Fedora COuncil, members
+    of community, red hat legal, many rounds o ffeedback brought in. Once we
+    got the new one out, the incident reports started roling in. Had a bunch
+    of experience with that.
+
+    Now i'm moving into a community outreach role based around Code Of Conduct
+    SPecialist. Taking the work of Fedora Coc, and applying to other
+    communities.
+
+Ana Jimiensz
+    TODOGroup Program Manager
+    My involvement in communities started in Bitergia. Softare development
+    analystics firm. Highly involve din opernsource. Tooling was open source.
+    they were my mentors, I spent 4 years there, taught me everyting I now
+    about open source.
+
+    In the roles I had, involved commuinty management in some way.
+    started as developer marketing. Then got into data science, got my MS in
+    DS. Bilt a model to understand commits. Got into todogropu, which is a
+    group of orgs that practice OSPOs. They get together to build common
+    tooling, and resources and guides to help other orgs to build their OSPOs,
+    and advance in thier open source journey.
+
+    inspiring these orgs to build more effective programs. I like what stephen
+    said, I manage an open source community of open source communities :P
+
+    Open SOurce leaders, trhing to talk about and share learnings about how to
+    do open source. all the thigns we've been doing.
+
+    Started one of my daily tasks was to grow community. nurtuer. daily jobs
+    has onboarding ugides, docs, and procdeures on how to contribute to the
+    community and the different repos and programs we launch.
+
+    build network in this space. So practicioners can start conversatoins, and
+    ntworks doing conversatoins is where magic happens. "Lets work together ot
+    produce a new guide a new tool or a new process to help OSPOs"
+
+    Hand it to cat!
+
+Cat
+    I'm cat allman with Google
+    background in OSS goes back a ways
+    Mount Zinu (unix, trademark)
+    first commerical implementation of berkely unix, back in the 80's
+    comercialization of sendmail
+    working on gsoc, google-code-in, and giving money to opn source for 15
+    years.
+    moved onto a part of google called "deelpoer ecocystems"
+    focused on a 2007 20% project, sci foo camp. an invite only unconference,
+    for scientists up and down the stack. Started and ALumni community the
+    month before lockdown. Got about 1000 alums, and get together in a
+    googlegrup and talk about whatever. They're super smart, and the kind of
+    place where peple who biult the MRNA got to drop in and clarify a couple
+    of points! how relate dot OSS?
+
+    part of OSS is science. Science happens through code. Evething is done on
+    computers these days, but the phyusical compononents are still brought
+    back to hte computers.
+
+    OSS comes out of academia. The original arpanet. 6-8 EDUS originally?
+    Science being intrinsically involved in Open Source not new. It's founded
+    on scientific method in the first place.
+
+    arugably, commnities in OSS can be different based on commercial or
+    academic peserpsecitve. SOmething s I see in sicentific projects can be
+    small and purpose driven. Some will be adapted by other research labs, and
+    as they grow, the community management beocmes similar to commerical
+    projets. I'ts not that much different that' free range' open source.
+    Github is full of 1-2 person communites, designed to sovle their issues.
+    Somtiems they maintain funcitonality beyond immediate contribute,
+    sometimes they wither away and die.
+
+    scientific community has additional challegne, in academia (we can talk
+    differents between fundamental /applied reserach) tenure brings unusals
+    pressures to Open Source. Is code a tenure artifact? From discussions
+    erearlier this morning, seems like it's becoming the case. in the academic
+    world, cod eprojects, and contriubtoins that support coee and projects,
+    are becoming recongizged as viabl eartifacts, but htat varies widley from
+    institions, and even more from coutnry to countrhy. Ecxicted to see people
+    from outside US.
+
+    My experienc ein OPen Source in science, is obvervatoiaoial, nless thatn
+    experiential. I'm hoping you'll contirbutre your lived experience ot the
+    session tomor.
+
+SJ
+    wanted to throw out experiential stuff form being a community mangeer in
+    academia.
+
+    EDUs are metrics driven. Esp in terms of tenure. I'm lucky i was tenured
+    before I stated teacing students in open source. There were no grants, if
+    ou walked upped ot a freshly minted PhD student, and given first classes,
+    'what is your research plan' and you said "open source" they'd say'
+    there's not grants, go find somehting else!"
+
+    that's changing.
+
+    studnet and faculty engagments, challenge for OSPOS, is almost impossible
+    to track.
+
+    3 classes of people at EDU
+        - Students (IP rights vary greatly. at RIT Students own IP, unless being
+        paid) at some EDUs, the EDU owns your homework. Studnts can use tools
+        to biuld softare, and commercialize, and they odn't even owe me a post
+        card or thank you note. Either you have 100% or none IP rights at many
+        places.
+        - Staff often don't have IP rights, as they are pay-for-hire.
+        - Faculty, are hardest to wrangle.
+
+    when you start a program, people want metrics on students etc.. .the
+    program we estalbished,had
+        formal classes
+        experiential education
+        and internships
+
+    much is not easy to track
+    the minor that we started in open source is the only one we know of in US
+    and world. We have double-digits full minors. But we've had hundreds who
+    went through hackathons, or got co-ops, or took 'a class.'
+
+    i have students i'm still in touch with. I got sutdnets who came fo the
+    minor, som in this room.
+
+    Some only engaged with hackathons, and are in this room too.
+
+    it's hard to find numbers, and from the community, I get "where are your
+    commits?" They're sitting in this room! They're not graphics, or
+    interfaces, and it follows back to the 'whats the invisible stuff."
+
+In terms of managing commnities, what are the hard htings, what are easy
+things?
+    In my experience, open science community manager is very rare. Sloan may
+    have input, who wants to follow up first?
+
+Ana
+    My experience in TODO.
+    one of challenges when building with new resources and tooling, OSPOS are
+    quite diverse, and there's no template for an OSPO. WHen they try to put
+    it into guides, it's just that, a guide. It cannot be 'one way' to build
+    ospos, there is no one single answer. We tried to create serveral paths,
+    and guides have real exapmles from other orgs, and what worked for them.
+    YOu can apply it the same, or not. 
+
+    we've seen ospos build on common tooling for compliance and community
+    building and biulding IT infra specific for their industry. Automotive,
+    for example.
+
+    in the community, how can I gather all the different paths from all
+    different OSPOs, and put that in the proejcts in the community, and make
+    them avialble, and not say 'this is one path' but all the paths that can
+    be taken, and transprently document htat.
+
+
+Marie
+    challenges and successes
+
+    brings me back to first sessoin. Tring to figure out how to serve the
+    needs of the community working within red hat. Naviagating, talking to the
+    righ tpeople, finding the right person to get done the thing that needs to
+    get done. Convincing them that it needs to happen. Fedora is an almost 20
+    year old project, and not always htough to fin the biz process. Work
+    within Red hat to advocate within REd hat.
+
+    Putting a lot of yourself into the work, boundaries is a topic that hasn't
+    come up.
+
+    esp in pandemic, you could work all day without anyone to stop you.
+
+    making boundareias and sticking to them, is a challenge.
+
+    Relationships with people in community, and freinedships grown wpoeple
+    have changed my life an dhelped me grow as a human and a professional.
+
+
+Cat
+    I have two stories to tell that illustrate the tension between
+    acadmeic/scientify and the commercial aspects of OS community.
+
+    first is legal side.
+        when pandemic started, there was an incoming class of Summer interns.
+        What are we gonna do to give access to core systesms remotely?
+
+        Ideally, open source covid related work. tlaking with contact at Brode
+        institute. They told me everything there was OPen Source. Everything
+        was going swimmingly, until we got a contract that assigned all the IP
+        to them. They were very nice about it, and the covid research was
+        done, but it illustrates how there can be a separation between
+        reesarch and the money side, at even the most well funded instituions.
+        Open Soruce needs to navigate the translation barrier very often. As a
+        scientific project enters realm of commercial.
+
+
+    Summer of Code
+        i've been on the seleciotn commitee for mentoring since 07
+        every year, i have the same argument with individual that only
+        comercial proejcts count as open source, not scientific/acadmia.
+
+        I believe strongly that science and students are important, and I'm
+        happy to say, I fight for biomed projecgs, but year over year, the
+        same person keeps arguing about htis. I suspect this is not that
+        uncommon, that scienc rpjects 'dont' count' because they cannot reach
+        thousands of contribugs.
+
+        I think that's wrong. not just about how many commit, but wha thte
+        code does, and how it contributes to science and humanity.
+
+Marie
+    Success, Mentorship.
+
+    having a chance to mentor thorugh outeachy has been amazing.
+    I got invlolved in Fedora through Outerachy, doing fedora badges design.
+    7-8 years later, i was able to mentor designers in Fedora, and watching
+    them grow, and gain confidence, and learn, and grow that attachments, has
+    bene super fullfilling to me, and a joy in my life :)
+
+Ana
+    Challegne
+    How hard it is to translate what the community wants to make, and the
+    ideas they have, into the project, and turn it into actions that nuture
+    the community. Lots of people have great ideas, but everything comes to
+    you, and you have to be the translater to get the knowlege into a project
+    tha thelps the community as a whole.
+
+
+SJ
+    another aspect is language and linguistics
+    Open@RIT is not an OSPO, we removed 'source' because we didn't want
+    arts/humanties to say 'this isn't for me.'
+
+    secondarily, wth respect to NASEM, we talked about the 2 page guide about
+    'open scholarhip.' but we talk about open work. EDUs are caste systems.
+    and though evolving, still focused on journals, top tens, etc...
+
+    i have friends in humanities and arts who don't put their work into those
+    cubby-holes.
+
+    My degree is in lib arts and media theory. Opening to designers and
+    writers is very important.
+
+    For science, or software, where do you see wins/challenges on brining in
+    Scientists with a capital S, or Software Engineers with a Capital S?
+
+Cat
+    tremendous opptuinty in science education.
+    in some cases, academic, but also arty!
+
+    Anyone seen "dance your PhD?"
+
+    Falling Walls foundation, doing work around th world, on science
+    communication.
+
+    in the sense tha topen source needs to be understood as having a breadth
+    of opporunity for beyond CS and Technicians. Open Soruce needs to be
+    expalined to the users who benefit. They can apprecaite the uility there
+    for them.
+
+    when I started, "community managere" didn't exist. Now it's a job, it's a
+    field. Are there programs teaching that yet?
+
+    the rise of internet and soxial media will amplify oppoutnity in non-eng
+    non-science work.
+
+Marie
+    gonna return to mentoriship
+    I have a degree in photography and graphic design.
+    it wasn't in my life path, what cmented falling in love with open source
+    and fedora, was a mentor. someone who said, 'this is a place for you. oyu
+    belong here.' mentorhsip is invaluable. key to brining in diversly able
+    people. I spend my time mentoring designers. I don't mentor in
+    product/program management, I mentor designers. We're making it a 5 year
+    goal to have eveyrone be am entor or have a mentor. We want to instill
+    that culutre of mentorship to make it more stustainable, and diversify the
+    roles we see.
+
+Ana
+    one of the resources in todo community is Education.
+    we have 101 training guides on OSPOS and the desire is to expand that.
+
+    many poeple in OSPOS have issues in describe the value in engaging in OS
+    with teams that aren't in dvelopment. OS helps the entire industry. YOu
+    need to convince legal, and marketing,a nd infuse the entire org with a
+    clear undertsanding of open soruce. Educating marketers and designers, and
+    legal people into opne source. They don't need to be devleopers, but they
+    need to konw how to get involve din open source coummuintyes, and how to
+    contribute back to OS communities.
+
+    in the same org.
+
+    my first degreee was marketing. Then I got into coding, and decided to
+    build websites, then I got into python. this is a differnet point of view,
+    and I did learn code, but I learned ou didn't need to learn code to get
+    into OSS. I tell my marketing colleages how awesome it is in OSS, and how
+    we need marketers, an how they can get involved without knowing how to
+    program and code. They still are very cautious on that, and that mindset
+    needs to be change, and only thorugh education and metnrisihop.
+
+SJ
+    SIliona spoke on role diversity. whether scholarhip, or software, role
+    diversity leads to othe rdiversity. ou see it in the attendees here.
+    Providing role diversity you get a bigger tent.
+
+Zach
+    it seeme d a common theme is abou trelatiohsips tha are built.
+    Whats your commit? The lives in this room. The lives impacted.
+    curious, for cat, how do you track your metircs of our comunity, and share
+    the invisible stories?
+
+cat
+    I've been cheating this whole time :P
+    because it's invitation only, somebody mentioned flying under the radar.
+    larry page was the initial person who wanted to do this.
+    Larry is no longer the CEO, nobody was going to tell him no ;)
+
+    I needed to find exec support without getting on the radar.
+
+    With exec sponsorhips, it's been airy-fairy.
+
+    one company is successful and buys services. 
+    funding of resarch bweteen atteneedds.
+
+    how man nobel prize winners in the network cause poepl love them a nmobel.
+    and very quiet. I encourage people to build it base don frinedship.
+
+    Biz gets done on the basis of people who like eachother (bill joy)
+    that's not all that's to it.
+
+Marie
+    we had our first Mentor Summit
+    we have metrics on who attended and spoke, looking for growth nextyear
+    badges are wawarded for mentorhsip. we have packge sponosrs, and
+    ambassador mentors. we hvae badges fo routerach, and gsoc, an we use
+    badges to measure that involvement.
+
+Ana
+    we hav ebasic metrics, and more for the participation. basic numbers, how
+    engaged they are. Are they submtting issues? contributing PRs? How many
+    reviewers do we have? How many repos have activities?
+
+    This is typical metrics, nothing too special.
+
+======
+OSPOS in academia
+======
+
+Nolski
+    had many people come up and talk about their experience.
+    I'm a staff member. i don't teach. DOn't have a PhD.
+    I'm a grad student.
+
+    a lot of the work I do, is really focuse don the smaller day-to-day stuff.
+    the community mangement. our team is premiarliy run by students. employees
+    are students. Workign with faculty members to develop commujities around
+    their rsearch they are developing. I do this by various ways of
+    consulting. providing skills background by studnts in UX design, TEch
+    writing, and software dev. Manage various software dev proejcts, that our
+    office uses.
+
+    CHAOSS project like grimoire lab for metrics. thinking about providin
+    value.
+
+Kendall Fortney
+    started 4 months ago in Versa.
+    used OSS libs. but tha't a tiny fraction of wha twe do.
+
+    lecutring in design classes, and cs classes. sponsoring proejcs with the
+    boston library. students are back in session, so hackathons an dsocial
+    events. Documentation. outreach. Policy changes to promote open source.
+    Work with office of innovation around tech licensince.
+
+    and open science. What' sin place. what are metrics, and growing from
+    there. at this point, and I know it'll change, that' swhere we are.
+
+    hearing what eveyrone else is doing, that is very valuable.
+
+    I googled, found Open@RIT, and the definition of "Open" rapidly expanded,
+    and changed how i approached the problem.
+
+Stephanie
+    UCSC (santa cruz)
+    been there since 2016
+    would be remiss to not talk about what we did in 2016 before we started
+    the OSPO, funded by Sloan.
+
+    Center for reearch in oen soruce software, shich is separate.
+    psosbily the UC write large.
+
+    CROSS, for those who don't know us, that's where we got lots of experience
+    we're building on now.
+
+    Got started by Sage Wile, who created ceph, while a PhD. student. Gave
+    grant to director, to create a situation where studnet soculd do wha the
+    did: creating open source as a student that can get estalbihsed into
+    successful.
+
+    I wa sdoing day-to-dya, but creating communities areound  projects we
+    suppot. We see the ospo, and working with industry partners, making
+    sustainable. we raised 2.6M from industry, and saw how that was important
+    to translate acitivites, and make more esustianable, and expand nad scale.
+
+    what we realzed that somehting like an OSPO was something we needed to do
+    to make it more cmapus wide. Tlaked to SJ and OSPO++, and decided this is
+    the way we should go. The fact that we ewere in a reaserch center, we saw
+    gaps that we could serve in industry/acadmic scollab.
+
+    a movement towards an ospo, is about undertsand the value of open source
+    to academia. To talk about the acitivies tha twe're doing, one in
+    particular, we have an incubator program, similar to cORSS, to help
+    post-docs create commnities.
+
+    Oscar, working on polyform, visualizing the cosmo thorugh behavior of
+    slime molds. Sounds strange to me as a social scientist, but what the
+    community has done with those algos, is amazing. I'll post slides.
+
+    and Embly Lowell(sp) looking to strengthen underserved portions of the
+    open sourc epiepeline. we have a reearch expereince hevailby based on
+    GSOC, and tha'ts tosmehting we want to expand thorughout the UC system. We
+    have 4 cmapuses working with us, this wa our first year in multip-campus.
+    There's more fnding, not just NSF.
+
+SJ
+    we've been joined by John Whelen at Trinity.
+John
+    My dog ran away, but I found her.
+    at EDU of Dublin, we set up our OSPO about 2 years ago.
+    talking to others in OSPOs, and we've been had one anyways.
+    I work in Tech tranfer office. for many, we'd be the 'bad' people who are
+    trying to police what is being done with IP. but I came from a startup
+    background, and raised VC a few times in my own companies,a nd I was a
+    programmer/dev, and knew the power of OSS.
+
+    We had some spin-outs. Spun out first company out of Trninity, which was
+    based on open sourc elicense. We allowed lots of reasesrch. Software Radio
+    Systems is epxnading, doing lots of work in the US. Built the stack 12
+    years ago. built our biz on open sourc.
+
+    mission has alway sbeen to embrace OSS, and convince resarchers that tech
+    tranfer undertand how to work with OSS.
+
+    W ehave a duty to the resrach.
+    you gotta be aware of the copyright versus copyleft, restrictive versus
+    permissive. we spun out terminous X, a non-relational graph DB. We built a
+    culture of wokring with reearchers.
+
+    "as open as necessary"
+    as open as cna be, be secure as necessary.
+
+    we do lots of industry collabs. That's a key target at industry. Sometime
+    sthey don't want to release, sometimes they do, increasingly so, and
+    that's a brief summary.
+
+SJ
+    we've heard from John in TechTransfer.
+    Open@RIT lives under auspices of VP of Research.
+    Chris told us shes' often the only library person in th world.
+    There's a ton of Libraries who are the presdiential reps!
+
+    Around licensing and journls, the library has been 'the tip of hte spear'
+
+Steph/kendall, where are yo instructure, how doe sthat change what you do?
+
+Steph
+    Engineering.
+    we wanted to be in office of reserach.
+    that's our ultimate goal.
+    fitting betwene Tech transfer and research/developerment.
+    we're still under office of research.
+
+    we had intended to start quicker under research, but changes in personel
+    has mad eit a bit slower.
+
+Vermont
+    we're cross connected between library and statistics
+
+Stephanie
+    one challenge Alluded to, what can happen in any org, impressed iwth UCSC,
+    around changes in personel and champions within an org.
+    we got our start in CROSS, and many were 'doubtful.' Concerns witihn
+    academia. becuse of Ceph and the 2M, it was easier to get support. Our
+    previous chancellor of reearch, he's moving up, we saw a bit of a change.
+    It wasn't that we weren't getting support, or tech transfer office is very
+    supportive, but it was starting at square one about where we were going.
+
+    "this wasn't as much of a shoe-in as wethought"
+
+    Stovepiping. The way different depts don't intermix.
+    my EDU is not alone in this.
+
+    Outreach to say, 'some places don't see themselves doing open work' it's
+    been harder to reach out with interdisp than expected. We're getting
+    there. WE're having larger symposium, idea is to bring in other UCs.
+
+    thos ea rechangelllenges. Getting thw ord out, finding th epoeple we need
+    to find.
+
+Vermont
+    UofV has been great to talk to.
+    I've spoken to about 60 people across 7 of the colleges. All the offices.
+    they are all engaged. "this is grea, glad you're here! Wish you were her
+    sooner!"
+
+    not being a person who's done PhD, undertanding funding an dmoney, all
+    thoe things tie into the sustainability of the program.
+    I can find people who are willing ot put in energy, but need larger
+    systesm to work well to last more than a year.
+
+    2nd part, the idea of the inclusion part. Having worke dat startups, I
+    know how those cultures can be bad. My background is in Fine arts, not
+    computer science. open is more than writing cod.e My job was as a product
+    managemer, and that is somehting that we need in OSS>
+
+    Breaking down barriers of self-exclusion, and mkaing it comforatable and
+    ieasy to join is something we can all do better it, and an element we're
+    tackling.
+
+Nolski
+    I would echo all the things you said.
+
+    Challenges
+    htinking back to the things discussed in the first meting today. Policy
+    challenges ar e alarge thing. Where are the challenges we face on the
+    'ground' level? I've been really lucky to have a chance to talk to so many
+    faculty. We're fairly large.
+
+SJ
+    19K students
+    2K faculty/staff
+
+Nolski
+    I went to RIT, thi sis my almamater.
+    in this role, ihave an opporutniy to talk about their experienc,e an what
+    open means to them. why they do it, whey they don't do it.
+
+    faculty have like, 6 different jobs.
+
+    Yes, yo uteach.
+    but ou readsarch
+    and curriculum
+    and grant funding
+    and committee meetings
+    and grading
+
+    you have all these differne tjobs, evaluate dfor all, and all competing.
+
+    all faculty are being pulled in many directions. They love every bit of
+    it. THye love teaching an dresearching.
+
+SJ
+    nobody loves grading
+
+NOlski
+    maybe committees too :P
+
+    most see virtue in sharing, but terrified of the committment.
+    the factor of burnout in open source and ocmmunity.
+    that has been the biggest hurdel.
+    figuruing out how to lower that burden, so that these things are rsoursrcd
+    properly by EDU, or rwiting into the grant funding fo rreaesarch. teaching
+    people what to write, and who to hire fo rit. Seeing that process thoruhg
+    to the end.
+
+    one of biggest things we've done, is fellowship program for growing Open
+    Source communities. It's been a rollercoast,er but big impact of that, had
+    a proejct that came to us. "we want our digital humantieis project to
+    bemore accessible" we had this immensely talente dteam of designers,
+    full-design process, interviews, 50 slide deck on all the recommendations
+    on the work they did.
+
+    we handed off, and they were like "OMG, how are we going to do all this
+    work"
+
+    They got a grad student (me) who got college credit to implement it.
+
+    When talking to them, it clicked. The steps in the process. how oyu can
+    reseource people to do those htings, in a handholding way.
+
+    it's very resoruce intensive, but it's worth it.
+
+
+John
+    Everything is challenges, and it's good to learn from eachother, but don't
+    want to be too negative.
+
+    Key challenges of educatoin. coming from Tehc/Knowledge, it's not our job
+to educate reserachers. They are the teachers and lecturers. It's difficult to
+explain. They use open source, but don't udnerstand complexities and risks. To
+build that trust and mutual respect to listen to what we're saying. We tried
+to expain our IP policy, but it's still difficult sometimes. It's not
+something you can just 'explain' I'm not a lawyer, theyre not lawyers, and we
+have to explain it still. Try to explain the challenges. See researchers put
+up projects on the internet, fro free, but with no licenses. We had a US
+company come to us for a license for something they downloaded, and relized
+tha twe still held the IP. But that's a practical thing that happened.
+
+I can talk, EU centric. The Eurpiean Union spends billions of euros on complex
+agreements, that don't deal with open source proeprely. They try, but they
+don't use the language that everyone is used to. It would solve, there's like
+5M projects, and there'd be 10-20 partners, all working together, but how to
+do you manage the IP? Open SOurc eis a great vehicle for that, but not common
+in the EU Commission. They're slow to implement those changes.
+
+
+    biggest problem I have each month. SOmebody comes, you've asked them "our
+    software disclosure asks 'please list the open source software in yoru
+    proejcts' and they're doing IP diligence, and find some GPL and copyleft
+    in there. that can be fine to get swapped out, but, where does that become
+    a problem. thats a biggest problem. When has copyleft contaminated the
+    system? Is it when it's compliled into the code? is it LGPL linked? it's
+    hard to give a straight answer, before they go to IP due diliigence.
+    Should they swap out the GPL, or are they ok?
+
+    We come up against that problem all the time. I know there are software
+    solutions, but hte reports are very complex, and need consultancy form the
+    vendro to understand what it means.
+
+    There's a specific challenge.
+
+
+SJ
+    creative commons license, there's a couple simple queisons:
+        do you want people to reuse it?
+        do you want people to commercially use your work?
+
+    problems with software in particular, as was alluded to, there are a lot
+    of different licenses. What happens in softare, poeple pull different
+    chunks, and make new things out of them.
+
+    'bricolage' is what you might call it in humanties.
+
+    Different parts may say different things.
+
+    some ssay 'you gotta distribute the software in editable changable' versus
+    the program you run.
+
+    there are many shades of grey.
+
+
+    When poeple don't pay atntion, and fuse it into a new program that runs.
+    taking clay from differnet places, and form a hardened object.
+
+    That's where that compliance piece comes in.
+
+    This peice says "you can do whatever you want"
+    this peice says "you gotta distribute the source"
+
+    what do we do?
+
+    Makes sense?
+
+    That's the problem we talk about.
+
+    Copyleft license - everything is sharable and must be shared.
+
+    this is achallenge in the research world.
+
+    there are software packages and human consultancies to look at and help
+    untangle the knot. Sometimes they do better or worse jobs.
+
+Vermont
+    having done this at companies, understanding liability, yeah.
+
+SJ
+    leads into 'whether your academic OSPO is responsible for compliance'
+
+Cat
+    we have poeple in the US Govt who are workign on this issues, creating a
+    Software Bill of Materials.
+    coming up with standards to do it.
+
+Vermont
+    so far, we haven't done compliance, no
+
+UCSC
+    we work closely with office of research.
+    we have specific people within the EDU with legal expertise.
+    Our faculty have learned to cme to us with the quetion, so, kind of yes,
+    but we still point them to the lawyer.
+    we have a great adv board, that does include lawyers.
+    we let people in tech transfer know what the opionis are. We're not hte
+    deciding factor.
+
+Vermont
+    explaining what licenses are to faculty, not just 'use this one' but 'here
+    they are.'
+
+Nolski
+    Omidyar, with Deimos, 'open roads report'
+
+    they talk about the dichotomy between open in liability, and open in terms
+    of virtue. Taking about program sna doffices and orgs, doing open, but in
+    these two groups: either secure supply chain, or releasing products that
+    aren't compromoised by licenses.
+
+    ther are other orgs interested in Open as a Virtue. Thinking about doing
+    things openly because it's a core part of our organizatoin, and educating
+    people how to do it.
+
+    "each ospo is it's own thing"
+
+    that's true, open as liabaility, is often the same acitiies, do same work
+    as virtue, but doing it in different ways.
+
+    we landed on one side, but if you're thinkinga bout starting your org
+    witin your org, thinking about what side you want to be on, and what sort
+    of parts of hte instutition would be focused.
+
+SJ
+    to amplify a bit, we have a 'best practices' section of the website.
+    we can't tell anyone to do anything.
+    nobody can tell faculty to do anything ever, as I seaid :P
+
+    we recommend certain licenses, not just for software, but hardware, and
+    creative commons, and many other things. We can't tell you what to choose,
+    but we can recommend. We'r enot grying to limit what oyu do. YOu are often
+    told to setup an LLC to protect yourself legally, whter music or art, you
+    cannot be held liable when things go wrong. Sometimes people gravitate
+    twoards that explanation.
+
+Vermont
+    some licenses are recognized as more common than others.
+    The new 'ethics' licenses, is a whole new world. it starts a new convo.
+
+SJ
+    Jflory is involved in that world, I ask him when I have questions.
+
+Q:
+    this morning we heard people doing open work in EDU are balancing between
+    power sources. Admin top, and grassroots below.
+    what about faculty senate, student gov, student unions, that kind of
+    thing.
+
+Steph
+    we haven't had as much interaction with student orgs. WE've worked with
+    cruz hacks, focused on undergrads. Open SOUrce reaeserach experienc
+    eproram is undergrads.
+
+    we come from the top, working in faculty advisors int he school of
+    engineering, hopeing that will expand (CROSS)
+
+    on the ospo side, we're focusing on incubator project, with post-docs.
+    we look for faculty who have open source porjects.
+
+    we have focus on research, and vice chancellor, to get politcal support.
+    We've had good luck.
+
+    Moving forward, as we focus more on biulding tools for students, and
+    helping them build more tools using more open source, will focus on
+    undergrad. Mostly faculty, postdoc, and amdin for now.
+
+Vermont
+    my beginning was just before end of session. just getting bck into school,
+    and hoping to connect with them. My approach, making sure to talk to
+    faculty before oign in. Goal is to not have them not know who I am.
+
+    If you don't know me, it won't be as relevant, and hoping to build that so
+    that I can go into the meetings with recognition.
+
+Nolski
+    first obvious things is curriculum.
+    SJ has done an amzing job devleping undergrad curriculum for multidisp.
+
+    There was this aweosme person, who was working at at RIT running programs
+    back then. Back then, prorams were purely on studnet population. It was
+    the nature of our fneding, and the focus has been on research.
+
+    curriculum was special, but doing undergrad, ther was a susstantial
+    community tha was not cnetered around the curruiculum. It was an automnous
+    student comunity, not a club, but a network of hackers, discovering things
+    themselves, that faculty were learning from.
+
+    that was a special thing.
+
+    What are we doing for students? are we resoruces? Are we provivind
+    dedicated infra? A dedicated human to provide the center of gravity.
+
+    If there's a center, but organizing in any community, you need a manager
+    that focuses on it all day long. I've seen a lot of funding coming about
+    for 'we want researchers working together" and some stuff on 'curriculum'
+    but a thing I don't see very often is about creating student communities,
+    the same way we build open soruce communities in academic instutitons.
+
+John
+    I think we all realize that EDUs, and a 430 year old institution is often
+    dysfunctional when it come to governances. We have the IP policy, and
+    that's an important document. That' swhere we deal with Open Soruce.
+    Anytime mentioned in the past 10 years, it's been in our document, which
+    is approved by various committees. WE update every 5 years, and it's been
+    going through various committeses, approved by board, the governing body.
+
+    it's painful, but it's then 'cast in stone' and what we say about open
+    source is the policy officieally, and we can alway srefere to it.
+
+    we say we are friendly, and we support it, but there are cases based on
+    fundeing, when it's been funded, we need to be consious of some potential
+    risks.
+
+    reminds me of another point.
+
+    Challenge with Open Science and Open Access and Open Soruce are very
+    related, but they are not quite the sam ethings. There are important
+    differences. Poeple hear "open" and they think open access. The big
+    funding agencies have said science should be open, and they htink that
+    everyting should be open.
+
+Stephanie
+    what mike talks about, focusedon research impact.
+    Our incubator project, and other projects, is focusing on creating more
+    curriculum. which you do well at RIT. We're focusing on that, and since
+    we've started the process. creating courses around the incubator proejcts,
+    and following earlier courses we had, workign on oepn source programming.
+    that's been a huge push. not just CSE, but computational media, and
+    borader reach within undergrad community.
+
+
+SJ
+    if/when we want to convert our policies, it goes through academic and
+    student council approval.
+
+Karsten
+    I know in CROSS, one of my fav hacks, UC isfamous for licnesing.
+    Here at Trinity, formlized policy.
+
+    How has policy helped/hindered your work?
+
+Steph
+    we have written open source into our sponsorship agreement.
+    between industry and researcher at UCSC. It's worked for us, and hope to
+    broaden out to rest of UC. We itend to open source anything that comes out
+    of this grant. This is what we intend for other reaesarchers.
+
+    This intention is enough for industry often.
+
+    TEch Transfer folk are very willing to work with us, and they came up with
+    that language we use.
+
+Vermont
+    tech transfer is on our Adv board, and they are excited.
+    it's better to get the work out and used, and to get it out there and used
+    is more important.
+
+    brining convo around licenseing earlier inoto th work, so that by the end,
+    they already know they are going to share it.
+
+    that's part of the understnaidng we're creating. that will change the env,
+    making that be part of convo early.
+
+Nolski
+    RIT has a lax policy, where students own their own IP
+    it hasn't been restrictive for us.
+
+John
+    Irish EU law, employer owns IP, but for students, except for grad
+    students. If they get a stipend, we own their IP. That's a gov policy.
+
+    at a high level, its a polarization of society. between 'left' and 'right'
+    people get polarized, they are both very valuable. Not to get too
+    esoteric, at a highl evel that's where it stands. trying to bridge the
+    gap.
+
+=====
+what do we need to manage infomration overload and ferment in academic open
+work?
+=====
+
+Elizabeth Vu, Sloan
+    we fund basic research, sciences, social soecines, and econimcs.
+    we tink cross discipline, to level researchers. The ools they use, and how
+    they use thoese tools.
+
+    in terms of personal history, recovering academic with a phd in biological
+    oceanography. lived experience with open source software, and building
+    teams that build open soruce sofater.
+
+Reyya El Zain, code for science and society
+    recovering acadmic with dregree in theature and perfomrance studeis.
+    my work, whether in artists or techologies, how can we catalyze change.
+    Digital Infrastructure Incubator is what we manage, help think about
+    community engagemend and design.
+
+    what do we do with the info we got today, and how do we move from here.
+
+Intros
+
+Liz
+    Thinking about doing a 'mapping' or similiarity analysis of 'where open
+    work flourishes within institutional structures.'
+
+    I heard, "imortanc eof having the VPR involve dint he formation an
+    dmarketing" and thought about what that says about certain power
+    structures.
+
+    another thing I heard about the library, was about open innovation center,
+    and aligning the mission of the EDU.
+
+    draw from what you heard, or your experience, on what you might think is
+    the factors are in those structures that lend well to doing open work.
+
+Reyya
+    3-5 minutes depending on what you hear.
+
+    you talked about your roles in OSPOs and 'translating' between tech and
+    biz. Here, ou're translating between.
+
+
+Group feedback 1
+    talkign about timescale differences between academia, indstry, and
+    governemtn. What amount of time is needed to konw when something to be
+    successful?
+
+Gropu feedbck 2
+    talked about how it's and exciting time with the new policies that have
+    come out in federal governement.
+
+Gropu feedback 3
+    who our audience is, as a landgrant org?
+    we're focused on public good.
+    UCSC, audience is the californiapepople. that's who we envision we serve.
+
+Group feeback 4
+    discussion we had here, old saing "don't study history, you're boudn to
+    make same mistakes?" HOw did we end up getting here? Opening up something
+    tha tis closed? How did we get there?
+
+    Lack of incentives
+    
+    goals of scientific community has been overwhelmed.
+        i need phd students
+        if I have 10,students, each has 10 students under them.
+        math speaks for itself.
+
+    new incentives to measure progress
+        not helpful to the result
+
+    opening up everything won't solve the issues. Whta is the objective of
+    scientific reeaesrch? Who are working for? What is result expected from
+    our work?
+
+    and adding one thing, we got into the pickle we're in, because we're
+    humans and self-interesed. what i think we want, spekaing for myself, is
+    to be better science, broadly. Maybe not having the individual erserachers
+    be the focus, but do whats better for the research enterprise writ large.
+
+
+Thnak you Aeva. thank you SJ and Mike. Thanks for your participation.
+
+
+SJ
+    design of tomorrow is to give opporutity to talk more, with common
+    econtext.
+
+    Strong is only 10 minutes away, and we'll continue tomorrow.
+
+    Thanks for your time today.

@@ -1,0 +1,739 @@
+Greg
+Josh, Sloan
+
+
+Josh, Sloane Foundation
+    George Mason
+    NYPL
+    Money Labor and Attention context
+
+    when we say foundation, we don't mean holidng IP, we mean philanthroipc
+    that disburse money.
+
+Mod
+    Drill one level deeper into historical context and targetting initiatives,
+    the org for open research funder network. The specific history, and some
+    initiatives dedicated to open reserach and software practices
+
+
+Carly, CZI
+    CZI, funding comes from FB and Zuck/Chan. Chan is an MD. SHe's passionate
+    about science. They started it about 6 years ago, relatively new, and the
+    goal was to think about how to pair tech with biomed, and the science to
+    cure, treat or eliminate all desieases.
+
+    You need people to get acess as early as possible.
+    open science has been part of the program always.
+    it has grown more int he past few ears.
+    started out as infra stupport, platforms, protocols, IO and projects like
+    that. more recently
+
+    been running essential Open Source software for science.
+    5th cycle of funding projects.
+    idetify software thats OSS, and critical for REaesrch.
+    often they don't have suport for maintaining code, building communityes,
+    writing docs, fixin bugs, the 'boring' work.
+
+    we worked to ID those proejcts thorugh Requiest for Applications.
+
+    40M invested in 120+ OSS projects.
+
+    taht's the 'unsexy' work. INfra often fallls into that category.
+    research and work developed in course of project is sometihng we should
+    think about.
+
+Greg, Open Rsearch foundation
+    we don't fund directly, but we use convening power in ways:
+        1) Provide space for memebers to talk about what hteyre investing in
+        an dinterestd.
+        2) Internal list serv to share funding opportunities "here's
+        somethering we heaeard about/discucss/co-found.
+        3) Open Scholairshop develpoement, comopliance tracking, equity
+        consideration best practice support.
+        4) Roundatble for incnetives on open science (nat'l acadmies
+        initiative) bringing together gov, int'l, academia, and others to talk
+        good practice and infra.
+
+        4 years in, we've built a coalition of engaged. 60 funders involved.
+        80 EDUs. SJ, our host, is a co-lead on HELIOS (higher ed Leadersihp
+        ...)
+
+        Announcing coalition working thoruhg norms on respective dsiciplines
+        in the next few weeks.
+        Bring together to talk about secotr-sepcific asks and offers.
+
+        we feel that type of convo is fruitful and shared opporturnities to
+        addrees things like infra.
+
+
+Josh
+    In terms of hte history of work at asloan, alot of what led us to
+    portfolio where it is today.
+
+    funded a lot, not compated to CZI, but a lot of individual software
+    projects.
+    They hung out mostly in python/R/Julia space. We have  strong intterest in
+    Data Science.
+
+    "How do we fund?" 
+
+    We made "wierd" grants. Maintainec.e Tech Debt. Featre Dev. dIdn't quite
+    fit with internal norms of 'what ar elegit things to fund philanthropic'
+    when we're using to funding "new" development:
+
+    1) Set of interests in bureacucraticamchinery of acaemica. Work with Carly
+    at Moore FOundation building capacity for datascience. "who builds and
+    maintains open resoruces, and ocdebases and datasets.
+
+    2) Working wit Ford to look at corss-sector digital infra. and building
+    and maintaining those htings.
+
+
+    I've always felt a lil weird/imposter talking about 'open' in this room
+    it's great, but most academica is about 'access to literature' thorugh the
+    lens of publishing. Really curious if this lands with you Greg.
+
+    I've come at it rhough open source, a different path. OPen as a verb, not
+    open as a 'state'. thinking about architecting governance, and the org
+    sociology of work, to enable goals. Beter science, reslilient science,
+    open science. The structures that build and maintain the infra. Feels
+    differnet to flavors I've heard in the past.
+
+Greg
+    Josh, I htink you're really ariticulating someoitng important. When we
+    talk about it, it's a means, nto an end. We say we enable strategy for
+    more equitable inclusive and trustwrothy ecocystem. Open for ope sake is
+    limited.
+
+Carly
+    we tink about the intersection bwetween open science, reporoduciblilty,
+    and DEI. That intersection in general, bringing in eveyrone into the
+    convo, not just from elite EDUs to see results or run code or get access
+    to data. How e can leverage lopenness to be a bigger part of the DEI
+    conversation.
+
+Mod
+    One area, and we talkeda bout it past days, the number of shifts towards
+    maintainnce, or infra, or the 'hype' around DEI nad Openness. Curious what
+    you've observed in the shifts in trends, when you ar efunding "open." What
+    ocontribruted t those shifts.
+
+Greg
+    Hihglivel, I'm in a self-selecign bubble that care about his. but within
+    the bubble, growing interest breyond open papers, but broader openness.
+    CZI and Sloan have helped to bring this ability to htat among their peers,
+    a positive development.
+
+    We focus on grantmaking policies.
+
+    Significant funders, who didn't have policy, are makign them. Those have
+    htem, are advancing. SOphisticated policy holders are moving to track the
+    better. Everyitng is trneding more twoards that, and it's great.
+
+
+    Equity is a big forucs of ours too Carly.  Funding R1 labs is safe, but
+    self-limiting. PHilanthropys are trying to break those pattersn.
+
+    open/equitable grantmaking program
+        how apps ar estructured
+        how reviewres are trained
+        how rubrics developed
+        how reporting works
+        what grant outputs ar erequred
+        what alum networks look like
+        what interventions we can come up with to makea  more
+        equityable/diverse env.
+
+    we have 11 funders testing thi sin the field, and a network of folks
+    providing insights, so it's not jus ta top-down.
+
+    PHilanthrpioes are thinking more expansively, beyond "we wnat the paper to
+    be open" and that has shifted in the past 3-5 years.
+
+Josh
+    One of the htings, Greg in a diff way I"ve been biased bc we put our
+    weight into this: more attention from fudners, who hav ea tremendous
+    amount of power with dollars, and agenda setting--surfacing the invisble
+    labor that underlies the acientific research. 
+
+    it's not just a Lab PI, but a reaserach software eng who's maintaining
+    ciritcal software, that's not just a budget line to an unnamed reseracher,
+    but improtant work in it's own right.
+
+    The dreciton of funds, more epxlicity to support ecoysemts of work, with
+    recognition. Convos in sponsored Programs offices to be 'not the PI being
+    the lab director, but the coders in the reesrach!" that's a change we're
+    seeing over time, not just driven by fudners, but moving with funders in
+    fits and starts.
+
+Carly
+    at the moore foundation, many years ago, the focus was on DS. Didn't have
+    Open Science specific, but I can see the threads. I got excited about
+    creatin gan Open Data poslicy, and we had to start an Open Access policy.
+    there was much discussion and angst, and the fact that that's the
+    low-hangingi fruit, the no-brainer thing funders do, means we're making
+    progress.
+
+    CZI, we almost never talk about OA to publications. We have a 'rpe-repint'
+    requirment, to ensure acces to outputs.
+
+    Open Science is very expansive. It' smore about access to data that's
+    cleaned up and integrated and easy to use. it's about access to code.
+    Protocols available. Code is visiable.
+
+    not just about publications anymore.
+
+MOd
+    Getting into something more sepcific, or provocative even. We're in the
+    midst of this, and my dayjob is looking at trends and looking at y'all but
+    the upheaval that the pandemic that brought to funding streams, and the
+    consistency.
+
+    Diff org strscture, and scheules, etc...
+    curious about perspectives what this look like when we're talking about
+    projects hitting the 5-10 year mark, and what measures should work work
+    toward with sustainable funding streams, associated with open work and
+    practices?
+
+    I know you have opinions.
+
+Greg, SPARC
+    I have observations, more than soluitions.
+
+    I don't htink a secret that grantmaking is a time-bounded enterprise. They
+    ask for certin number ofy years, and fundeers move on afte.r
+
+    "Perpetual tending' runs counter to that model.
+    we've seen collabos like "SCOS" invest in open infra that needs ongoing
+    support, woven into the ecocystem.
+
+    still rely on funders to focus on 'now' thing and 'next' thing.
+
+
+    Ther was an attempt 5ish years ago to get 2.5% budget commitment to
+    underpin a scholarly commons from EDUS. 
+
+    SPARC has work here now.
+
+    Carly or JOsh i fyou have concrete things, defer to you.
+
+Carly,
+    we tink about how to suport porjets a lot. We have a huge curpose of
+    proejcts in open soure, and they have common needs.
+
+    Org and capacity biulding proejcts also have comomon needs.
+
+    as a funder, you can see simliarities between bespoke orgs.
+
+    What is a funding model?
+    HOw governance works?
+    how to avoid volutneers burnout?
+
+    We think about support thru convening and provind oppos to learn.
+
+    we have workshops, experts, run sesshions to help proejcts think through
+    the htings that are day-to-day challenges.
+
+    thinking about how we can best provide funding, while keeping in mind that
+    these projects might get bought or acquired. It happens frequiently in
+    publishing space, and adjascent. Data repos, and other repos, happening
+    more.
+
+
+    we think carefully about providing continencies. we hav ea mirror on all
+    open content on protocols, as a safety net. If htey sell to an org that
+    decides to shut it down, or close it off, that hte content will still be
+    open. A s afunder, you can interveen in the begining, and ongoing, think
+    about how to support common problems around the work.
+
+Josh
+    underscore what carly says
+    we lose most of oour leverage once grant is made, except for when they
+    wanna come back and ask for annother grant ;)
+
+    CZI is at another level, but Sloan, we have budget of about 10M a year.
+    That sounds like a lot, but that' snot that much for broader change. We
+    have the broom on the curling team, we chang the coefficient of friction
+    otn the ice (big applause)
+
+    that's important in discussion of larger biz models.
+    in various contexts, proj levle an dinstitution level, derisking to see if
+    other models will work. WE're fudning OSPOs at EDUs. We want a VPR to
+    self-fund that, but getting PHilantrhopic dollar shortens time to luanch,
+    and enables talented peopel to get runway to prove a model.
+
+    We can't support that in perpetuity, but can support a choort of poeple to
+    work together on chewy problem.s We thinka bout 'resiliance' rather than
+    'sustainablility' in our role.
+
+Mod
+    IOI, in exploring funding meachanisms, but offset and diversify and
+    decrease reliance on one funder over the long term.
+
+    I know we atlked yesterday, about the 'false binaries' of npo v.s
+    for-profit, what's better worse, revenue streams, common good proejcts, or
+    open resrach. Would love to hear more about your thourghts on this.
+
+
+Josh
+    tend to for v.s. non profit, is a legal question. Ther's history there,
+    but if ther'es a north star, I abhor rent extractoin from open resrources
+    (big applause.)
+
+    the meadwo of grazing, yes, but labor pools
+
+    The ida that open soruce commnities, if it's returing resrouces and
+    sustaining a community, that's a win. Our foundation is focused on
+    advancement of knowlege.
+
+    If on the other hand, if you're pulling resoureces out, or subsidinzing
+    things outside that community, that' what I find problemeatic.
+
+Mod
+    YES! exgractive v.s. non-extractive.
+
+Carly
+    yes, flase dichoemenies are a distraciton. IN open source software space,
+    we've supported many that are run from all parts of hte ecosystem, but
+    primiarily supported by for-profits that handles the logistics of tha
+    tprojects. They are "the best people" for us to fund to continue that
+    project in that case, but looking at goals an misssino, and not wrorrying
+    too much about dichometies.
+
+Greg
+    I'll say that it's improtant to go forward with eeys wide open. if the
+    best solution involves a for-profit entity, be aware there are
+    ramifications. If your support helps commercial efforts, it cn be aquired
+    by somoene you like workign with less, or further benefits extracted,
+    rather than returned to community.
+
+    not necessarily bad, but needs to be done upfront analysis.
+
+    less so in academia.
+    but post-partee hand-wringing. THey got bought! How did we not head this
+    off at the pass?
+
+    that requires forethought, so that you're aware and comfortable with that
+    outcome.
+
+    really like your north star, we hsould spend more time together Josh!
+
+Mod
+    tha'ts a great way to wrap up.
+
+    a catchall, what should we all be gihking about in increasing reslient
+    open work ecocystem?
+
+Carly
+    I htink wehat ew should think about, the keynote that I got to hear parts
+    of, thinking about how to make sure we avoid burnout, and maintain
+    maintainers. Volunteer based orgs are not that sustaiable, unless you ahve
+    infra an dsupport for the folks doing hte work. Paying people is
+    iimprotant. and including non-traditional backrounds, and locations, and
+    countries that are undreresourced. Academia may have a false notiong that
+    money exchanged is 'dirty biz' it's not, it's about giving money fo the
+    work they do.
+
+    language barriers and translaiton issues also need attenion. Cultural
+    differences, briding those gaps, and creating a sens eof inclusion, not
+    just something that's performative.
+
+Greg
+    yes, and, agree with all that.
+
+    I'm excited by Open@RIT, and Invest in Open INfra, that expand our
+    parametres in how we htinik about infra, and hte choices we make.
+
+    in the reserach ecosystem write large, "wehat does it cost?" "What is path
+    of least resisstance?"
+
+    that often makes the decisoin.
+
+    Not just "buy/build/partner" decision.
+
+    but, how to install/luance/operate
+    customizgation operatuntieis
+    data/user privacy
+    how portabl ei sthe code?
+
+    when we think about those quietisons, we make better infromed and
+    intellegient decisions beyond th elocal usecase.
+
+Josh
+    last thing to undrescore
+    built over the course of yesterday, with comparision betwene private and
+    acadmia.
+
+    HOw werid academia is economically!
+
+    It's not just usin gresoruces to meet goals. But competing interests and
+    gov an dstudents and faculty and all in the mix trying to do things.
+
+    Ana, TODO, that an external funder would fund an OSPO at an EDU to
+    accomplsh goals, rather than just the EDU having resourcs to do
+    themselves.
+
+    its compliacted, and important to map and be clear about where you're
+    distoring this densely connected confoluvuled network.
+
+Q: How are fuondaiton going to change?
+
+Josh
+    at the oldest org, we're close to 90 years old, sititng on an endowment
+    who invented how to run a corporation in the 20th centrury.
+
+    Ther's been a cambrian explosion of phanlithropy models.
+
+    people don't just build single companies that employ a large amount of
+    peope. There's interesting things in decentralized science. Crypto folks
+    have interesteing, idea, dunno how those will play out.
+
+    CZI is more represnetative of new-tech-moeny funders.
+
+
+Carly
+    I remember when CZI got started, they brought in people to help them setup
+    and form their orgs. YOu see that.
+
+    it was setup as an LLC oroginally. That wa s response to the challenge of
+    traditional funding. We have a tech arm, and we bild stuff. Are we in
+    competition? we're not, but having a tech arm that builds tools is unique.
+
+    we've moved the science part, under a new foundation, away form LLC.
+
+    it speaks to trying new models.
+
+    the new guilded age, ther eare lots of philanthorpy, and new money form
+    tech folks trying new things.
+
+    how it shakes out? Dunno yet. Some is working what we do, some is not.
+    We're open to changing course, and i"m excited to see what new
+    philanthropies come up with on how they spport projects.
+
+Greg
+    as these new methodologies are epxlored, the extent to how they're data
+    drive an dtransparent about outcomes, and what hte imact of funding is.
+    HWat worked, what didn't how can cothers pick up the lessons.
+
+    Ipmact, that's related to infra. Knowing we funded this work.
+
+    This policy was changed, this mindset became part of worldview. how do we
+    track that? We need tools for that. added deminsion that's exciting.
+
+
+Josh
+    question of "what is role of EDUs in this?"
+
+    lots of innovtion is spinning up new orgs. Simons foundations created flat
+    iron. Will see whter it's 'intramural' or not.
+
+Cat
+    Growing Data soverighnty in EU. Do oyu see those converns about digital
+    colonialsim, and the ownership of data and work, impacting your work in
+    open science.
+
+Carly
+    these are the rright convos to be having when thinking about how to mke
+    science global and bring it to all folks across the globe.
+
+    excitef or tech that allows maintaining soverighty and control, while
+    contributing.
+
+    I'm hoeful that Differential privacy for biomed research data, could be a
+    great way for people to contribute without being at risk.
+
+    we have to make sure that when we engage with groups, that we take into
+    account the culutral norms of society,a nd involve the folks on the ground
+    in that convo. It's about finding a partner in the community who can
+    explain what the goal is, and what they contribute, and how they give
+    back.
+
+    Expanidng our own netowrks, we're in danger of talking to same 10 peopel
+    over and over, but also, the tech helping with privacy and soverighnty.
+
+Josh
+    +1, and
+
+    I worry about using the smae framework for Open for diff goods.
+
+    Data, is thorny. It's a reflection of people who have automoy and
+    self-determiniation. 
+
+    we think 'somehting is purely public, or pruely closed.'
+
+    Club goods are interesting.
+    Ther'es governances over it, and who has access to it.
+
+    I haven't heard much about club goods, where access is based on
+    innersource. communal norms that are a tradeoff for things like biomedical
+    data.
+
+Greg
+    I think an emerging dynamic, moving away form deficit model of 'listen to
+    us, follow the lead' but moving to 'civic science' we work on challenges
+    together, working in criousity and humility. that's not the nrom, but
+    that's a positive development.
+
+Steph - Q- focused a lot on foundation side. comment on the government funding
+or other funding will impact the way foundation works? Is ther ea
+rocnvergence? Gov, but for profit too, but particualrly gov, from EU.
+
+Mod
+    impact of gov fundingo n philanthropy?
+
+Carly
+    it's an intersting quetion.
+    in CZI, we work in climate science psace. NIH is big cheese in that space.
+    it's a bit of a scapegoat, bc if NIH doesn't do X, we're not doing it, can
+    be a rpoblem.
+
+    PHilantrhopies can be a force for good, joinign forces, and putting nice
+    preessure on these more federal leveled funders who have bigger influence
+    if they got excited.
+
+Greg
+    Ihtink it's a virtuous circle. FPhinolanthorpis heave lead, showing that
+    open policies make educating reserachers in good paracite looks like. that
+    gave cover to federal gov to move beyond the holder Memo, to the Nelson
+    Memo.
+
+    PHilanthropy has brought people together across sectors
+    82 EDUs have raised hand in HELIOS, amking open the norm.
+    60 Funders engaged int his work.
+
+    when we show, we have aturnke colaition working on this, makes it less
+    daunting for federal policy to advance.
+
+Josh
+    the role of private phanlthropy is to explore possiblity spaces.
+    I worry about moving too far into corporate space iwth markets, or
+    critizques of private phanilantroy like "Winner takes all"
+
+    we made tradeooff of many htings aimming towards public good, but the role
+    is flushing out the posisble, not overly pushing in any one direction.
+
+
+SJ
+    the rest of the day is dedicate dot ocnitnuing conversations. There are 4
+    rooms dedicated to topics. We'll be talking about invisible metrics,
+    tenture/promotion/policies at EDU, talking about info overload, and forgot
+    the other one, but there will be formal discussion. Ther's a 5th room for
+    phiscaly backchannel.
+
+    we're going to do that until lunch.
+
+    had planned lunch to be on hyoru own, before we knew it was cold in here,
+    you got 90 mins. We'll come to Bryan running his 'future trends' forum,
+    doing it live from here.
+
+    then anoher breakout room, with same topics, unless you decide to change.
+
+    then we'll bus you out to RIT, more to come. Go drink something woarm.
+
+    ther's an emial with a backgchannel and mailing list.
+
+    Thank ou panelists!
+
+
+OSPO Discussion Sesh
+    
+Decause transcript
+==============
+
+Kendall: There’s OSPO++ where you can find people outside your area. Doing that kind of thing. Doing sections on collabs and groups we can work with. Code for america has a project to bring code to agencies and gov. There’s a burlington chapter. The Spatial Lab, the UVM GIS Office, and Code for Burlington. And bringing them together to bring mapping efforts in humanitarian space.
+
+You end up with a product to account for these things and see change.
+
+We do collab events, and then things to build process change. How do you make doing something open source, and science, or innovation, how do you make that seamless? The idea of open research, doing it openly? In the beginning, as you think about it, here’s a footnote. Here’s a website you can pick up and go with.
+
+I’ve been talking with coworkers about this a lot. I imagine that some of this, open collaboration, is not a separate thing, but inherent to systems. Not a second thought. Already open by default. The process changes are slow, it’s not fast to understand what is there, then it’s about finding the right sponsors. They were ‘into it’ from the go.
+
+Meeting people
+    Built a CRM to understand who everyone is
+B    built a map of all the employees in the offices, understand how they connect and work together. I work with Data Scientists who study complexity, and as we build out, I get an idea of what the schema is, and what the right analysis would be for building projects. Working “smarter not harder” and doing quarterly planning, to move projects forward.
+
+
+Steph:
+    We talked about the history of UCSC came from with OSPO. We still have CROSS (https://cross.ucsc.edu/), I wear two hats, thats where we gained much of our experience, and where we needed to move from, to an OSPO.
+
+Much of it was interacting with different groups, in OSPO++.
+
+Does everyone know  OSPO++? https://ospoplusplus.com/ 
+That group, as we talked with them, we were one of the first ones to be involved in that group ,and then we started meeting with SJ and Sayeed at JHU, and say, ‘wow, they’re already in the process!” and then thinking “this makes so much sense for activities we want to do in UCSC!”
+
+We started recognizing where our CROSS hats came off and OSPO hats came on.
+Making that distinction, since January, is what we've been up to. We had funding for CROSS already, and supporting students already. But with a separate OSPO project, we’re able to expand, and not be inhibited with one school within the University (the eng school) we can now go campus wide. Since we're 10 campuses across california, want to see how far we can go to connect the system! Something that promotes open source and open source techniques, and leveraging through the UC system.
+
+We’re finding now, that reaching out to different UCs has been relatively easy. There’s more obvious pathways for certain programs, and this year, we had a mentorship program the Open Source Research experience, to bring in more campuses. Who are looking to do multi-campus research initiative, requested through UC system, to really expand our OSPO setup on other campuses, if funded. Ultimately, something that UC could do, that we see in Industry.
+There needs to be an OSPO in the Office of President, or in individual offices.
+
+What really makes the most sense. What we do day to day, is supporting our incubator fellows. Post-docs, who have existing OSS projects, based on PhD dissertations typically, and building communities. They’re also the ambassadors for OSS on campus too. They bring in students, they bring in research, and recognize throughout UCSC and beyond, brining more attention to the research. Promoting open sonic techniques and technologies. And ultimately teaching.
+
+Teaching is really effective for us. Having more programming courses, both in CS, our main audience, but also in other Eng and Beyond.
+
+We’re doing a symposium, which will be hybrid in person/remote. It’s only 2 weeks from now! Sept 27th, it’ll be available online, if you can make it, lemme know. We’ll have Oktoberfest on the first day, based on Dir’s former lab. We’re excited to have that back again after the past 2 years.
+
+The content, not just the beverages, will be similar to yesterday/first day. Plenary, talking about general issues, talking about DEI, and Demetrious Cheatum (sp) from GitHub, and a panel similar panel taking to next step, academic OSPOs, SJ will be talking on that one too.
+
+2nd day, we’ll look at the projects that we’re supporting. Some are supported by CROSS, the OG center we started. Some are part of the Incubator project. Will go more in depth to research at UCSC and other UCs. 
+
+That’s a great highlight. I’ll try and host slides or something.
+
+Kendall: 
+ The world of open source is intimidating and there are barriers to contributing. Imposter syndrome is real. 
+How can we break the psychological barriers to contribution and fight imposter syndrome.
+
+
+Sloan
+    Let’s hear from other OSPO
+
+Dan, SLU
+    We just launched OSSLU, in July. (https://www.bizjournals.com/stlouis/inno/stories/profiles/2022/05/02/slu-sloan-grant-software-center.html) 
+    Settled with branding identity, Open Source With SLU. With is important, its about working together with the community. And the nature of FOSS at Jesuit EDU. The program we started with, is a restructuring of the Capstone Course. It was a hodgepodge of undergrad software, and sporadically checking in with faculty, who couldn’t always check in.
+
+Into something more structured, over a year, to get a real-world experience, supporting software that is open source in research. Broadly defined research. We’ve taken on 10 projects, and they range from language acquisition research to pronounce foreighn (sometime native) language, to CRUD applications for Labwork. Softwares that had been developed 20 years ago, copied machine to machine, nobody knows how it’s built. Front-ends for R/MatLab, where researchers just want to put their data in, and get results. WE have drone swarm flight systems. ML analysis of network analysis protocols. That’s the foundation we started with. 
+
+One of the things we’re doing, its trying to learn from other folks to see what we can do to learn well. We’re just starting off.
+
+Some things that have legs, we have LauchCode (https://www.launchcode.org/), a bootcamp geared towards non-traditional backgrounds. Underrepped, Women/BIPOC are target communities, and non-college folks. Enabling them to in 6 months go get a job. They’re focused on workforce development, and tha’t’s great, and we see opportunities for feeder programs. Students, after get a job, go get a degree, or to refine skills for our students, using frameworks.
+
+Or feeding english students, doing documentation, into a program where they can figure out what to do with english degree for work.
+
+I noticed, day 1, we’re centered out of CS dept. That matches my industry exp, but it’s still cross-functional. We only have SWEs at this time. So, I started reaching out to art dept, and getting designers into the team. Amy Bautz put together a minor in UX design, based on ‘I don’t know about design, but here’s some people I know, and what I know, and lets see what it would look like.” That curriculum came together quickly, and we’re shopping it around.
+
+We’re just getting started, trying to fit into the ecosystem.
+
+Remy: 
+    2009 - 2015 helped out at RIT before OSPOs were called OSPOs. 
+Key thing: We had a game design course which is a work department requiring many skills. That gave an opportunity to assign it course numbers for Technical and “Non Technical” students to take it so that each major could enroll in the course and bring their own skills. Each student would have their own projects relevant to their skills. It was based on the NY and MA 4th grade mathematical curriculum. Engaged non-technical and technical students equally. 
+
+Partnered with a local private school to have 4th graders playtest the games for critique. 
+Gave more opportunities for non-coders and documentation workers to get their hands into the system. 
+
+Dan, SLU
+    Came back to academia from industry, come from a “possibilitarian” attitude. 
+\\
+
+
+
+
+Talking about bureaucratic of selling interollegitate program instead of ‘no, I don’t get credit.’
+
+Eriol
+    I’m doing 3 things, the question about making it not so intimidating.
+    Wanna talk first about a project that Ieft, it was funded by Adobe, but funded an open design work. They came with their money, they weren't’ into OSS, but they were into Humanitarian. The secret sauce, was the repo. You  can see the methodology of engaging designers in humanitarian work. Designers may not have experience with open source. “You wanna work on OSS?” “What?” “You wanna work on humanitarian project” “Yes!”
+
+Similar to the UX curriculum built by SLU, pushing into versioning,a nand we strialed at different conferences, and the end was ‘uploading to a github issue.’
+
+    The other thing that was interesting for barriers, for OS design, most of my time is mentoring designers in open source aspects. They’ve got people who are designers that don’t get design, and open source people who don’t get design. There are few people with knowledge of both. We’re encouraging to build up that formal mentorship. Putting together money to fund that. Not just funding a designer, like Outreachy or GSOC, but getting a dev and a designer to work together.
+
+Remy
+    Has a good response for barriers 
+Marie Nordin worked on fedora badges. Modeling is one of the best way to bring down barriers to entry. You could get badges for accomplishing tasks. Then they introduced badging trees, so that you would have pathways to figure out how to become a specific type of contributor. It’s easier when you have a large long standing community. But still modeling and giving people the steps to meta understand the community is important. 
+
+Eriol
+    Onboarding was still difficult without having a “hello I am the lead” call. 
+People who want to contribute to OS to grow a portfolio think they need a senior or mentor. (they don’t but they think they do) 
+OS doesn’t have the capacity for that. 
+
+
+
+
+
+
+Dan, SLU
+    OSS with strong personality maintainers can be off putting. How do we onboard people into safe spaces with direct contact, and expectations for where they come from.
+
+    The scalability to have senior folks do that, is hard.
+
+    I had an opportunity to work with an engineering educational org. Leverage students to do research, and do the work. They learn stuff by teaching too. 
+
+
+Ruth
+    My answer, other direction, teaching maintainers that people doing non-code are worth it.
+
+
+Eriol
+    I’ve been fixated, what institute, if any, could have the academic design OSPO. I dunno if it’s viable for design in Open Source? Whether it’s a consortium of best designers? Helping with mentorship? Where would that sit? What would it look like? Who could take that forward?
+
+Steph
+    We've talked about the interactions between ospos, we’re all just forming, and things are not set in stone. I like the idea of a consortium focused on particular roles. I don’t anticipate our ospo having that kind of role, but having that support system for knowing where to go. We could be like a ‘connection’ point for those relating to the UC system, or outside, we can help connect stakeholders.
+
+    My first impression, would be, to have design community to create this, and look for the OSPOs or others within academia to connect ot ht either people.
+
+Remy
+    Let’s go back to identifying healthy communities
+
+Remy
+    Let’s go back to identifying healthy communities
+One of the assigments we had students do in HFOSS was community architecture. Analysin g the health of the repo based on a few key factors. Asking these fundamental questions about the health of the community is fundamental to the students who want to go into open source. They get to learn from the mistakes of others. Is this healthy? Is this unhealthy? Looking for the least committers, the most committers in the repo. So they don’t need experts to tell them where the health of their own communities lie. Getting a gut since for that. 
+    Your question about the design commiunity (eriol) 
+
+Ruth: 
+    Open Studio, it’s cross functional no matter where you work in red hat for the intersection of open source and design. A team within open studio called open source and creative advocacy. They also have an Open Education group. https://www.redhat.com/en/about/open-studio 
+
+
+
+
+Eriol 
+Happy to talk to people, but we don’t have enough people DOING. There are probably a lot of people contributing to the standard, but what support can be given to US to have the power to set that standard?
+
+Kendall
+    I look at UVM that doesn’t have a strong design program, I work with professors to try to strengthen the OSPO connection to design. I need to follow that thread at Red Hat’s design program so I can bring that strength into UVM’s OSPO. I’ve worked at projects that failed due to poor UX, having that knowledge, I understand how strong it can be. 
+
+Dan
+    There’s so many places to dive deeper. I was in the info overload session.
+
+Steph
+    We’re talking about standards, and I wonder, and Silona and IEEE are working on different roles. It wouldn’t have to be ‘recreated’
+
+Eriol
+    It can feell oroborousy. We need more resources for this 
+Remy
+Google summer of code is all about writing code and the lack of support historically lead to the Google Season of Docs to help create more technical writers. Perhaps a google season of design would lead to more mentorship within the community. Leading to more resources for real work. 
+
+Steph
+Funding from google is difficult as a public university. We would do something like that from our OSRE. Hoping to get more from other sponsors.  
+
+
+We’ve been cobbling together one big support system, then sponsors interested in other things come along. We have some design-ish work in OSRE too.
+
+Django
+    Design-open source educational materials would be better. 
+    There’s a Google Course, costs $30/month, for 6 months.
+    There’s a big fiscal barrier to enter the design world at all. Feels a bit like that was on purpose.
+
+Dan
+    There’s so much, I can’t do anymore. That’s a place I’m finding myself recently. I’ve been a ‘work-life harmony’ person. I’m energized by work I do. But there are limits. That personal reflection has become important. Where do I want to focus my energy? Where are force multipliers in my network that can take ideas an help manifest? I don’t have to touch everything.
+
+    That’s the power of “With” too, with shared ownership.
+
+
+    Finding the people who say “I wish this was here 5 years ago!” even if tey don’t totally get it, finding the people who are more willing, they might be the ones that let you step away and balance.
+
+Kendall
+    To split concept, and pilot, and come back together with the different pieces.
+    Doing the ‘summer of design’ concept, splitting, and building the packet of what needs to be done, and how we share work. The 
+
+Sloan
+    When Josh andI did internal pitch to fund OSPOs. Testing supporting half-a-dozen students at this school scale. They write playbooks, that get adopted at other schools.
+
+    What you’re suggesting kindall is even more ambitious. What you’re suggesting is great!
+
+    There’s the extra layer of work.
+
+    It’s not out of the realm of possibility. OSPO++ is a new grant, and they use that pilot to explore opportunities. They are fiscally sponsored by Open Collective. They have a financial mechanism to do resource distribution and to orgs. That’s more grassroots that other pieces.
+
+Eriol
+    On opportunities in academia, hearing what everyone is staying, there are students/researcher that produce open projects. One of the challenges of doing detached from academia, is convincing the projects to receive design. That’s hard. I see an opportunities, cause the students are doing more ‘exploratory’ or ‘greenfield’ stuff, starting from a different place?
+
+Dan
+    We do have greenfield projects, building a sustained portfolio. That’s just one model of how students engage. For me, that particular model is just one part of what we do. Engaging with the entire EDU community, onboarding anyone who is interested in participating in an OSS projects. In the things coming up in 6 months, my field of vision, doing from diverse perspectives, is super viable.
+
+    Your ‘portfolio’ approach to things is powerful. Engaging with the assoc of JEsuit colleges and EDUs, to propagate what we do at other EDUs. We’re the first to have it, but we want to have it spread. Jesuit EDUs tend to be similar, but they are diverse. Here’s a menu of things to try, what fits in your dynamic, your staffing, whatever you have to play with, it becomes valuable. They can say what they think works. They may not have robust CS, but a great ethics program, and want to do that.
+
+Remy
+    The ospo model, at osas, red hat, there were some community leaders that were allocated to one project. Communitiesi with hundred or thousands of people 
+Then there were also people hwo did one function for more projects. OSPOS can have one resource for everyone, ie a dedicated designer that works with many projects. OSPOS are a support, ticketing system, for OS projects. If there were more design resources within OSPOS it would be great. Mo at red hat was FANTASTIC. That competency within OSPOS would be a great track. UX would be great. Playbook.cio.gov, discussing design methodology within a govt culture. We are in a perfect storm moment, take design sensibility, put it into the ospo model, announce it and there will liekly be acceptance. 
+
+
